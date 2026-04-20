@@ -1,26 +1,33 @@
 ## Honorifics & Address — Japanese Register + Per-Character Usage
 
-**This module owns the address-register rule for the crew.** Other files point here; do not restate the rule there.
+**This module owns the address-register rule AND the Captain-vs-name rule for the crew.** Other files point here; do not restate elsewhere.
 
 ---
 
-## THE CAPTAIN-VS-NAME RULE (canonical)
+## THE CAPTAIN-VS-NAME RULE (canonical — lives here, nowhere else)
 
 The crew calls Merdo **"Merdo"** by name. **"Captain"** is a register-shift — it marks a hierarchy moment, danger arriving, formal register, or someone intentionally placing distance. If "Captain" becomes any crewmember's default mode of address, the voice is wrong.
+
+**Deployment logic (when does the register shift happen):**
+- Crisis arrival (a threat lands, orders need to be crisp) → "Captain" becomes correct
+- Public / outsiders present → "Captain" as face-register (Sable's CP reflex in particular)
+- Sarcasm or mock-deference → "Captain-sama" (Melaina, Sable)
+- Hero-worship register (Sumi on arrival) → "CAPTAIN!" exclusively until earned down
+- Ceremonial moments (flag raising, covenant, new-member swearing) → "Captain"
+- Intimate / undone / emotional peak → drops to bare "Merdo" — the drop IS the beat
 
 Applies to every core crewmember. The per-character in-play register is below.
 
 ---
 
-## The honorifics catalog (One Piece canon usage)
+## Honorifics catalog (One Piece canon usage)
 
 | Honorific | Meaning | Register | Canon anchor |
 |---|---|---|---|
-| **-san** | Polite. Neutral respect. | Everyday / professional | Robin: "Navigator-san." |
+| **-san** | Polite, neutral respect | Everyday / professional | Robin: "Navigator-san." |
 | **-kun** | Familiar, often junior males | Warm, not equal | Garp → "Coby-kun." |
 | **-chan** | Affectionate, cute, close | Soft / teasing | Hancock: "Chopper-chan." |
 | **-sama** | Lord / lady, reverent | Hierarchical, often worshipful or sardonic | "Hancock-sama." |
-| **-senpai** | Senior, mentor | Rare in One Piece | — |
 | **-sensei** | Teacher, master of craft | Respectful-professional | "Kureha-sensei." |
 | **-dono** | Old-style respect | Archaic / Wano | "Oden-dono." |
 | **-taichou / -senchou** | Captain | Military / crew | Marines say "taichou." |
@@ -35,11 +42,11 @@ Applies to every core crewmember. The per-character in-play register is below.
 
 - **Ashren:** "Merdo." No honorific.
 - **Melaina:** "Merdo." Sometimes "MY CAPTAIN" yelled across the deck (English carries the claim, no honorific). Rarely "Captain-sama" when sarcastic.
-- **Vesper:** "Merdo" default. "Captain" only as register-shift (emergency medical orders, or when the room needs weight). Never "-san" — she's not polite.
-- **Sable:** "Merdo" default. Her CP-0 reflex WANTS to call him "Captain" (cover); in public with outsiders, the cover snaps back — "Captain" or "Captain-san." Teasing: "Merdo-kun." Genuinely undone: just "Merdo" — soft — that's the tell.
-- **Volo:** "MERDO-SENCHOU!" — loud, theatrical, half-Japanese-half-English. His verbal signature includes Japanese honorifics used slightly wrong.
-- **Sumi (if accepted):** "CAPTAIN!" exclusively, loud. Will try "Merdo-senpai" once — the audition line. If he cringes, she escalates to "CAPTAIN-SAMA" as revenge.
-- **Nox (if accepted):** "Captain" plain, always. Once per saga: "Senchou" whispered — genuine, the only time his grin stops.
+- **Vesper:** "Merdo" default. "Captain" only as register-shift (emergency medical orders, room needs weight). Never "-san" — she's not polite.
+- **Sable:** "Merdo" default. CP reflex WANTS "Captain" (cover); in public with outsiders the cover snaps — "Captain" / "Captain-san." Teasing: "Merdo-kun." Genuinely undone: just "Merdo" soft — the tell.
+- **Volo:** "MERDO-SENCHOU!" — loud, theatrical, half-Japanese-half-English. His signature includes honorifics used slightly wrong.
+- **Sumi (if accepted):** "CAPTAIN!" exclusively, loud. Tries "Merdo-senpai" once — the audition line. Cringe → escalates to "CAPTAIN-SAMA" as revenge.
+- **Nox (if accepted):** "Captain" plain, always. Once per saga, whispered: "Senchou" — genuine, the only time his grin stops.
 - **Kara:** "Captain." Months in, "Captain-san." A ways later — no honorific, just "Merdo." A year of trust compressed.
 - **Mako:** "CAPTAIN!" — hero worship.
 
@@ -57,11 +64,11 @@ Merdo's honorific use is minimal — pit-fighter grammar, subjects dropped, name
 
 ### CREW → CREW
 
-- Ashren → Melaina: "Melaina." Tension is precisely in the absence of honorific.
+- Ashren → Melaina: "Melaina." Tension precisely in the absence.
 - Melaina → Vesper: "Vesper" or "doctor." Never -chan.
 - Vesper → Melaina: "Melaina-san" when irritated. Medical politeness = cold.
-- Volo → anyone: "[Name]-SAN!" loud, all the time. The only crewmember who uses honorifics broadly.
-- Sable → varies by who's watching. Alone with Merdo: no honorifics. Public: "Captain-san" (cover). Combat: bare.
+- Volo → anyone: "[Name]-SAN!" loud, constantly. Only crewmember who broadly uses honorifics.
+- Sable → varies by audience. Alone with Merdo: bare. Public: "Captain-san." Combat: bare.
 - Sumi → Kara: "Kara-chan" (older-sister). Never Kara-san.
 - Nox ↔ Mako: plain, same age bracket.
 - Kara → older crew: "-san" default. Respectful newcomer.
@@ -78,36 +85,25 @@ Merdo's honorific use is minimal — pit-fighter grammar, subjects dropped, name
 
 ### CIVILIANS
 
-- Port civilians: "Captain" or "Sir" (English). Japanese bleeds in regionally — Tessara has some because of Wano-descended merchants.
+- Port civilians: "Captain" or "Sir" (English). Japanese bleeds in regionally — Tessara has some from Wano-descended merchants.
 - Kids: "Pirate! Pirate!" pointing; "MISTER PIRATE!" for attention.
 - Merchants: "friend," "captain," never real names.
 
 ---
 
-## When to DEPLOY honorifics in prose
+## DEPLOYMENT
 
-**Sparingly.** They're spice.
-
-Use at:
+**Sparingly.** Honorifics are spice. Use at:
 - Introduction moments (signals who someone is)
-- Shift moments (dropping/adding an honorific = relationship changed — THE ADDITION/REMOVAL is the beat)
-- Comedy beats (Volo using -san on a rock; Sumi's -senpai audition)
+- Shift moments — dropping/adding an honorific = relationship changed. THE ADDITION/REMOVAL is the beat.
+- Comedy (Volo using -san on a rock; Sumi's -senpai audition)
 - Ceremonial / negotiation moments
 - Wano / Fish-Man / cultural arcs (register up — -dono, -sensei, -sama common)
 
-DON'T:
-- Use on every line (numbs the reader)
-- Force on Merdo (doesn't use them — don't make him)
-- Decorate (they must do work)
+**Don't:** use on every line (numbs); force on Merdo (he doesn't use them); decorate (they must do work).
 
-## Format
+**Format:** attach Japanese-style: "Merdo-senchou" (not "Merdo senchou"), "Kara-chan", "Captain-sama" (English + Japanese blend = scam-courtesy signature).
 
-Attach in standard Japanese way: "Merdo-senchou" (not "Merdo senchou"), "Kara-chan", "Captain-sama" (English + Japanese blend = scam-courtesy signature).
+**Drift rule:** honorific usage CHANGES over time. Kara drifts from "Captain-san" to "Merdo" across arcs. The drift IS the relationship arc. Minimum three arcs before a shift, unless death/betrayal/rescue earns it faster.
 
-## Drift rule
-
-Honorific usage toward another character CHANGES over time. Kara starts with "Captain-san" and drifts to "Merdo" across arcs. The drift IS the relationship arc. Three arcs minimum before a shift, unless a death / betrayal / rescue earns it faster.
-
-## Voice beat
-
-Volo is the honorific engine — loud, wrong, constantly. He'll address a crate as "Crate-san" if he's having a moment. Everyone else uses them precisely and rarely. The CONTRAST is the texture.
+**Voice beat:** Volo is the honorific engine — loud, wrong, constantly. Addresses a crate as "Crate-san" on a bad day. Everyone else uses them precisely and rarely. The contrast is the texture.
