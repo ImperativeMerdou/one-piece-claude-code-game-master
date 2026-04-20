@@ -1,0 +1,105 @@
+# CAMPAIGN BIBLE — Merdo Pirates
+
+Runtime pointer. Loads via `dm-continue.md` Step 1. Keep lean — this is orientation, not lore.
+
+---
+
+## Identity
+
+- **Campaign:** `one-piece-adventure` (active, set in `world-state/active-campaign.txt`)
+- **Player character:** Merdo (captain of the Merdo Pirates)
+- **Current arc:** Day 11 — Tessara Port
+- **Ship:** the Golgatha (hull 100/100 post-Goroa refit)
+- **Narrator style:** `shonen-one-piece` (set in `campaign-overview.json`)
+- **Advanced mode:** implicit via `narrator_style` + `nsfw_enabled` + arc toggles
+- **NSFW:** enabled (consent-driven, player-paced; `_reference/nsfw-fanservice.md` reads on actual escalation only)
+
+## Arc toggles (from `campaign-overview.json`)
+
+- `session_mood`: EAGER
+- `setting_law`: STRICT
+- `reveal_cadence`: STANDARD
+- `failure_mode`: COSTLY
+- `world_difficulty`: NORMAL
+- `epistemic_mode`: alongside
+
+See `.claude/modules/dm-slots/_reference/arc-toggles.md` + `epistemic-mode.md` for what each does.
+
+---
+
+## Authority order (on conflict)
+
+1. **Masters** (full source of truth, not auto-loaded):
+   - `ONE PIECE RESEARCH/MERDO_SAGA_CREW_MASTER.md` — crew bible
+   - `ONE PIECE RESEARCH/MERDO_SAGA_ANTAGONISTS.md` — Tessara antagonists (auto-loaded via bible-sources.txt)
+   - `ONE PIECE RESEARCH/MERDO_SAGA_RIVALS_FUTURE.md` — Diadem Pirates / Aslan (NOT auto-loaded until post-Tessara)
+   - `ONE PIECE RESEARCH/ONE_PIECE_RESEARCH_BIBLE.md` + appearance / fight / powers / naming / episodes laws
+2. **Runtime distillations** (auto-loaded via bible-sources.txt):
+   - `CREW_RUNTIME.md` — live crew cards
+   - `ACTIVE_PLANTS.md` — hot plants for current arc
+3. **Rule modules** (auto-loaded via Python loader):
+   - 27 always-on `dm-slots/*.md` modules + `_preamble.md`
+   - Narrator style: `.claude/modules/narrator-styles/shonen-one-piece.md`
+4. **Full ledger** (MANUAL_REFERENCE, not auto-loaded):
+   - `chekhov-rack.json` — all plants
+
+On drift: masters win. Re-generate runtime files from masters; do not patch distilled-only.
+
+---
+
+## Permanent locks (do NOT violate)
+
+- **Merdo is the player.** Never narrate his actions, dialogue, choices, or internal reactions as settled fact. Always ask.
+- **Merdo is straight; women only** for romance/NSFW (per `feedback_nsfw_straight_wide_scope.md`).
+- **Dark / generic fantasy BANNED FOREVER** (per `anti-slop-master.md` LAW 23).
+- **DEEP-LOCK plants NEVER surface in player-facing text, HUD, dashboards, NPC dialogue, bounty posters, or Marine files** until their explicit reveal beat fires:
+  - rack-003 (Melaina's mother = Shanks)
+  - rack-021 (Merdo's "D.")
+  - rack-024 (Aslan is Merdo's brother)
+  - rack-027 (Callista knows Merdo from pits)
+  - rack-030 (Solei's songs — cold until post-Tessara)
+- **No Brenne.** Not in the roster. Do not introduce.
+- **Archived, do not narrate present-tense:** Darius Ravager, Ernst Rook. Departed Day 11. No cameo, no letter, no Den Den Mushi.
+
+---
+
+## Where things live
+
+| Concept | Canonical owner |
+|---|---|
+| Captain-vs-name register, honorifics | `.claude/modules/dm-slots/honorifics.md` |
+| Oda gut-check, heart-before-skill, NPC heart | `.claude/modules/dm-slots/emotion-will-heart.md` |
+| Post-combat body receipts, exhaustion tiers | `.claude/modules/dm-slots/realism-governors.md` |
+| NPC firewall, hidden-block format, sonder | `.claude/modules/dm-slots/living-world.md` |
+| Anti-slop LAWs 1–24 (body agency, filter words, density, rotation, dark-fantasy ban) | `.claude/modules/dm-slots/anti-slop-master.md` |
+| Session shape (title card, cliffhanger, NEXT TIME ON) | `.claude/modules/dm-slots/session-episode-structure.md` |
+| Tier hierarchy (6-tier) | `.claude/modules/dm-slots/rules-priority-tiers.md` |
+| Canon fidelity + lockout matrix | `.claude/modules/dm-slots/canon-fidelity-audit.md` |
+| Reward calibration (Tier 1–4, per-session rhythm) | `.claude/modules/dm-slots/reward-calibration.md` |
+| Crew voice signatures (runtime) | `CREW_RUNTIME.md` (this campaign folder) |
+| Hot plants (runtime) | `ACTIVE_PLANTS.md` (this campaign folder) |
+| Full plant ledger | `chekhov-rack.json` (this campaign folder) |
+
+---
+
+## Current live state summary
+
+- **Crew on board:** Merdo, Ashren, Melaina, Vesper, Sable, Volo, Cress (nav), Kara (protégée). Sumi + Nox arrived dock Day 11, pending acceptance.
+- **Archived this session:** Darius (ironwood contract, Tessara shipyard), Rook (sealed Marine file activated, chose long game inside apparatus).
+- **Armed external threads:**
+  - Ashren's wings publicly revealed at Ashenmaw (Day 9) → Marine filing imminent on next News Coo cycle.
+  - Tessara Cup sign-ups close sundown Day 11.
+  - Yann Merlis's acquisition pressure on Kara (fruit basket already delivered, uneaten).
+- **Hot plants (Tessara):** rack-006 (Sable/signet), rack-011 (Hoyt debt), rack-012 (Sumi/Vireen first partial), rack-014 (the Whale), rack-015 (Parseval/Allun), rack-016 (Petra says Vireen's name).
+
+---
+
+## First-session entry point
+
+If this is the campaign's first live `/dm` session after bootstrap:
+
+1. Run Step 1 of `dm-continue.md` (loads rules + bible + active arc + chekhov rack).
+2. Verify player has a `character.json` — if not, `/create-character` is disabled for this campaign per Merdo being pre-designed (see `.claude/commands/dm.md` one-shot note). Merdo's sheet will need manual creation from CREW_RUNTIME.md entry.
+3. Open scene: Golgatha at Tessara harbor, Day 11 morning. Sumi and Nox on the dock — pending acceptance is the opening beat.
+
+The first scene's Captain's Choice: does Merdo accept Sumi and Nox onto the crew? Everything downstream (rack-011 fire, rack-012 first partial, Cup sign-up, Yann's next move) branches from this.

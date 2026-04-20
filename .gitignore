@@ -30,6 +30,10 @@ world-state/campaigns/*
 world-state/campaigns/one-piece-adventure/*
 !world-state/campaigns/one-piece-adventure/campaign-overview.json
 !world-state/campaigns/one-piece-adventure/bible-sources.txt
+!world-state/campaigns/one-piece-adventure/CAMPAIGN_BIBLE.md
+!world-state/campaigns/one-piece-adventure/CREW_RUNTIME.md
+!world-state/campaigns/one-piece-adventure/ACTIVE_PLANTS.md
+!world-state/campaigns/one-piece-adventure/chekhov-rack.json
 
 # Source Material (User-provided documents for import)
 source-material/*
