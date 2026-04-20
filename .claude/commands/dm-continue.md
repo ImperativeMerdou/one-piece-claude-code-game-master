@@ -21,16 +21,129 @@
 
 ### Step 1: Load Full Context
 ```bash
+# dm-active-modules-rules.sh (full mode) already loads:
+#   - _preamble.md first
+#   - all dm-slots in alphabetical order (with module replacements applied)
+#   - module addons at the end
+# Do NOT loop over dm-slots again below — that causes double-loading (bug_002).
 bash .claude/modules/infrastructure/dm-active-modules-rules.sh 2>/dev/null > /tmp/dm-rules.md
 bash .claude/modules/infrastructure/dm-campaign-rules.sh read 2>/dev/null >> /tmp/dm-rules.md
+
+# Auto-load campaign bible if present (per-campaign DM playbook)
+ACTIVE_CAMPAIGN=$(cat world-state/active-campaign.txt 2>/dev/null)
+CAMPAIGN_DIR="world-state/campaigns/${ACTIVE_CAMPAIGN}"
+BIBLE="${CAMPAIGN_DIR}/CAMPAIGN_BIBLE.md"
+if [ -f "$BIBLE" ]; then
+  echo -e "\n\n=== CAMPAIGN BIBLE ===\n" >> /tmp/dm-rules.md
+  cat "$BIBLE" >> /tmp/dm-rules.md
+fi
+
+# Auto-load active narrator style from campaign-overview.json
+NARRATOR_STYLE=$(jq -r '.narrator_style // empty' "${CAMPAIGN_DIR}/campaign-overview.json" 2>/dev/null)
+if [ -n "$NARRATOR_STYLE" ] && [ -f ".claude/modules/narrator-styles/${NARRATOR_STYLE}.md" ]; then
+  echo -e "\n\n=== ACTIVE NARRATOR STYLE: ${NARRATOR_STYLE} ===\n" >> /tmp/dm-rules.md
+  cat ".claude/modules/narrator-styles/${NARRATOR_STYLE}.md" >> /tmp/dm-rules.md
+fi
+
+# NOTE: disabled_dm_slots feature removed from this bash path to fix bug_002
+# (the Python loader in dm-active-modules-rules.sh owns slot loading; its output
+# was being duplicated by a bash for-loop here, wasting ~150K tokens per session).
+# If per-campaign slot disabling is needed, add it to dm-active-modules-rules.sh
+# at the Python layer so there's a single source of truth.
+
+# NSFW switch (if enabled in campaign-overview.json, surface explicitly)
+NSFW_ON=$(jq -r '.nsfw_enabled // false' "${CAMPAIGN_DIR}/campaign-overview.json" 2>/dev/null)
+if [ "$NSFW_ON" = "true" ]; then
+  echo -e "\n\n=== NSFW SWITCH: ON ===\nThis campaign has explicit user opt-in for adult content. See dm-slots/nsfw-fanservice.md for the full register. Player drives consent and pacing — never force." >> /tmp/dm-rules.md
+fi
+
+# Active arc surfacing (from campaign-overview.json)
+# Note: jq's tojson produces a string with literal backslash-escapes (\n, \\, \") for
+# JSON-string contents. Using `echo -e` would RE-interpret those escapes, corrupting
+# multi-line goals and Windows paths (bug_005). Use printf '%s' and separate the header.
+ACTIVE_ARC=$(jq -r '.active_arc // empty | tojson' "${CAMPAIGN_DIR}/campaign-overview.json" 2>/dev/null)
+if [ -n "$ACTIVE_ARC" ] && [ "$ACTIVE_ARC" != "null" ]; then
+  echo "" >> /tmp/dm-rules.md
+  echo "=== ACTIVE ARC ===" >> /tmp/dm-rules.md
+  printf '%s\n' "$ACTIVE_ARC" >> /tmp/dm-rules.md
+fi
+
+# Per-session opening hook (overrides standard scene-open if present)
+NEXT_HOOK="${CAMPAIGN_DIR}/NEXT_SESSION_HOOK.md"
+if [ -f "$NEXT_HOOK" ]; then
+  echo -e "\n\n=== NEXT SESSION HOOK (use as opening scene seed) ===\n" >> /tmp/dm-rules.md
+  cat "$NEXT_HOOK" >> /tmp/dm-rules.md
+fi
+
+# Chekhov gun rack — load the saga's planted threads
+CHEKHOV="${CAMPAIGN_DIR}/chekhov-rack.json"
+if [ -f "$CHEKHOV" ]; then
+  echo -e "\n\n=== CHEKHOV GUN RACK (planted threads — DM tracks fire pressure, fires when due) ===\n" >> /tmp/dm-rules.md
+  cat "$CHEKHOV" >> /tmp/dm-rules.md
+fi
+
+# Saga map — saga-level compass + Emperor-ascension roadmap + divergence log
+SAGA_MAP="${CAMPAIGN_DIR}/SAGA_MAP.md"
+if [ -f "$SAGA_MAP" ]; then
+  echo -e "\n\n=== SAGA MAP (saga structure + Emperor endgame + canon-divergence log) ===\n" >> /tmp/dm-rules.md
+  cat "$SAGA_MAP" >> /tmp/dm-rules.md
+fi
+
+# Saga antagonists — rival + villain + drama roster per saga
+SAGA_ANT="${CAMPAIGN_DIR}/SAGA_ANTAGONISTS.md"
+if [ -f "$SAGA_ANT" ]; then
+  echo -e "\n\n=== SAGA ANTAGONISTS (rivals + villains + per-saga roster) ===\n" >> /tmp/dm-rules.md
+  cat "$SAGA_ANT" >> /tmp/dm-rules.md
+fi
+
+# Drama threads — cross-saga narrative arcs + branch points
+DRAMA="${CAMPAIGN_DIR}/DRAMA_THREADS.md"
+if [ -f "$DRAMA" ]; then
+  echo -e "\n\n=== DRAMA THREADS (cross-saga arcs + 7 branch points) ===\n" >> /tmp/dm-rules.md
+  cat "$DRAMA" >> /tmp/dm-rules.md
+fi
+
+# NOTE: ENDGAME_YONKO.md and OST_LIBRARY.md are CONSULT-ON-DEMAND, not auto-loaded.
+# ENDGAME_YONKO holds Saga 10 spoilers — do NOT surface before Saga 8.
+# OST_LIBRARY is reference; DM reads it when picking a specific OST cue.
+
+# Arc toggles — surface the active mood/law/cadence/failure/difficulty/epistemic settings
+# Note: jq's `// "DEFAULT"` only substitutes for null/missing FIELDS inside valid JSON;
+# if the file itself is missing, jq fails silently and the var becomes empty.
+# Apply bash-level defaults after each read so defaults fire in both cases (bug_003 fix).
+if [ -f "${CAMPAIGN_DIR}/campaign-overview.json" ]; then
+  SESSION_MOOD=$(jq -r '.session_mood // "EAGER"' "${CAMPAIGN_DIR}/campaign-overview.json" 2>/dev/null)
+  SETTING_LAW=$(jq -r '.setting_law // "STRICT"' "${CAMPAIGN_DIR}/campaign-overview.json" 2>/dev/null)
+  REVEAL_CADENCE=$(jq -r '.reveal_cadence // "STANDARD"' "${CAMPAIGN_DIR}/campaign-overview.json" 2>/dev/null)
+  FAILURE_MODE=$(jq -r '.failure_mode // "COSTLY"' "${CAMPAIGN_DIR}/campaign-overview.json" 2>/dev/null)
+  WORLD_DIFFICULTY=$(jq -r '.world_difficulty // "NORMAL"' "${CAMPAIGN_DIR}/campaign-overview.json" 2>/dev/null)
+  EPISTEMIC_MODE=$(jq -r '.epistemic_mode // "alongside"' "${CAMPAIGN_DIR}/campaign-overview.json" 2>/dev/null)
+fi
+: ${SESSION_MOOD:=EAGER}
+: ${SETTING_LAW:=STRICT}
+: ${REVEAL_CADENCE:=STANDARD}
+: ${FAILURE_MODE:=COSTLY}
+: ${WORLD_DIFFICULTY:=NORMAL}
+: ${EPISTEMIC_MODE:=alongside}
+echo -e "\n\n=== ACTIVE ARC TOGGLES ===" >> /tmp/dm-rules.md
+echo "session_mood: ${SESSION_MOOD}" >> /tmp/dm-rules.md
+echo "setting_law: ${SETTING_LAW}" >> /tmp/dm-rules.md
+echo "reveal_cadence: ${REVEAL_CADENCE}" >> /tmp/dm-rules.md
+echo "failure_mode: ${FAILURE_MODE}" >> /tmp/dm-rules.md
+echo "world_difficulty: ${WORLD_DIFFICULTY}" >> /tmp/dm-rules.md
+echo "epistemic_mode: ${EPISTEMIC_MODE}" >> /tmp/dm-rules.md
+echo "(See dm-slots/arc-toggles.md and dm-slots/epistemic-mode.md for what each does.)" >> /tmp/dm-rules.md
+
 bash tools/dm-session.sh start
 bash tools/dm-session.sh context
 ```
 Then use the **Read tool** to read `/tmp/dm-rules.md` — this ensures the FULL rules are loaded (Bash output gets truncated, Read does not).
 
-Read and internalize ALL of it: DM rules, character stats, party, pending consequences, campaign rules, location, time.
+Read and internalize ALL of it: DM rules, character rules, **campaign bible** (voice signatures, anti-slop checklist, author truths, arc skeleton), **active narrator style** (style voice + anti-rules + named-attack format + etc.), **all dm-slot modules** (see `rules-priority-tiers.md` for the 6-tier hierarchy — Tier 1 mandatory-always, Tier 2 most scenes, Tier 3 structural-when-triggered, Tier 4 flourishes, Tier 5 reference-when-needed, Tier 6 player-invoked), character stats, party, pending consequences, location, time, and **active arc** (the current goal + clock + antagonists).
 
-**⚠️ Campaign Rules:** The `campaign-rules.md` is appended above — enforce ALL campaign-specific rules (stat formulas, tech bonuses, population structure, era mechanics) throughout the session.
+**⚠️ Campaign Rules:** The `campaign-rules.md`, `CAMPAIGN_BIBLE.md`, narrator-style file, and all dm-slot modules are appended above — enforce ALL of them throughout the session. The narrator style is the master tonal voice for this campaign; the dm-slot modules are the structural devices to deploy.
+
+**⚠️ NSFW Switch:** If active per `campaign-overview.json.nsfw_enabled`, the player has opted in to adult content. See `nsfw-fanservice.md` for register and tier system. Always pause for player direction at intimate scene choice points — never decide for the player.
 
 ### Step 2: Verify Location
 ```bash

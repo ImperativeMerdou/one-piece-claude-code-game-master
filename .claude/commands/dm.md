@@ -130,15 +130,17 @@ What's your choice?
 ```
 
 If QUICK BUILD:
-- Spawn `create-character` with pre-gen templates
+- Invoke `/create-character` command with pre-gen templates
 - Standard array stats (15, 14, 13, 12, 10, 8)
 - Basic equipment package
 - Generic backstory ("wandering adventurer")
 
 If CUSTOM BUILD:
-- Spawn `create-character` agent normally
+- Invoke `/create-character` command normally
 - Skip extensive backstory questions
 - Focus on core mechanics only
+
+*(Note: the `create-character` specialist agent has been disabled for One Piece campaigns in favor of campaign-specific character design per `CAMPAIGN_BIBLE.md`. The `/create-character` slash command remains available for D&D-native campaigns.)*
 
 ### 3. Temporary World State
 Create minimal world state:
