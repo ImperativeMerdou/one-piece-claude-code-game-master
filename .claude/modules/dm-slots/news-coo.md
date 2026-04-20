@@ -79,7 +79,7 @@ For high-impact moments, format the bounty poster itself separately:
         │ │                                      │ │
         │ └──────────────────────────────────────┘ │
         │                                          │
-        │      MERDOU [epithet TBD by play]        │
+        │      MERDO [epithet TBD by play]        │
         │                                          │
         │            ฿  [bounty earned, not invented]│
         │                                          │

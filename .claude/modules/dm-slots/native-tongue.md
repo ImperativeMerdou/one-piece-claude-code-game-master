@@ -100,7 +100,7 @@ Nox carries the slang of his old gang — Worst Route bandit-cant. Specific word
 
 Plain English in his interior. The repetition IS the slang. The gang said it three times to commit. Nox still does it.
 
-### MERDOU — Pit Cant + Giant-blood Tongue
+### MERDO — Pit Cant + Giant-blood Tongue
 Merdo is half-blood Elbaf descendant. Old Elbaf language fragments survive in his head from childhood (his great-grandfather's stories). Pit cant from seven years of slavery overlays it. The two languages mixed.
 
 ```

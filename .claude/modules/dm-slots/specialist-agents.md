@@ -15,7 +15,7 @@
 
 ## D&D-specialist agents — DISABLED for this campaign
 
-The original DM system shipped with 7 D&D-flavored specialist agents. They've been moved to `.claude/agents/_disabled-dnd/` for this One Piece campaign because the Merdou Pirates saga doesn't use D&D 5e mechanics as player-facing fiction:
+The original DM system shipped with 7 D&D-flavored specialist agents. They've been moved to `.claude/agents/_disabled-dnd/` for this One Piece campaign because the Merdo Pirates saga doesn't use D&D 5e mechanics as player-facing fiction:
 
 - ~~`monster-manual`~~ — D&D 5e API monster stats. Replaced by the shonen combat stack: `spatial-violence.md` + `martial-epic-beats.md` + `named-attacks.md` + `emotion-will-heart.md` + `legendary-fights.md` + `villain-kit.md`.
 - ~~`spell-caster`~~ — D&D 5e spells. Not applicable; One Piece has Devil Fruits + Haki + Rokushiki + Fish-Man Karate instead (see `one_piece_power_law.md` memory + `named-attacks.md`).

@@ -27,7 +27,7 @@ A short collapsible cut at the end of the response. The "actors" are the charact
   🎬 BACKSTAGE — after the Tessara final
 ─────────────────────────────────────────────────────────────
 
-  MERDOU (the actor, mopping fake blood off his chest):
+  MERDO (the actor, mopping fake blood off his chest):
     "That last beat? When the leash dropped? I IMPROVISED that
     half-step. Director loved it. Hudore actor loved it. We're
     keeping it."
@@ -63,7 +63,7 @@ A short collapsible cut at the end of the response. The "actors" are the charact
 ## Mood per character
 
 When choosing actor lines, match the actor's tone to the moment:
-- **MERDOU actor:** dry, pleased with the work, occasionally surprised by the writing
+- **MERDO actor:** dry, pleased with the work, occasionally surprised by the writing
 - **ASHREN actor:** quiet, reflective, smiles small
 - **MELAINA actor:** loud as her character but kinder; cracks up at her own outbursts
 - **VESPER actor:** apologetic about the bites ("they're rubber teeth!")
@@ -92,7 +92,7 @@ At session end, occasionally the entire cast wraps the day. Quick fun beat, 3-5 
 ═════════════════════════════════════════════════════════════
   🎬 THAT'S A WRAP — Day 11
 
-  MERDOU (actor): "Good day. Good crew. See you tomorrow."
+  MERDO (actor): "Good day. Good crew. See you tomorrow."
   SUMI (actor, still wired): "DID I DO GOOD???"
   ASHREN (actor): "...Yes."
   (cast laughter)

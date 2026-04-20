@@ -140,7 +140,7 @@ Use for: BIG emotional moments, finishers, surprise reveals. The "watching with 
 
 ```
 ═════════════════════════════════════════════════════════════
-  📺 [YouTube] "MERDOU EP. 47 REACTION! - WORST GEN NEVER
+  📺 [YouTube] "MERDO EP. 47 REACTION! - WORST GEN NEVER
               MISSES" · TheGrandLineRecap · 234k views
 ─────────────────────────────────────────────────────────────
 
@@ -173,7 +173,7 @@ Use for: real-time event reactions, the "watch party" energy. Best for big singl
 
 ```
 ═════════════════════════════════════════════════════════════
-  💬 #ep-47-spoilers · MERDOU PIRATES OFFICIAL DISCORD
+  💬 #ep-47-spoilers · MERDO PIRATES OFFICIAL DISCORD
 ─────────────────────────────────────────────────────────────
 
   bog_the_navigator         today at 9:47 PM
@@ -300,7 +300,7 @@ Use for: post-fight bounty updates, when the world reranks. Pair with a News Coo
 
       S TIER  - Luffy (Crocodile diff), Kid (raw stats)
       A TIER  - Law (intel), Hawkins (utility),
-                MERDOU (just cracked a Commodore's Armament)
+                MERDO (just cracked a Commodore's Armament)
       B TIER  - Bonney, Apoo, Drake, Killer
       C TIER  - Bege (no shade his fruit just doesn't scale yet)
       ?? TIER - the bear guy on Hawkins' crew
@@ -380,7 +380,7 @@ Use for: episode-level reactions, the "I just finished this and I need to talk a
 
 ```
 ═════════════════════════════════════════════════════════════
-  🎬 Crunchyroll · MERDOU PIRATES Ep. 47 · ⭐ 4.9 (78k ratings)
+  🎬 Crunchyroll · MERDO PIRATES Ep. 47 · ⭐ 4.9 (78k ratings)
 ─────────────────────────────────────────────────────────────
 
   Comments (12,847)
@@ -405,7 +405,7 @@ Use for: episode-level reactions, the "I just finished this and I need to talk a
   │   ▲ 4,102
   │
   └─ The_Real_Sumi · 30m
-      MERDOU PROTECTED HER. didn't even hesitate.
+      MERDO PROTECTED HER. didn't even hesitate.
       put himself between her and Yann's escort.
       I'm just. I'm just gonna sit here and process.
       ▲ 11,584

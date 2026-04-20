@@ -62,7 +62,7 @@ The political/military landscape of the One Piece world at Merdo's current posit
 1. **Dracule Mihawk** — World's Greatest Swordsman. Solo. Kuraigana.
 2. **Bartholomew Kuma** — Revolutionary Army secret double-agent. Already being cyberized.
 3. **Boa Hancock** — Amazon Lily. Pirate Empress. Slaughters approaching Marines.
-4. **Donquixote Doflamingo** — Dressrosa. Recently installed as king. **HAS EYES ON MERDOU VIA YANN MERLIS** (current arc).
+4. **Donquixote Doflamingo** — Dressrosa. Recently installed as king. **HAS EYES ON MERDO VIA YANN MERLIS** (current arc).
 5. **Gecko Moria** — Thriller Bark. Zombie army. ~10 months until Straw Hats encounter.
 6. **Sir Crocodile** — REMOVED (Impel Down post-Alabasta).
 7. **Jinbei** — Fish-Man, former Sun Pirates. Still Warlord but sympathetic.

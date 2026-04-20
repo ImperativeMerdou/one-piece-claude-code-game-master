@@ -20,9 +20,16 @@ eggs/
 .pnpm-store/
 
 # Campaign Data (Personal/Runtime)
+# Default: ignore everything under world-state/ — live session state is private.
+# Exception: the minimal bootstrap files for the Merdo saga travel with the
+# repo so a fresh clone is immediately runnable. Live state (session-log.md,
+# consequences/, NPC state, etc.) stays local-only.
 world-state/campaigns/*
 !world-state/campaigns/.gitkeep
-world-state/active-campaign.txt
+!world-state/campaigns/one-piece-adventure/
+world-state/campaigns/one-piece-adventure/*
+!world-state/campaigns/one-piece-adventure/campaign-overview.json
+!world-state/campaigns/one-piece-adventure/bible-sources.txt
 
 # Source Material (User-provided documents for import)
 source-material/*

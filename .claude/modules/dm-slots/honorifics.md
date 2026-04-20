@@ -23,19 +23,22 @@
 
 ## Per-character address patterns
 
-### THE CREW → MERDOU
+### THE CREW → MERDO
+
+**CORE RULE (from `MERDO_SAGA_CREW_MASTER.md` CORE OPERATIONAL RULE 2):** the crew calls him "Merdo" by NAME. "Captain" is a register-shift — it marks a hierarchy-matters moment, danger arriving, a formal register, or someone placing intentional distance. If "Captain" becomes the default mode of address for any core crew member, the voice is wrong. This applies to every core crew member. Below is the in-play register for each.
+
 - **Ashren:** "Merdo." No honorific. His minimalism doesn't reach for softeners.
 - **Melaina:** "Merdo." Sometimes "MY CAPTAIN" yelled across the deck — no Japanese honorific, the English word carries the claim. Rarely "Captain-sama" when sarcastic.
-- **Vesper:** "Merdo" in medical mode. "Captain" when giving orders. Never "-san" — she's not polite.
-- **Sable:** "Captain" most often. Drops to "Merdo-kun" when teasing and the CP-0 mask slips. ONCE in a while, when genuinely undone, just "Merdo" — soft — and that's the tell.
-- **Volo:** "MERDOU-SENCHOU!" loud, theatrical, half-Japanese-honorific half-English. His verbal signature includes Japanese honorifics used slightly wrong — part of the joke.
+- **Vesper:** "Merdo" default. "Captain" only as register-shift — giving emergency medical orders mid-crisis, or when the room needs the weight. Never "-san" — she's not polite.
+- **Sable:** "Merdo" default — her CP-0 reflex WANTS to call him "Captain" (operational cover), and in public with outsiders watching, the cover snaps back: "Captain" or "Captain-san." Teasing: "Merdo-kun." Genuinely undone: just "Merdo" — soft — and that's the tell. "Captain" is a register-shift marker, not her default.
+- **Volo:** "MERDO-SENCHOU!" loud, theatrical, half-Japanese-honorific half-English. His verbal signature includes Japanese honorifics used slightly wrong — part of the joke.
 - **Sumi (if accepted):** "CAPTAIN!" exclusively, loud. Will try "Merdo-senpai" once — it's the audition line. If he accepts it, she uses it. If he cringes, she escalates to "CAPTAIN-SAMA" instead as revenge.
 - **Nox (if accepted):** "Captain" plain, always. Once per saga: "Senchou" whispered — genuine, not ironic, the only time his grin stops.
 - **Kara:** "Captain." Then quietly, months in, "Captain-san." Then a ways later — no honorific, just "Merdo." That's the progression. A year of trust compressed.
 - **Brenne:** "Cap'n." Sailor contraction. Never full "Captain." The clipped form is his respect.
 - **Mako:** "CAPTAIN!" like Sumi but younger. Hero worship.
 
-### MERDOU → THE CREW
+### MERDO → THE CREW
 Merdo's own use of honorifics is MINIMAL — pit fighter's grammar, subjects dropped, names bare. He might:
 - Call Ashren "Ashren" always. Once, in a peak moment, "Commander." Never -san.
 - Call Vesper "Doc" or "Vesper." Never -sensei (too polite for pit-cant).

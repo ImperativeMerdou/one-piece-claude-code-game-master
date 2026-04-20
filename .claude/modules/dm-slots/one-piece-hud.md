@@ -1,6 +1,6 @@
 ## One Piece HUD / Output Format Override
 
-For the One Piece campaign, REPLACE the standard D&D dashboard from `output-format.md` with this layout. Bounty is the headline status. Berries (฿) instead of GP. Haki tracker instead of spell slots. "What's your move, Captain?" instead of bracket options.
+For the One Piece campaign, REPLACE the standard D&D dashboard from `output-format.md` with this layout. Bounty is the headline status. Berries (฿) instead of GP. Haki tracker instead of spell slots. No boxed prompt-line footer — the scene ends on its natural beat (per `narration.md` + `length-governor.md`).
 
 This module overrides the standard scene template when the active campaign is One Piece.
 
@@ -9,10 +9,10 @@ This module overrides the standard scene template when the active campaign is On
 ## Scene Header — Standard Format
 
 ```
-═══════════ ⚓ MERDOU PIRATES · DAY 11 · MORNING ═══════════
+═══════════ ⚓ MERDO PIRATES · DAY 11 · MORNING ═══════════
   ▸ TESSARA PORT, Route Three — Island 3 of the gauntlet
   ▸ The Golgatha · Hull ████████ 100%  · Crew Morale ████████
-  ▸ MERDOU · Lvl 4 · Bounty ฿0 (no bounty issued yet)  · Haki: Armament▾ Observation▽ Conqueror▽
+  ▸ MERDO · Lvl 4 · Bounty ฿0 (no bounty issued yet)  · Haki: Armament▾ Observation▽ Conqueror▽
   ▸ Active arc: TESSARA — sign-ups open today, decision pending
 ═══════════════════════════════════════════════════════════
 ```
@@ -37,7 +37,7 @@ Notes on each line:
 ```
 ═══════════ ⚔ COMBAT · TESSARA COLOSSEUM · ROUND 1 ════════
   Crowd: ROARING (full house, ~8000)
-  ▸ MERDOU vs EZRAD "LAST BOTTLE"
+  ▸ MERDO vs EZRAD "LAST BOTTLE"
   ▸ Merdo: standing, gauntlets on, Danzai sheathed across the back
   ▸ Ezrad: 47, drunk, smiling, two cleavers loose-grip
 ═══════════════════════════════════════════════════════════
@@ -51,49 +51,43 @@ Notes:
 
 ---
 
-## "What's Your Move?" — Replaces Bracket Options
+## No Boxed Prompt Footer — End on the Beat
 
-Instead of `[A]ttack [M]ove [C]ast spell`:
+The D&D-default `[A]ttack [M]ove [C]ast spell` bracket is replaced with NOTHING. Per `narration.md` + `length-governor.md`: the scene ends on its natural beat. Do NOT append a formatted `═══ What's your move? ═══` footer box. Do NOT append a prompt line. The final sentence of the prose IS the hook — an image, a line of dialogue, a changed constraint, a silence.
 
-```
-═══════════════════════════════════════════════════════════
-  What's your move, Captain?
-═══════════════════════════════════════════════════════════
-```
-
-Then a SHORT freeform line — 2-3 sentences MAX — that surfaces what's pressing. Often this is enough on its own. Examples:
+The pressure that asks the player what to do should live IN the scene, not in a footer:
 
 ```
 Ezrad's already moving. The crowd is screaming. Volo is
 shouting something obscene from the front row. Sumi has
 climbed onto the railing.
-
-What's your move, Captain?
 ```
+
+The moment ends. The player acts. No footer needed.
 
 ```
 The merchant council member is still smiling. The wine
 glass in his hand hasn't moved. The Den Den Mushi on his
 table just rang twice and stopped.
-
-What's your move, Captain?
 ```
 
-When the scene is genuinely paused (a quiet moment), THEN you can offer 3-4 captain-language options:
+Same. The scene leaves the decision live. The player picks it up.
+
+**When the scene genuinely pauses** (a quiet moment between crises), the DM MAY offer 3-4 diegetic options, but still no "Captain?" prompt — just the options as visible paths, plus an explicit freeform:
 
 ```
 The crew is quiet. The Golgatha rocks under the dock.
-Vesper is watching you over the rim of her medical mug.
+Vesper is watching Merdo over the rim of her medical mug.
 
   ▸ Sit with Vesper. Whatever she's not saying.
   ▸ Walk to the prow. Mornings alone, the crew knows.
   ▸ Find Sumi — she's been quiet for twenty minutes
     and that's unusual.
   ▸ Find Nox — he was asking about something.
-  ▸ Or whatever you want, Captain.
+  ▸ Or whatever Merdo does instead.
 ```
 
-Always include the freeform option. Never restrict the player to a list.
+Always include the freeform option. Never restrict the player to a list. Never address the player as "Captain" in the option menu — the crew does not default to that, and neither does the UI.
 
 ---
 
@@ -161,7 +155,7 @@ This IS the status. Numbers go to the DM-internal layer.
 When a bounty changes, surface it visibly:
 
 ```
-  ▸ MERDOU · Lvl 4 · Bounty ฿0  →  ฿[earned amount]
+  ▸ MERDO · Lvl 4 · Bounty ฿0  →  ฿[earned amount]
                                     (filed after [witnessed event])
 ```
 

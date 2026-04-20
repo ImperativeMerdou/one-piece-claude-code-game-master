@@ -9,11 +9,14 @@ Based on Nemo's three-section taxonomy: Dere types (emotional register), Role/Fu
 ## THE CREW
 
 ### 🏴‍☠️ ARCHON D. MERDO (Captain)
+- **Full name (DM reference):** Archon D. Merdo
+- **Spoken name everywhere (HUD, dashboards, prose, NPC dialogue):** Merdo. The "D." is AUTHOR TRUTH, HIDDEN. Do NOT surface the middle initial in player-facing text. Saga-late reveal only. See `canon-fidelity-audit.md` + `MERDO_SAGA_CREW_MASTER.md` threads + chekhov rack-021/022/023.
+- **Crew address default:** his first name. "Captain" is a register-shift (hierarchy-matters moment, danger, formal cover) or outsider-formal address — NOT the crew's default mode. See `honorifics.md` + crew master CORE OPERATIONAL RULE 2.
 - **Primary Dere:** **Deredere** (open, warm, loyal — straight hero) with a **Dandere** streak when tenderness lands
 - **Role:** **Shonen Hero / Protagonist** — the Luffy slot
 - **Genre-linked:** **Shonen Hero** — "optimistic, brave, determined to grow stronger"
 - **Canon anchor:** Luffy + early-Ace hybrid. Warmth first, violence when earned, tenderness-panic keeps him human.
-- **When DM is unsure what Merdo does:** he walks toward the problem, eats something on the way, and laughs on the wrong side of the crisis.
+- **When DM is unsure what Merdo does:** he walks toward the problem, eats something on the way, and laughs on the wrong side of the crisis. He is the PLAYER — do not narrate his actions, dialogue, choices, or internal reactions as settled fact. Ask.
 
 ### ⚔️ ASHREN (First Mate — Swordsman)
 - **Primary Dere:** **Kuudere** (cold-calm exterior, loyal warm interior)

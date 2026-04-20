@@ -48,8 +48,8 @@ These are the parallel plot beats. Meanwhile-cuts can reference them. Merdo's cr
 - Water 7: ~5 months
 - Enies Lobby: ~6 months
 - Thriller Bark: ~10 months
-- Sabaody: ~12 months  ← MERDOU MUST BE HERE with bounty 100M+
-- Marineford: ~15 months ← MERDOU may witness from afar; cannot participate at rookie-tier
+- Sabaody: ~12 months  ← MERDO MUST BE HERE with bounty 100M+
+- Marineford: ~15 months ← MERDO may witness from afar; cannot participate at rookie-tier
 
 ---
 

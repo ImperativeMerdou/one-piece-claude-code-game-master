@@ -32,7 +32,7 @@ Pick from this rotating roster. Vary so the same place doesn't show up two sessi
 - Akainu silent over a bounty board, marking three names red
 
 ### C. CP-0 / Cipher Pol
-- A clean office, a quiet conversation, a file labeled MERDOU. P. assembled
+- A clean office, a quiet conversation, a file labeled MERDO. P. assembled
 - Spandam being annoying, someone senior ignoring him
 - A Lunarian-tagged dossier being pulled for the first time in 50 years (Ashren's reveal cascading)
 

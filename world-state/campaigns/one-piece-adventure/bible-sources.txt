@@ -1,0 +1,8 @@
+# Bible-sources manifest — files listed here are appended to session context
+# by .claude/commands/dm-continue.md. Paths are repo-relative. Lines starting
+# with # are comments. Missing files are silently skipped.
+#
+# The Merdo Saga keeps its authoritative crew bible in ONE PIECE RESEARCH/
+# (design master) rather than a distilled copy in world-state/, so that there
+# is a single source of truth and no drift between the master and a copy.
+ONE PIECE RESEARCH/MERDO_SAGA_CREW_MASTER.md

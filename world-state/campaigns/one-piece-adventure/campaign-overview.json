@@ -1,0 +1,12 @@
+{
+  "name": "one-piece-adventure",
+  "narrator_style": "shonen-one-piece",
+  "nsfw_enabled": true,
+  "session_mood": "EAGER",
+  "setting_law": "STRICT",
+  "reveal_cadence": "STANDARD",
+  "failure_mode": "COSTLY",
+  "world_difficulty": "NORMAL",
+  "epistemic_mode": "alongside",
+  "active_arc": "Day 11 — Tessara Port"
+}

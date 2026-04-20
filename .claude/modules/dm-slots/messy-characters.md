@@ -42,7 +42,7 @@ Already documented for the Merdo crew (see character.json `depth` block for Merd
 
 ## 3. THE CONTRADICTION STACK (not just one)
 
-**From the research files (MERDOU_SAGA):** Build a 3-5 item contradiction STACK per major character. One of them is flagged as the CRACK — the growth vector.
+**From the research files (MERDO_SAGA):** Build a 3-5 item contradiction STACK per major character. One of them is flagged as the CRACK — the growth vector.
 
 ### Merdo's stack (for reference)
 1. Sold himself to protect others; despises weakness.
@@ -66,7 +66,7 @@ When building antagonists, find the CRACK first. Write backward from there.
 
 ## 4. THE TELL MATRIX
 
-**From MERDOU_SAGA.** Each character gets a 3-row tell table: EMOTIONAL INPUT → PHYSICAL ACT → WITNESS RESPONSE RULE. Tells FIRE automatically when inputs hit.
+**From MERDO_SAGA.** Each character gets a 3-row tell table: EMOTIONAL INPUT → PHYSICAL ACT → WITNESS RESPONSE RULE. Tells FIRE automatically when inputs hit.
 
 ### Merdo's tell matrix
 | Input | Physical Act | Witness Rule |

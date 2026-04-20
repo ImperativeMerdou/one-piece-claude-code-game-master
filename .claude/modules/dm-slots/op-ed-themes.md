@@ -37,7 +37,7 @@ Endings show: bounty updates, Marines responding, civilians affected. EDs are wh
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                    MERDOU PIRATES
+                    MERDO PIRATES
                       SAGA 2 OPEN
                 "Believe" — kingdom-scale stakes
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

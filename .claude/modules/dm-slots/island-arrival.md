@@ -103,7 +103,7 @@ Civilian scene: 50-100 words. Not long. A specific exchange.
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                    MERDOU PIRATES
+                    MERDO PIRATES
                EPISODE 47 — [ISLAND NAME]
        "[HOOK PHRASE]! [THEME STATEMENT]!"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

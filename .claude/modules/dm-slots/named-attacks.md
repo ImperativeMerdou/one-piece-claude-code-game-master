@@ -53,7 +53,7 @@ The blade did what blades do.
 
 Use these as the vocabulary palette. Name patterns must hold over time so they build recognition.
 
-### MERDOU
+### MERDO
 **Pattern:** weapon name + dark adjective/noun, often with execution / judgment vocabulary.
 - DANZAI ("judgment" — already established weapon name)
 - DANZAI: TOMB-MARKER (heavy overhead)

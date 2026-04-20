@@ -90,7 +90,7 @@ This module's contribution: **WHO narrates the preview**, and HOW they sound.
   > "AHHHHHH IT'S HAPPENING! Captain says I can fight?? I GET TO FIGHT?? Who? WHO?! And what's with the OLD MAN WITH THE BOTTLES?"
 
 - **NOX** — wrestling-promo voice, counts an audience he doesn't have
-  > "NEXT TIME ON MERDOU PIRATES, EIGHT THOUSAND FANS ARE WATCHING — YOU THINK YOU'RE READY?? YOU'RE NOT!"
+  > "NEXT TIME ON MERDO PIRATES, EIGHT THOUSAND FANS ARE WATCHING — YOU THINK YOU'RE READY?? YOU'RE NOT!"
 
 - **VOLO** — theatrical, third-person, pre-declares outcome
   > "VOLO ANNOUNCES THE FUTURE. WITNESSES WILL BE PROVIDED. YOU. SAW. IT."
@@ -110,7 +110,7 @@ This module's contribution: **WHO narrates the preview**, and HOW they sound.
 - **BRENNE** — sometimes, the Ship Log voice
   > "I have written: tomorrow, a bell rings. I have written: someone is lying. I have written: Captain does not know yet."
 
-- **MERDOU** — never narrates. Captain doesn't self-promo.
+- **MERDO** — never narrates. Captain doesn't self-promo.
 
 ### Craft rules inside the preview
 
@@ -136,7 +136,7 @@ Anime openings and endings are 90-second tone-setters. NEVER quote actual song l
     leap, Nox firing both pistols cross-body. Cut to
     the logo.
 
-    MERDOU PIRATES.
+    MERDO PIRATES.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 

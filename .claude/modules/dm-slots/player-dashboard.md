@@ -15,7 +15,7 @@ This module gives the player an on-demand dashboard. Triggered by:
 ```
 ═══════════════ ⚓ MERDO PIRATES — DASHBOARD ⚓ ═══════════════
 
-  CAPTAIN  Archon D. Merdo · Lvl 4 · Bounty ฿0 (no epithet earned yet)
+  CAPTAIN  Merdo · Lvl 4 · Bounty ฿0 (no epithet earned yet)
   ARC      Day 11 · Tessara Port · "TWO ON THE DOCK!"
   HEART    Armament Haki ▾ flickering (1 protective activation logged)
 

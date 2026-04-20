@@ -31,7 +31,7 @@ If yes → SCALE DOWN the win. Merdo can CHALLENGE power, he doesn't get to BEAT
 - Melaina's mother = Shanks (saga-late, absolutely not early)
 - Sable's real name (mid-saga when CP collides)
 - Merdo's village betrayal reveal (mid-to-late)
-- Merdo being a "D." — HE IS NOT. Do not add.
+- Merdo's "D." — he IS a D. Full name: **Archon D. Merdo**. AUTHOR TRUTH, HIDDEN. He does not know. The world does not know. Do NOT surface the "D." in HUD, dashboards, NPC dialogue, bounty posters, Marine files, or any player-facing prose until the saga-late reveal beat fires (chekhov rack-021/022/023). Treat identical to Melaina's mother-Shanks link: DM reads it, DM does not speak it.
 
 If yes → hold. The reveal is bigger if it waits.
 

@@ -38,6 +38,25 @@ if [ -f "$BIBLE" ]; then
   cat "$BIBLE" >> /tmp/dm-rules.md
 fi
 
+# Additional bible sources — for campaigns whose authoritative bible lives
+# outside world-state/ (e.g. a research/design master kept in its own dir).
+# bible-sources.txt is a newline-delimited list of repo-relative paths; each
+# listed file gets appended to context verbatim. Lines starting with # are
+# skipped. Missing files are silently skipped. This is the single-source-of-
+# truth mechanism: instead of distilling the bible into CAMPAIGN_BIBLE.md
+# (which drifts), point at the master file directly.
+BIBLE_SOURCES="${CAMPAIGN_DIR}/bible-sources.txt"
+if [ -f "$BIBLE_SOURCES" ]; then
+  while IFS= read -r source_path || [ -n "$source_path" ]; do
+    [ -z "$source_path" ] && continue
+    case "$source_path" in \#*) continue ;; esac
+    if [ -f "$source_path" ]; then
+      echo -e "\n\n=== BIBLE SOURCE: ${source_path} ===\n" >> /tmp/dm-rules.md
+      cat "$source_path" >> /tmp/dm-rules.md
+    fi
+  done < "$BIBLE_SOURCES"
+fi
+
 # Auto-load active narrator style from campaign-overview.json
 NARRATOR_STYLE=$(jq -r '.narrator_style // empty' "${CAMPAIGN_DIR}/campaign-overview.json" 2>/dev/null)
 if [ -n "$NARRATOR_STYLE" ] && [ -f ".claude/modules/narrator-styles/${NARRATOR_STYLE}.md" ]; then

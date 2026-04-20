@@ -66,7 +66,7 @@ Deploy at these specific beats:
 
 ## Per-crew dream vocabulary (ready to deploy)
 
-### MERDOU (player character — DM surfaces opportunities, player decides when to fire)
+### MERDO (player character — DM surfaces opportunities, player decides when to fire)
 
 **TWO LAYERS, ONE DREAM (per user directive 2026-04-20):**
 

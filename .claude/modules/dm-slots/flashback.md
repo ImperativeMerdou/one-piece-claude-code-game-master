@@ -27,7 +27,7 @@ In prose, keep flashbacks SHORT — a paragraph to a page max. Long flashbacks t
 
 These are the established backstory anchors. Fire them when the present scene reaches their emotional pressure:
 
-### MERDOU
+### MERDO
 - **The pit.** Seven years of fighting in slave pits. Triggers: when Merdo is being humiliated publicly, when the crowd is hostile, when he's beaten down and getting up anyway, when he's offered surrender. Visual: the smell of blood and sand, a name being called, a younger Merdo learning to laugh through pain.
 - **The betrayal at 15.** His village (Mesut) sold him. Triggers: when someone close betrays him, when family/community is being tested, when he meets someone from Mesut. NOT YET DEPLOYED on screen — saga-level reveal.
 - **First Armament Haki activation (Goroa, pulling Kara from petrified mass).** This already happened on-page. Re-trigger when Haki flares again — link the protective instinct.

@@ -1,6 +1,6 @@
 ## Living World — The World Moves Without You
 
-**Consolidated from preset extract (Celia's Hidden-Block trio, KittyLotus Better NPCs + Momentum Governor, Nemo Proactive NPCs, Paramnesia QC NPC Independence).** The goal: make the One Piece world feel like it's a REAL place that exists whether or not Archon D. Merdo looks at it.
+**Consolidated from preset extract (Celia's Hidden-Block trio, KittyLotus Better NPCs + Momentum Governor, Nemo Proactive NPCs, Paramnesia QC NPC Independence).** The goal: make the One Piece world feel like it's a REAL place that exists whether or not Merdo looks at it.
 
 Pairs with `hidden-blocks.md` (already shipped) and `chekhov-gun-rack.json` (already populated).
 

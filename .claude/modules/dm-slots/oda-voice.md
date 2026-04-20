@@ -172,7 +172,7 @@ Each Oda island has ONE dominant cultural gimmick explored fully:
 - Dressrosa = toy-people + colosseum + strings
 - Wano = samurai + food (the bad food) + Oden's memory
 
-### RULE FOR MERDOU'S INVENTED ISLANDS
+### RULE FOR MERDO'S INVENTED ISLANDS
 Each new island should have ONE dominant cultural gimmick + ONE secondary beat. No more. Current examples:
 - Ashenmaw: chant-sacrifice + Void Century device (already landed, two gimmicks — fine post-hoc)
 - Goroa: plateau-kingdom + failed-Zoan-child (two gimmicks — fine)

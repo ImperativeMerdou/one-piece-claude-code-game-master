@@ -64,7 +64,7 @@ Subsequent sagas tie focus to saga-level chekhov plants (see `SAGA_MAP.md`).
 
 ## Per-crew focus-arc templates
 
-### MERDOU focus arc
+### MERDO focus arc
 **Wound surface:** the pit (15-year betrayal, Mesut village). Flashback candidates: the sale, the first fight he refused to throw, a specific pit opponent who was kind.
 **Finisher:** Merdo committing to a throne-scale target. "Every throne" declaration at a colosseum / council / imperial seat.
 **Dream refinement:** from "thrones, their food, leave" to something slightly wider (e.g., "every throne and every chair that steals a stomach").
