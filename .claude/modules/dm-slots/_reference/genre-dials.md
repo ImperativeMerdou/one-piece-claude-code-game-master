@@ -125,7 +125,7 @@ Each dial is a mood + prose-texture + pacing flavor. Pick one per scene when it 
 ### 🌿 LOAM — Earth, labor, craft
 - **Texture:** hands making something, the weight and feel of a tool, pride in work
 - **Pacing:** steady, rhythmic
-- **Vocabulary favored:** specific craft detail (Darius on the hull, Brenne on the port-departure checklist, Melaina on a stew, Sumi on her own jolly roger)
+- **Vocabulary favored:** specific craft detail (Melaina on a stew, Sumi on her own jolly roger, Cress on a chart correction, Ashren on a blade)
 - **Vocabulary banned:** abstraction, the "metaphor of craftsmanship"
 - **Deploy for:** any scene where someone is MAKING something, the Golgatha repair scenes, weapon-care scenes, cooking scenes
 - **Pairs with:** PATINA (adjacent)

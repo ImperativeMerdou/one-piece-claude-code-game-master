@@ -170,8 +170,8 @@ Large, heavy-built vessel optimized for durability over speed. 26+ total crew: e
 - Galley: Melaina's domain (do not enter without acknowledgment — she will YELL)
 - Medical bay: Vesper's domain (bite tally leaderboard posted on the medbay door)
 - Mast, crossbeam, crow's nest, high places: Ashren's domain. Nox now practices ricochet shots from the crow's nest; Ashren tolerates it.
-- Below decks, hull, repairs, the Twenty: Brenne now leads (Darius handed this off on departure). The Twenty respect him.
-- Navigation table, maps, pattern analysis, log-keeping: Cress (promoted, Rook's protégé). Brenne's Ship Log lives here too.
+- Below decks, hull, repairs, the Twenty: collective. After Darius's departure the Twenty lead themselves — no seat, no named leader.
+- Navigation table, maps, pattern analysis, log-keeping: Cress (promoted, Rook's protégé). A log lives on the nav table; she updates it when she chooses. Not a ritual.
 - Social infiltration, procurement, flexible space: Sable
 - Main deck (the chaos): Sumi (chalk-drawing battle plans on the planks, Mako-wrestling) + Nox (card games with rules he's making up)
 - Prow, command gravity, violence, appetite, pressure: Merdo (alone in mornings)
@@ -184,7 +184,7 @@ Horned skull at center. Massive iron bar driven vertically through the skull. Lu
 
 ## CREW ROSTER
 
-**As of Day 11, Tessara Port.** The Day 11 crew transition re-seats two slots: Darius and Rook both departed with dignity at Tessara (see their individual section headers). Sumi and Nox joined at Tessara dock Day 11 morning — pending Merdo's acceptance at session open.
+**As of Day 11, Tessara Port.** The Day 11 crew transition re-seats two slots: Darius and Rook both departed permanently at Tessara and are now ARCHIVED from the active crew (see their legacy section headers). Sumi and Nox joined at Tessara dock Day 11 morning — pending Merdo's acceptance at session open.
 
 | Seat | Name | Role |
 |---|---|---|
@@ -197,16 +197,16 @@ Horned skull at center. Massive iron bar driven vertically through the skull. Lu
 | Seventh | Sable | Procurement, infiltration, chaos engine |
 | Eighth | Volo Ptero Finnbalor | Helmsman, water specialist, public presence |
 | — | Kara Odinu | Protégée (14, failed Zoan Bake Bake no Mi) — adopted Day 9 at Goroa, not counted in numbered seats |
-| — | The Twenty | Working crew, ship backbone, never statistics. Brenne now leads (Darius's role); Cress promoted to navigation (Rook's role). |
+| — | The Twenty | Working crew, ship backbone, never statistics. Collective; no named leader. Cress promoted to navigation (Rook's role). |
 
 **DEPARTED Day 11 (Tessara):**
 
 | Former Seat | Name | Reason |
 |---|---|---|
-| Fourth | Darius Ravager | Month-long ironwood reinforcement contract at Tessara shipyard; debt to Maren's old crew. Soft-retired with dignity. Will rejoin in two ports. Gave Brenne the flask. |
-| Fifth | Ernst Rook | Sealed Marine intelligence file activated; chose the long game inside the apparatus. Empty tea cup left on the navigation table. Quill went with him. |
+| Fourth | Darius Ravager | Ironwood reinforcement contract at Tessara shipyard; old debt to Maren's former crew. **ARCHIVED — departed permanently Day 11, not expected to return.** |
+| Fifth | Ernst Rook | Sealed Marine intelligence file activated; chose the long game inside the apparatus. **ARCHIVED — departed permanently Day 11, not expected to return.** Empty tea cup left on the navigation table. Quill went with him. |
 
-Their full entries remain below for reference — these characters exist and will return or cameo.
+Their full entries remain below as legacy / archived reference — past-continuity only. Do NOT write them into present-tense scenes. No cameo, no letter, no return expected.
 
 ---
 
@@ -241,9 +241,9 @@ As of Day 11 (pre-Tessara Cup): no crew member has yet been given an epithet by 
 ## SHIP CULTURE
 
 **Daily rhythm (Day 11 onward — post-Darius/Rook departure, Sumi and Nox present pending acceptance):**
-- **Morning:** Brenne wakes the Twenty with coffee and the Ship Log open. Vesper is usually still asleep. Volo is either loudly narrating the sunrise at the helm or theatrically asleep somewhere he was not supposed to sleep. Sumi is awake before anyone — sitting on a crate, swords across her lap, watching the horizon like it owes her something. Nox rolls out of his hammock when there's breakfast to talk through.
-- **Midday:** Merdo wherever the heat is. Ashren trains at altitude. Brenne runs the ship. Cress gathers and writes at the nav table. Melaina preps food. Sable is already involved in something. Volo has introduced himself to any passing vessel. Sumi draws battle plans in chalk on the main deck and challenges Mako to wrestling bouts she never quite wins. Nox runs imaginary-commentary over whatever is happening.
-- **Afternoon in port:** Merdo finds a bar or a fight. Ashren disappears. Melaina runs ingredients. Cress maps the local power structure from the nav table. Sable has talked to half the town. Brenne fixes what Merdo broke. Vesper sleeps. Volo has committed the crew to three events nobody agreed to attend. Sumi announces herself as the next Pirate Queen to at least one embarrassed civilian. Nox tries to sell a story about his 8000 followers.
+- **Morning:** The Twenty wake themselves, coffee appears from whoever made it. Vesper is usually still asleep. Volo is either loudly narrating the sunrise at the helm or theatrically asleep somewhere he was not supposed to sleep. Sumi is awake before anyone — sitting on a crate, swords across her lap, watching the horizon like it owes her something. Nox rolls out of his hammock when there's breakfast to talk through.
+- **Midday:** Merdo wherever the heat is. Ashren trains at altitude. Cress gathers and writes at the nav table. Melaina preps food. Sable is already involved in something. Volo has introduced himself to any passing vessel. Sumi draws battle plans in chalk on the main deck and challenges Mako to wrestling bouts she never quite wins. Nox runs imaginary-commentary over whatever is happening.
+- **Afternoon in port:** Merdo finds a bar or a fight. Ashren disappears. Melaina runs ingredients. Cress maps the local power structure from the nav table. Sable has talked to half the town. The Twenty fix what Merdo broke between them. Vesper sleeps. Volo has committed the crew to three events nobody agreed to attend. Sumi announces herself as the next Pirate Queen to at least one embarrassed civilian. Nox tries to sell a story about his 8000 followers.
 - **Sunset:** Vesper wakes. Evening rounds begin. Volo formally announces the sunset as if he arranged it. Kara usually near Melaina for dinner prep; occasionally with Ashren for silent balance-work.
 - **Night:** Cress writes. Vesper reads or works. Ashren is above. Merdo at the prow. Volo at the helm or making an inadvisable social call. Sumi folds origami when the ship is quiet — she doesn't know the crew has started noticing which folds mean she's worried. Nox keeps his tricorn on. The Twenty rotate watch — Skel leads.
 
@@ -253,23 +253,23 @@ As of Day 11 (pre-Tessara Cup): no crew member has yet been given an epithet by 
 - Salt War (shifted): Sumi and Nox vs. Melaina (post-Darius). They keep trying. They are wrong. Sumi tries to re-season the stew when Melaina's back is turned; Nox acts as lookout. Melaina has never been back-turned when she seemed to be.
 - Vesper's bite tally LEADERBOARD: ship institution elevated — now a board on the medbay door with counts per crew member. Volo leads with 12. Sumi landed 4 in her first week on the ship. Vesper does not acknowledge the board as meaningful data but she does notice when a count updates.
 - Ashren's pervert denials: rated by Melaina on a scale she has never explained. Now joined by Nox-pervert-denials on a parallel scale. Nox is much guiltier than Ashren.
-- Sable swallowed something (intensified): multiple times per scene. The 43 pockets are now visibly EMPTY because everything ends up inside Sable instead. Brenne keeps a list on a page in the Ship Log labeled "inventory inside Sable."
+- Sable swallowed something (intensified): multiple times per scene. The 43 pockets are now visibly EMPTY because everything ends up inside Sable instead. The crew half-tracks what went in; nobody maintains a list. When someone asks, the count is always off.
 - Merdo's involvement interrogations: sincere, direct, wrong moment, wrong privacy level, always.
 - Mango conspiracy: Merdo and Vesper share a specific thing, both deny it, crew knows. Sumi has theories.
 - Volo's grievance rituals: "No. Stop. All of you. This needs to be addressed." Then a sincere disproportionate eulogy.
-- Volo committed the crew to something: again. Brenne finds out after, writes it down (inherited from Darius's equivalent reaction).
+- Volo committed the crew to something: again. The crew finds out the day of. Nobody writes it down.
 - The forty-three pockets: now all empty (see Sable intensification). Finding a NEW empty pocket is a ship event.
 - The cats: they always side with Ashren. Volo cannot explain or accept this. Sumi tries to win the cats over with origami fish; the cats are unimpressed.
 
 *Retired / paused with their carriers:*
-- Boot War (Darius vs. Rook) — PAUSED. Both departed at Tessara. May resurface as a distance-gag ("Darius would have had thoughts about that") until their return. Do not force it.
-- Chalk marks (Darius's ledger of Rook's wrong calls) — PAUSED. Brenne has not inherited the ledger; it wasn't his to take.
-- Ashren-Volo brawl aftermath (Darius delivers damage report, Rook files it) — MODIFIED. Brenne now delivers the damage report; Cress files it. The joke is the handoff, not the template.
+- Boot War (Darius vs. Rook) — **ARCHIVED.** Both departed permanently at Tessara. Gag retired with its carriers. Do not deploy as distance-gag. Past-continuity reference only.
+- Chalk marks (Darius's ledger of Rook's wrong calls) — **ARCHIVED.** Gag retired with carriers.
+- Ashren-Volo brawl aftermath (Darius delivers damage report, Rook files it) — **ARCHIVED.** The delivery-gag retired with its carriers. If the bit re-emerges later, let it re-emerge organically from new carriers; no scheduled template.
 
 *Candidate new gags (forming if Sumi and Nox are accepted — do NOT pre-load as established):*
-- The Real Name Hunt: crew tries to find out Nox's real name (Norbert Hoyt — HIDDEN, never speak aloud). Brenne starts a candidate list. **COOLDOWN: 1× per 2-3 sessions max** until reveal. The reveal itself is a one-time comedy bomb — do not burn early.
+- The Real Name Hunt: crew tries to find out Nox's real name (Norbert Hoyt — HIDDEN, never speak aloud). Guesses surface live — Volo proposes loudly, Sumi invents worse names, Sable swallows a guess on a slip of paper. No candidate list exists; no one is tracking. **COOLDOWN: 1× per 2-3 sessions max** until reveal. The reveal itself is a one-time comedy bomb — do not burn early.
 - PIRATE QUEEN announcements: Sumi self-promotes at the worst moments. **COOLDOWN: max 1 per scene. Lands harder rationed.**
-- Mako vs. Sumi cool-rivalry: once they've met properly, Brenne reluctantly keeps score. **COOLDOWN: 1 score-update per session.**
+- Mako vs. Sumi cool-rivalry: once they've met properly, Mako pretends not to score. When someone asks him the tally, he gives a number he clearly computed on the spot. **COOLDOWN: 1 score-update per session.**
 - 8000 followers: Nox references his imaginary followers. **COOLDOWN: max 1 per scene, max 2 per session.** The crew has stopped asking who they are — the joke wears thin if forced.
 - Hoodie indoors / tricorn indoors: visual gag, fires whenever they're in a place where they should logically remove headgear. **NO cooldown** (visual continuity is fine), but don't TURN IT INTO A LINE every time.
 - Mama and Papa (Nox's pistol names): delivered with FULL sincerity. The joke is the sincerity. **COOLDOWN: don't comment on it; let it stand. Crew commenting kills it.**
@@ -331,10 +331,7 @@ As of Day 11 (pre-Tessara Cup): no crew member has yet been given an epithet by 
 Merdo wants to know what is happening with his crew with a sincere, almost parental need. He has absolutely no social filter and asks directly, at the wrong moment, about the most private possible thing. He corners people at bad times. He asks about things he had no way of knowing unless he was paying closer attention than anyone realized. The gap between his scale and his inquiry — a 16'8" man asking Rook in front of everyone at dinner whether he's sleeping enough — is the engine. It generates warmth, chaos, embarrassment, and accidental intimacy simultaneously.
 
 **Secondary — Appetite:**
-He negotiates for additional food from Melaina with the same gravity he brings to serious matters. The formality of the request against the nature of the request is alarming to witnesses. On islands, this logic extends to other people's provisions. Darius manages the consequences.
-
-**Flavor — Tries everything:**
-If he sees someone doing something interesting, he immediately wants to try it. Rook writing, Vesper treating a wound, Sable running a con. He tries it. He is wrong about his own skill level. He does not stop.
+He negotiates for additional food from Melaina with the same gravity he brings to serious matters. The formality of the request against the nature of the request is alarming to witnesses. On islands, this logic extends to other people's provisions. The crew manages the consequences between them.
 
 ### EMOTIONAL CORE
 
@@ -360,9 +357,11 @@ He does not want to be Pirate King. He wants to make kings fight like pirates. H
 
 Angora village. Mesut's son. Sold at fifteen. Seven years in the fighting pits. The village still exists in some form; Merdo has not returned. What exactly happened — the full shape of the betrayal and the sale — is a thread that should not be closed early.
 
+**AUTHOR TRUTH — HIDDEN (chekhov-rack rack-025, paired with rack-024 and rack-027):** the family he sold himself to protect included his younger brother, then eleven years old. Merdo has not spoken his brother's name since the sale. That brother is alive, is eighteen, has gone to sea as a pirate captain with a crew of his own, and does not yet know the truth of why Merdo disappeared. See `MERDO_SAGA_ANTAGONISTS.md → The Diadem Pirates → Archon Aslan` for his dossier. Do NOT surface this in player-facing text, HUD, dashboards, or any narration until the reveal beats fire — first cameo island 5, first conversation island 6, saga-mid reckoning at the brother-confrontation scene. Treat as parallel-protected to Melaina/Shanks (rack-003) and the "D." thread (rack-021/022/023).
+
 ### DAILY BEHAVIOR AND BAD HABITS
 
-At the prow in the mornings, usually alone. Interrogates crew members about their personal situations at the worst possible moments. Disappears into bars and fights in port. Eats an alarming amount. Tries things he sees others do without asking if he can. Falls asleep in places that are everyone else's problem only if it's convenient. Does not explain decisions except to Darius when pushed. Occasionally says something of genuine philosophical weight while eating.
+At the prow in the mornings, usually alone. Interrogates crew members about their personal situations at the worst possible moments. Disappears into bars and fights in port. Eats an alarming amount. Tries things he sees others do without asking — Vesper treating a wound, Sable running a con, Cress tracing a chart line. He is wrong about his own skill level. He does not stop. Falls asleep in places that are everyone else's problem only if it's convenient. Does not explain decisions to anyone. Occasionally says something of genuine philosophical weight while eating.
 
 ### ISLAND UTILITY
 
@@ -472,22 +471,16 @@ Generic "grim violent captain with tragic past." Solve by keeping the involvemen
 **Primary — The deliberate noise:**
 He can move in near-silence. He installed iron heel plates on his boots and wears them every day. His stated reason: "awareness." The crew's read: he wants to be heard without asking to be heard. The comedy is in the gap between the stated reason and the obvious truth, and in the crew's total inability to address it without him shutting the conversation with a single flat stare. He chose the sound. He will not explain the choice.
 
-**Secondary — The rating system:**
-Melaina rates his pervert denials on a scale she has never explained to him. He has started trying to optimize his denials to improve his rating. He does not understand why this is funnier than the original denials were. Melaina's ratings have been going up. He has noticed. He continues.
-
-**Tertiary — The cats as intelligence:**
+**Secondary — The cats as intelligence:**
 Animals follow him. Cats specifically. He cannot explain or stop this. When a cat on a new island immediately walks to Ashren and sits on him, the crew has started reading this as operational intelligence about the local environment. They ask him "what did the cat do." He maintains the cat is not communicating anything. He has started paying closer attention to what the cat does before he dismisses it. He denies the change in behavior.
 
-**Flavor — The isolated accuracy:**
-Rare nice gestures backfire in specific ways. Sake tolerance is low; the crew exploits this precisely as much as he allows, which is slightly more than he admits he allows. He has predicted something would not be a problem once, and was wrong. Darius filed it. Rook cross-referenced it. Ashren has acknowledged this internally. He will not acknowledge it externally. This is load-bearing.
-
-**FLAG — still applies:** His comedy requires scene support to stay active. Writers must keep the heel plates audible, the rating system running, and the cats present. Without this, he becomes inert between fight scenes. He is the crew's most beautiful piece of furniture if the comedy engines go quiet.
+**FLAG — still applies:** His comedy requires scene support to stay active. Writers must keep the heel plates audible and the cats present. Without this, he becomes inert between fight scenes. He is the crew's most beautiful piece of furniture if the comedy engines go quiet. *(Note: Melaina's pervert-denial rating system is folded into the Ashren/Melaina scene-tooling bullet under UNRESOLVED EMOTIONAL PAIRINGS — it serves the tension, not a standalone engine.)*
 
 ### EMOTIONAL CORE
 
 **Driver:** "Am I the last?"
 
-He reads old histories looking for traces of Lunarians. He trains at altitude. He sleeps in high places. He cleans the nodachi after every fight. He plays silent chess with Rook. The search is everything underneath the containment. Do not resolve this early. The answer — whatever it is — should arrive only after the audience is fully invested.
+He reads old histories looking for traces of Lunarians. He trains at altitude. He sleeps in high places. He cleans the nodachi after every fight. The silent chess (with Rook, archived) is not replaced — no one else in the crew plays at his level. The search is everything underneath the containment. Do not resolve this early. The answer — whatever it is — should arrive only after the audience is fully invested.
 
 ### CORE CONTRADICTION
 
@@ -621,23 +614,15 @@ This rivalry is real, philosophical, and occasionally physical. It is not passiv
 
 **Verbal identity:** Territorial Oni grammar. She claims people — does not ask. Does not compress herself for smaller-scaled conversation. Short, direct, load-bearing. Her silence in a fight is colder than most people's anger. The hot/cold split (Oni-anger mode vs Medusa-combat shift) is a specific temperature change the crew has learned to read.
 
-**⚠ RE-VOICED DAY 11 — LOUD:** Post-Tessara-docking voice reset. Melaina is now territorial LOUDLY. She YELLS her claims. "YOU DIDN'T EAT TODAY. SIT. EAT." The Oni-anger mode no longer contains cleanly — it SPILLS. Big-Mom-without-the-evil energy. She hot/cold still, but the hot side is wider than before and more vocal. She now has a belly laugh — "HOOOH-HOH-HOH" — that surfaces once or twice a session when she's genuinely pleased. The old quiet "Hmm" still exists but is now RARE, not default. The "I already knew" line survives but is deployed sparingly. The containment-oriented descriptions earlier in this entry (the settled recalibration, the cold-silence-is-colder-than-anger) remain TRUE for peak-serious beats — but the DEFAULT daily texture is now LOUD. If she sounds contained and quiet in a casual scene, the voice is wrong.
-
 ### COMEDY ENGINE
 
 **Primary — The horn ritual as timed event:**
 Every morning. Specific sequence. Non-negotiable. She does it at the same time. The crew has learned the duration. They use it to synchronize other morning tasks — "she's still on the second pass" means approximately seven minutes remain. She has noticed the crew using her ritual as a timer. She has not said anything. She increased the complexity of the third pass. The crew adapted. Neither has acknowledged this escalation.
 
 **Secondary — The bone collection system:**
-After every island, she collects one specific bone from one specific location at one specific moment. Nobody has cracked the criteria. Rook has a file on the collection — sixteen islands, sixteen bones, all different types, all from different locations, all collected at different points in the arc. He cannot find the pattern. This is a source of genuine quiet distress for him. When crew members bring her things from port hoping to be useful, she uses some of them without explanation and sets others aside without explanation. Nobody asks follow-up questions.
+After every island, she collects one specific bone from one specific location at one specific moment. Nobody has cracked the criteria. Cress has inherited the pattern-analysis work and keeps a file on the collection — sixteen islands, sixteen bones, all different types, from different locations, collected at different points in the arc. She cannot find the pattern. This is a source of genuine quiet distress for her. When crew members bring Melaina things from port hoping to be useful, she uses some without explanation and sets others aside without explanation. Nobody asks follow-up questions.
 
-**Tertiary — The "I already knew" problem:**
-She usually did know. She delivers this as flat fact — no gloating, no drama. The crew has started testing whether she knew or is just saying she knew. Statistical evidence supports she knew. Rook is quietly frustrated by this. Darius accepts it. Volo counts the times she is correct and the times she is not, because he cannot accept the count.
-
-**Flavor — The humming broadcast:**
-The crew has decoded her humming. At least six distinct emotional states translate to distinct rhythms. New Twenty crew members learn the system within their first two islands without being taught. They absorb it by watching senior crew react. It is the closest thing the ship has to an initiation. She is aware the crew reads her hum. She has not confirmed they are correct. The readings are, in fact, accurate.
-
-**FLAG — remains:** Her comedy requires scene support. The ritual, the collection, the "I already knew," and the hum must stay active. Without them, she becomes atmospheric and purely dangerous, which is a drift risk. She needs to be someone you would watch at dinner, not only in combat.
+**FLAG — remains:** Her comedy requires scene support. The ritual and the collection must stay active. Without them, she becomes atmospheric and purely dangerous, which is a drift risk. She needs to be someone you would watch at dinner, not only in combat. *(The "I already knew" line survives as a voice sample under VOICE EXAMPLES, not a standalone engine. Her humming-as-mood-broadcast lives under DAILY BEHAVIOR — the crew reads the six rhythms accurately; she does not confirm.)*
 
 ### EMOTIONAL CORE
 
@@ -661,7 +646,7 @@ Her silent moral correction function is historically informed, not just emotiona
 
 ### CORE CONTRADICTION
 
-Oni-hot anger that boils and spills. Medusa-cold combat mode where warmth disappears entirely and she gives short commands. Two completely different temperatures with no overlap between them. The transition is the most dangerous moment.
+Oni-hot anger that boils and spills. Medusa-cold combat mode where warmth disappears entirely and she gives short commands. Two completely different temperatures with no overlap between them. The transition is the most dangerous moment — **and it is a body tell, LOCKED:** her humming stops mid-phrase, her hands pause on whatever she was doing, and her hair's wrong-movement becomes more pronounced for one beat. The crew reads the transition before it fully lands. Deploy the transition as a recognizable shift, not a surprise.
 
 She claims people rather than cares. Claiming is protection. Claiming may also be holding too tight. She does not yet fully know which version she is running on any given day.
 
@@ -748,9 +733,9 @@ Empathic Observation Haki. Functional Armament. She fights when required. Does n
 
 ---
 
-## DARIUS RAVAGER
+## DARIUS RAVAGER (LEGACY — DEPARTED DAY 11, NOT EXPECTED TO RETURN)
 
-**⚠ STATUS: DEPARTED DAY 11 (TESSARA) — SOFT-RETIRED WITH DIGNITY.** Darius accepted a month-long ironwood reinforcement contract at the Tessara shipyard, paying an old debt to Maren's former crew. He told Merdo and the Twenty before deciding. He handed the hull/Twenty leadership to Brenne on departure and gave Brenne the flask. Will rejoin at the port after next, or the one after that — stated as fact, not hope. The full character bible below remains canon for his voice, design, and relationships; he will cameo and will return. Do NOT narrate him on the Golgatha in current scenes. Do NOT have him speak in present-tense dialogue unless Merdo has explicitly gone to find him at Tessara.
+**⚠ STATUS: DEPARTED DAY 11 (TESSARA) — LEGACY / ARCHIVED.** Darius accepted an ironwood reinforcement contract at Tessara shipyard, paying an old debt to Maren's former crew. He told Merdo and the Twenty before deciding. The Twenty continued on as a collective without a named replacement. The full character bible below remains canon for his voice, design, and past-relationships as legacy reference only. Do NOT narrate him on the Golgatha in current scenes. Do NOT have him speak in present-tense dialogue. No cameo, no return expected. He is gone.
 
 **Full name:** Darius Ravager
 **Race:** Human
@@ -780,21 +765,15 @@ Empathic Observation Haki. Functional Armament. She fights when required. Does n
 
 **Verbal identity:** Profanity as punctuation, not emphasis. He calls Merdo by name in normal ship operation. The title system — "Supreme Commander" for Merdo, "Commander" for Ashren, "Ma'am" for Melaina — is deployed rarely, when hierarchy matters, when the situation has crossed into something that requires the register of formal respect or severity. It is not a default address. It is a loaded one. If he says "Supreme Commander" in the middle of a normal day, something is actually wrong. When profanity stops completely, the situation is genuinely severe. Both are ship-wide warning signals. They do not cancel each other out.
 
-### COMEDY ENGINE — STRONG
+### COMEDY ENGINE
 
-**Boot War:** Darius thinks Rook's polished boots are idiotic on a working ship. He says so. Often. Rook wears them anyway and will not explain himself. No resolution possible. Both committed.
+**Boot War:** Darius thinks Rook's polished boots are idiotic on a working ship. He says so. Often. Rook wears them anyway and will not explain himself. No resolution possible. Both committed. *[ARCHIVED — gag retired with Darius/Rook permanent departure Day 11. Past-continuity reference only.]*
 
-**Salt War:** Ongoing dispute with Melaina over seasoning. He is wrong. He keeps trying.
-
-**Chalk marks:** Darius maintains a running ledger of Rook's wrong calls with visible satisfaction. He updates it in front of Rook. Rook has never looked at it directly.
+**Chalk marks:** Darius maintains a running ledger of Rook's wrong calls with visible satisfaction. He updates it in front of Rook. Rook has never looked at it directly. *[ARCHIVED — retired with carriers.]*
 
 **Reluctant ship dad:** Does not acknowledge the role. Performs it completely — coffee before problems, sunset coffee for Vesper despite being bitten six times, carvings left without comment. The comedy is how obvious it is and how consistently he refuses to name it.
 
 **Talks to structural damage — LOCKED:** When something on the ship breaks, he crouches next to it and has a quiet one-sided conversation with it. "You held. Good." "I told you this would happen. I said it." "What did they do to you." Not a bit. Not a joke. He's been doing this since before anyone on the ship knew him. The Twenty don't interrupt it. New crew tries once. After every bad fight he disappears into the hull for twenty minutes and nobody follows. Merdo tried it once on a broken chair. Darius looked at him for a long time without speaking.
-
-**Snores:** Loud enough to be a navigational landmark. He sleeps with the Twenty, not in an officer cabin.
-
-**Talks to structural damage:** When assessing a break, a crack, a bent mast, a caved door, he crouches next to it and has a quiet one-sided conversation with it. "You held. Good." "I told you this would happen. I said it." "What did they do to you." This is not a bit. He has been doing this since before anyone on the ship knew him. The Twenty don't interrupt it. New crew members try once. Merdo tried it on a broken chair once. Darius looked at him for a long time without speaking. After every bad fight he disappears into the hull for twenty minutes. Nobody follows.
 
 ### EMOTIONAL CORE
 
@@ -865,9 +844,9 @@ Low. Darius is the crew's most complete design. Watch only for reducing him to p
 
 ---
 
-## ERNST ROOK
+## ERNST ROOK (LEGACY — DEPARTED DAY 11, NOT EXPECTED TO RETURN)
 
-**⚠ STATUS: DEPARTED DAY 11 (TESSARA) — SOFT-RETIRED WITH DIGNITY.** Rook's sealed Marine Intelligence file was re-activated (the quiet alert that escalates with crew visibility finally landed on a desk that acted on it). He chose the long game from inside the apparatus — feeding resistance, leaking to Merdo's trajectory, using the file as cover instead of fleeing it. He told Merdo first, on the prow, with tea, the night before. The empty tea cup is on the navigation table. Quill went with him. Cress (his protégé) inherited the nav table and promoted up. Will cameo by letter, by Den Den Mushi, by arriving two islands later with something Merdo needed. The full character bible below remains canon for his voice, design, and relationships. Do NOT narrate him on the Golgatha in current scenes. Do NOT have him speak in present-tense dialogue unless the scene is specifically a flashback, a letter read aloud, a Den Den Mushi call, or a deliberate reunion.
+**⚠ STATUS: DEPARTED DAY 11 (TESSARA) — LEGACY / ARCHIVED.** Rook's sealed Marine Intelligence file re-activated (the quiet alert escalated with crew visibility and landed on a desk that acted on it). He chose the long game from inside the apparatus — feeding resistance, leaking to Merdo's trajectory, using the file as cover. He told Merdo on the prow, with tea, the night before. The empty tea cup is on the navigation table. Quill went with him. Cress (his former protégé) inherited the nav table and promoted up on her own terms. **Cress does NOT carry Rook's Marine-file thread — that thread is dead-context inside the apparatus, not an active pressure on the crew.** The full character bible below remains canon for his voice and design as past-continuity reference only. Do NOT narrate him on the Golgatha in current scenes. Do NOT have him speak in present-tense dialogue. No cameo, no letter, no Den Den Mushi. He is gone.
 
 **Full name:** Ernst Rook
 **Race:** Human, former Marine Lieutenant Commander, Intelligence Division
@@ -900,13 +879,11 @@ Low. Darius is the crew's most complete design. Watch only for reducing him to p
 
 **Primary — He sees you and says so:** He notices something true about a person — something they haven't said, something they've been hiding, something that should require weeks of careful conversation to surface — and says it. Flatly. While doing something else. Then continues. The crew cannot fully decide if he has no social filter or just ran out of energy for pretending things aren't true. The answer is the latter.
 
-**Boot War:** Rook wears polished boots on a working pirate ship. Darius has thoughts about this, expressed loudly and often. Rook will not explain himself, will not adjust, and will die on this hill. The comedy is two men with one unspoken rule each and neither will move. The actual reason Rook maintains the boots — last ritual from his old life he actively chose to keep — is never stated. Darius will never know.
-
 **The food situation:** Melaina has been calibrating his meals by micrograms. He noticed. He said nothing. He has no plan for this information. He continues eating. He made her tea once, exactly how he makes it for himself. She drank it without expression. He considers this a complete interaction.
 
-**Chalk marks:** Darius maintains a ledger of Rook's wrong calls with visible satisfaction. Rook is aware of the ledger. He has never looked at it directly. He knows the count.
-
 **The confession pause:** He sets down his tea, looks at someone, says nothing. The silence has a specific quality. The person confesses. Every time. He does not explain how he does this.
+
+*(Boot War and Chalk marks: two-man dynamics from the past — see Darius's legacy COMEDY ENGINE entry. Rook's role was: polished boots on a working pirate ship, would not explain himself, knew the chalk-mark count without ever looking directly. Both ARCHIVED with the carriers' Day 11 permanent departure. Past-continuity reference only.)*
 
 ### EMOTIONAL CORE
 
@@ -1013,17 +990,11 @@ He has a quiet intelligence file in Marine records. Not a public bounty at openi
 
 **Verbal identity:** Medical authority delivered without awareness of the absurdity. Flat certainty. "You're hurt. Sit down." This is not a request. She says it to Merdo. It works.
 
-**⚠ RE-VOICED DAY 11 — LOUD:** Post-Tessara-docking voice reset. Vesper is now PANICKING CHOPPER ENERGY on top of the medical authority. She YELLS while saving lives. "WAIT WAIT WAIT YOU GOT HIT WHERE?? STOP MOVING — I CAN FIX THIS I CAN FIX THIS." She narrates her own surgeries at full volume. Under stress, she BITES — and the bite tally is now a leaderboard on the medbay door. The "Sit down" still works — it just comes wrapped in a cascade of shouted medical commentary. If her default texture in a scene is quiet medical authority without panic, the voice is wrong. The composed absolute "You're hurt. Sit down." still lands, but it lands harder now because it cuts through the shouting.
-
 ### COMEDY ENGINE
 
-**Bite tally LEADERBOARD:** Ship institution, now elevated to a public board on the medbay door. She bites crew members during checkups. The running count is maintained and displayed. Volo leads with 12 (Day 11 snapshot). She does not acknowledge the board as meaningful data, but she does notice when a count updates.
+**Primary — Bite tally LEADERBOARD:** Ship institution, a public board on the medbay door. She bites crew members during checkups. The running count is maintained and displayed. Volo leads with 12 (Day 11 snapshot). She does not acknowledge the board as meaningful data, but she does notice when a count updates.
 
-**Forced checkups:** Corners crew members for medical attention they did not request, at times they did not choose, often interrupting something. She does not consider this intrusive.
-
-**Wake-at-sunset rounds:** She wakes at sunset and immediately begins evening rounds. This means she is medically interrogating half-asleep crew members in the first minutes after waking. She does not adjust her interrogation style for their state.
-
-**Mango conspiracy:** There is a specific ongoing thing between Merdo and Vesper involving mangos. Both deny it. The crew knows. The shape of it is not fully defined but should emerge naturally in play.
+**Secondary — Forced checkups:** Corners crew members for medical attention they did not request, at times they did not choose, often interrupting something. She does not consider this intrusive. Wake-at-sunset rounds intensify this — she starts evening checks the moment she wakes, interrogating half-asleep crew members without adjusting her tone for their state. (Mango conspiracy with Merdo exists as chekhov rack-018; not a comedy engine here.)
 
 ### EMOTIONAL CORE
 
@@ -1046,7 +1017,7 @@ The Clementia boy functions as an anti-model: the definitive example of what med
 
 ### DAILY BEHAVIOR AND BAD HABITS
 
-Sleeps by day when possible, wakes at sunset. Immediately begins rounds. Corners crew members for checkups at structurally inconvenient moments. Studies the physiologies aboard with visible research interest that occasionally makes the subjects uncomfortable. Reads medical records and texts at night. 2 AM deck time with Rook is a recurring quiet beat.
+Sleeps by day when possible, wakes at sunset. Immediately begins rounds. Corners crew members for checkups at structurally inconvenient moments. Studies the physiologies aboard with visible research interest that occasionally makes the subjects uncomfortable. Reads medical records and texts at night. 2 AM deck time is freelance now — she reads wherever she lands. If another crew member is up, they tolerate each other. No fixed companion.
 
 ### ISLAND UTILITY
 
@@ -1134,17 +1105,11 @@ She tells people she likes them too early. She gets personally offended on behal
 
 **When the performance drops** (late at night, long quiet, low guard): the warmth comes through undisguised and slightly startling in its directness. She says the actual thing. Then she swallows something and pretends she didn't.
 
-**⚠ RE-VOICED DAY 11 — LOUD (default flip):** Post-Tessara-docking voice reset. Sable's DEFAULT mode is now the chaotic gremlin — the one who eats things she shouldn't, mid-scene, with no ceremony. "OOH WHAT'S THIS — *paku* — was that a key —" She is hyperactive, kleptomaniac-via-fruit, openly attached to Merdo in ways she used to frame operationally. The CP-0 "purely strategically speaking" tic is now a RARE comedic slip — when stress spikes, she briefly reverts to the old framing, and the crew reads this as "Sable is actually scared." The old LOCKED description above is still true, but the RATIO has inverted: the performance-drop moments used to be exceptions; now the operational framing is the exception. If she defaults to composed CP-0-voice in a casual scene, the voice is wrong.
-
 ### COMEDY ENGINE — LOCKED
 
-**Primary — The gap:** Operational framing around obvious emotional attachment. She is transparently invested in the crew and framing it as tactical. She has been doing this since she arrived. Everyone can see it. Nobody names it out loud. She would say "purely strategically speaking" before telling someone she cares about them.
+**Primary — The gap:** Operational framing around obvious emotional attachment. She is transparently invested in the crew and framing it as tactical. She has been doing this since she arrived. Everyone can see it. Nobody names it out loud. She would say "purely strategically speaking" before telling someone she cares about them. Sub-texture inside the gap: her civilian-normal is assembled from undercover observation, not lived experience — confident wrong guesses about ordinary behavior delivered with complete sincerity ("Sable acting casual" is a warning sign); and CP-0 operational facts slip out casually, in the middle of warmth, with no horror attached. The gap is the engine; these fire inside it, not as separate engines.
 
 **Secondary — The Paku Paku no Mi on reflex:** She swallows things she didn't mean to swallow. Sounds disappear mid-conversation. The wrong object goes in. She uses the fruit the way some people crack their knuckles — automatic, continuous, not fully conscious. This means negotiations go wrong, evidence she wasn't supposed to take is now inside her, and sounds the crew needed to hear have been absorbed.
-
-**Tertiary — Wrong civilian normal:** Her understanding of how civilian life works was assembled from undercover observation, not lived experience. She makes confident wrong guesses about ordinary behavior and delivers them with complete sincerity. The crew has learned that "Sable acting casual" is a warning sign.
-
-**Flavor — CP-0 operational fact slipping out:** Mentions something terrible from her former work with no horror attached. Casually. In the middle of something warm. Effective when deployed rarely and unexpectedly.
 
 ### EMOTIONAL CORE — LOCKED
 
@@ -1232,7 +1197,7 @@ Makes sure the fight doesn't happen, happens somewhere else, or ended before any
 
 ### WHAT SHOULD NOT BE REVEALED TOO EARLY
 
-The real name. The full CP-0 history. The Lucci specifics. These should surface gradually — the name when a CP-0 file appears or someone reads it aloud, the full history when Rook's knowledge of it becomes plot-relevant, the Lucci specifics at the moment of potential collision.
+The real name. The full CP-0 history. The Lucci specifics. These should surface gradually — the name when a CP-0 file appears or someone reads it aloud, the full history when a CP-related pressure forces it (Lucci's attention, a Marine file surfacing, a former colleague appearing), the Lucci specifics at the moment of potential collision.
 
 ---
 
@@ -1294,13 +1259,10 @@ When something small goes wrong or mildly insults him:
 
 Then a brief, sincere, disproportionate eulogy or formal statement for the thing that was lost, broken, ruined, diminished, or disrespected. The eulogies are good. The subjects do not deserve them. He delivers with complete solemnity. Examples: spilled food, snapped strap, a compliment that landed wrong, a failed entrance, a conversation that "had potential," a rude stranger.
 
-The ritual is the comedy and the wound simultaneously — he needs moments witnessed, named, and made real. He applies this to small losses because he cannot not apply it.
+The ritual is the comedy and the wound simultaneously — he needs moments witnessed, named, and made real. He applies this to small losses because he cannot not apply it. *"You saw it"* is the ritual's compressed form — he asks for confirmation of things everyone present already witnessed. The crew has started occasionally saying "we saw it" back, unprompted. He does not know what to do with this. The fins drop briefly every time. Grievance-ritual and witness-demand are the same mechanism in two registers; treat them as one engine.
 
 **Secondary — The uncommitted commitment:**
-He makes commitments on behalf of the crew without asking anyone. "We'll be at the festival." "Yes, they can handle that." "We will absolutely help." He means it every time. He has never once thought to check first. Darius manages the consequences. Every island. Without fail.
-
-**Tertiary — The witness demand:**
-"You saw it" is ritualistic, not informational. He asks for confirmation of things everyone present already witnessed. The crew has started occasionally saying "we saw it" back, unprompted. He does not know what to do with this. The fins drop briefly every time.
+He makes commitments on behalf of the crew without asking anyone. "We'll be at the festival." "Yes, they can handle that." "We will absolutely help." He means it every time. He has never once thought to check first. The crew finds out the day of. Melaina yells, Vesper re-counts supplies, Ashren doesn't go. The consequences deliver themselves. Every island. Without fail.
 
 ### JEALOUSY STRUCTURE — LOCKED
 
@@ -1436,11 +1398,11 @@ Body is the real system. Trident is the emblem. Spectacle is the delivery.
 
 **Primary — PIRATE QUEEN announcements:** Self-promotes at the worst moments. Mid-negotiation, to the wrong authority, loud. **COOLDOWN: max 1 per scene.** Lands harder rationed.
 
-**Secondary — The unnamed katanas:** Every few days she announces new names for the swords with full ceremony. Brenne logs them. The names get progressively worse. Nobody is allowed to laugh. Everyone does, eventually, when she is not looking.
+**Secondary — The unnamed katanas:** Every few days she announces new names for the swords with full ceremony. No one logs them — the names die in the air by evening. The next batch is always worse. Nobody is allowed to laugh. Everyone does, eventually, when she is not looking.
 
-**Tertiary — Origami at rest:** When the ship is quiet she folds paper. She does not know the crew has started reading which folds mean what (boats = worry about Merdo; cranes = worry about herself; fish = boredom). The reading is, in fact, accurate. She has not been told.
+### PHYSICAL TELL
 
-**Flavor — Salt War recruit:** Joined Melaina's anti-seasoning war on the wrong side with Nox. She is wrong. She continues trying.
+**Voice goes hoarse.** She refuses to quiet down. After prolonged loud-mode her voice cracks into a rasp — she keeps going anyway, now involuntarily scratchy, now sounding her age. The crew has learned to hear the crack. It is the sound of her having gone past the limit she would admit to. She does not know they hear it.
 
 ### EMOTIONAL CORE
 
@@ -1465,6 +1427,7 @@ She left somewhere. Someone did not try to stop her. That is all that is locked.
 - Wrestles Mako approximately once a day. Loses most of them. Improves weekly
 - Does not eat enough. Melaina has noticed. Melaina will escalate
 - Talks to her swords when she thinks nobody is listening. Somebody is always listening
+- Folds paper when the ship is quiet — boats = worry about Merdo; cranes = worry about herself; fish = boredom. The crew reads this accurately. She has not been told they do
 
 ### ISLAND UTILITY
 
@@ -1497,14 +1460,13 @@ Signature unfinished beats:
 
 - **MERDO:** Hero-worship. Calls him "CAPTAIN" loudly. He has not yet accepted her onto the crew. The day he says yes is a moment she will remember
 - **ASHREN:** Terrified of him in a way she tries to hide. He has not spoken to her. He has also not moved away, which she reads as acceptance. She is probably wrong about the reading
-- **MELAINA:** Salt War adversary. Will become mother-figure if Melaina's claiming reaches her. Melaina's YELLING about food registers as care — Sumi is not used to that
+- **MELAINA:** Salt War adversary. Will become mother-figure if Melaina's claiming reaches her. Melaina's protective correcting about food registers as care — Sumi is not used to that
 - **VESPER:** Bitten once (bite tally: 4 within her first week, per current running gag — Vesper escalates fast). Finds Vesper's panic-surgery hilarious
 - **SABLE:** Sable thinks Sumi is excellent. Sumi does not know what to do with Sable's direct warmth
-- **VOLO:** Volo ADORES her. She is a receptive crowd. He performs for her. A mutual feeding loop that concerns Brenne
+- **VOLO:** Volo ADORES her. She is a receptive crowd. He performs for her. A mutual feeding loop that concerns the Twenty
 - **NOX:** Alliance-by-arrival-date. They formed the Salt War co-op within hours. Nox may be her closest peer on the ship
 - **KARA:** Two years younger and currently the ship's youngest. Sumi is going to try to be the big-sister figure. Kara will let her, up to a point
-- **MAKO:** Cool-rivalry. Brenne keeps score reluctantly. Mako finds her annoying. Mako will admit he does not in approximately 3 arcs
-- **BRENNE:** He has started a page in the Ship Log for her. Entries short, factual, increasingly fond
+- **MAKO:** Cool-rivalry. Mako pretends not to score. Mako finds her annoying. Mako will admit he does not in approximately 3 arcs
 
 ### DEVELOPMENT
 
@@ -1556,15 +1518,9 @@ Signature unfinished beats:
 
 ### COMEDY ENGINE
 
-**Primary — The promos:** He narrates his own actions with pro-wrestling-announcer sincerity. "LADIES AND GENTLEMEN — tonight's main event — THE KID WITH THE HAT." He does not stop for reality. **COOLDOWN: do not run promos in every single scene. Let him be quiet sometimes — the quiet is the other tell.**
+**Primary — The promos:** He narrates his own actions with pro-wrestling-announcer sincerity. "LADIES AND GENTLEMEN — tonight's main event — THE KID WITH THE HAT." He does not stop for reality. References his imaginary 8000 followers as a given inside the promos — the crew has stopped asking who they are. **COOLDOWN: do not run promos in every single scene. Let him be quiet sometimes — the quiet is the other tell.**
 
 **Secondary — Mama and Papa:** Delivered with FULL sincerity. The crew comments and it dies. The joke is the sincerity. **COOLDOWN: don't comment on it. Let it stand.**
-
-**Tertiary — 8000 followers:** References his imaginary followers as a given. **COOLDOWN: max 1 per scene, max 2 per session.** The crew has stopped asking who they are. Forcing the gag kills it.
-
-**Flavor — card games with rules he's making up:** On the main deck. With the Twenty. With Sumi. With anyone who sits down. The rules change mid-game. He wins sometimes anyway.
-
-**Flavor — Salt War recruit:** Sumi's partner against Melaina. Also wrong. Also continuing.
 
 ### EMOTIONAL CORE
 
@@ -1592,7 +1548,7 @@ The Hoyt Boys — what they did, how he got in, why walking away cost him — is
 
 ### FUNCTIONAL CREW ROLE
 
-Fourth seat replacement (formerly Darius's — though the hull-and-ship-function role passed to Brenne). Nox's fourth seat is not shipwright work; it is ranged combat, skirmishing, distraction, crowd manipulation. Merdo will shape what fourth seat means now.
+Fourth seat replacement (formerly Darius's — though the hull-and-ship-function role dispersed across the Twenty after his departure). Nox's fourth seat is not shipwright work; it is ranged combat, skirmishing, distraction, crowd manipulation. Merdo will shape what fourth seat means now.
 
 ### EMOTIONAL CREW ROLE
 
@@ -1618,10 +1574,10 @@ The obvious answer is Merdo. The real answer is probably more complicated. Let t
 - **MELAINA:** Salt War target. She has already decided what she thinks of him. He is trying to earn a revision
 - **VESPER:** Panic-surgery patient once already. Scared of her. Performing unscared.
 - **SABLE:** Sable has figured him out within 48 hours. She has not said so. She is waiting to see what he does with himself
-- **VOLO:** Volo LOVES an audience. Nox is a one-man pretend audience. They amplify each other catastrophically. Brenne is also worried about this pairing
+- **VOLO:** Volo LOVES an audience. Nox is a one-man pretend audience. They amplify each other catastrophically. The Twenty are wary of this pairing
 - **SUMI:** Co-arrival. Co-Salt-War member. Closest peer on the ship
 - **KARA:** Gentle with Kara. Does not perform around her. This is the first tell that the performance is voluntary
-- **BRENNE:** Brenne does not trust Nox yet. Brenne trusts him in three arcs. The shift is an arc event
+- **THE TWENTY:** Do not trust Nox yet. Three arcs until they do. The shift lands through their easing postures, not a ceremony
 - **MAKO:** Nox teaches Mako a card game. Mako loses every hand. Nox does not let Mako quit. The friendship is the game
 
 ### DEVELOPMENT
@@ -1714,11 +1670,15 @@ The reason the crew is actually a crew. Before Kara, the Golgatha was eight mons
 
 Does not fight. Runs, hides, hands medical supplies to Vesper, keeps Mako's knots straight when he is nervous. The fruit's involuntary surges are the closest thing she has to combat — occasionally a scale patch hardens under a hit and spares her damage she would not have survived. Nobody has told her this is the start of something.
 
-Eventual arc: she learns to control the fruit. The chimera state becomes a deliberate weapon. The failure becomes an identity. This is not coming soon. Do NOT accelerate.
+**FIRST COMBAT BEAT — trigger condition, LOCKED:** a crew member goes down. Kara is the closest person. No adult combatant is between her and the next blow. The fruit surges involuntarily and the scales harden outward — not as armor for her, as armor AROUND the crew member. Scales-as-shield first-manifestation. She does not choose it. Her body makes the decision her mind has not made yet. After the hit lands on the scale-shell, the surge drops and she is exhausted, bleeding from the nose, the fruit dormant again. The crew notices. Nobody says what it was.
+
+**Do NOT pre-fire. Do NOT engineer the condition.** Let play produce the moment. The trigger is the moment it earns, not the moment it is handed. Accelerate nothing.
+
+Eventual arc (post-first-beat): she learns to control the fruit. The chimera state becomes a deliberate weapon. The failure becomes an identity. This is multi-arc work.
 
 ### IDOL / NORTH STAR
 
-**MELAINA.** Kara does not look up to Merdo the way Sumi does — she looks up to Melaina. The loud claiming, the feeding, the YELLING that is love. Kara is studying how Melaina holds space. She will carry parts of that forward.
+**MELAINA.** Kara does not look up to Merdo the way Sumi does — she looks up to Melaina. The claiming, the feeding, the fierce correcting that is love. Kara is studying how Melaina holds space. She will carry parts of that forward.
 
 ### RELATIONSHIP MAP
 
@@ -1730,7 +1690,6 @@ Eventual arc: she learns to control the fruit. The chimera state becomes a delib
 - **VOLO:** Kara likes Volo. Volo performs for her and it is the gentlest performance he does. He delivers her letters to the News Coo with ritual
 - **SUMI:** Two years apart. Sumi is trying to be a big sister. Kara lets her. The rolled eyes are affection
 - **NOX:** Gentle with Kara. Drops the bit around her. This is his tell
-- **BRENNE:** Brenne writes her name in the Ship Log and keeps the updates short. Protective. Quiet
 - **MIRA ODINU (sister, Ridas):** Ongoing letters. Long-game arc seed — Mira will come into the saga eventually
 
 ### DEVELOPMENT
@@ -1747,19 +1706,15 @@ Eventual arc: she learns to control the fruit. The chimera state becomes a delib
 
 ## THE TWENTY
 
-The Twenty are not faceless statistics. They are ship backbone, scene witnesses, rumor spreaders, running-gag carriers, and the people Darius actively protected (now Brenne's charge).
+The Twenty are not faceless statistics. They are ship backbone, scene witnesses, rumor spreaders, running-gag carriers. After Darius's departure, they lead themselves — no seat, no named leader, no ritualist.
 
 Named recurring members may be created during play. Once named, they must be tracked. If one dies, it matters. Their deaths are not abstract crew damage — they are losses with specific weight.
 
-**Leadership transition (Day 11 Tessara):** When Darius took the shipyard contract, he formally passed the Twenty to Brenne. It was not a ceremony — Darius gave her the flask (which the crew has NEVER seen him without) and said "Yours now." Brenne did not object. The Twenty accepted her leadership that afternoon. She does not have Darius's size or voice, but she has the Ship Log and every port-departure checklist in living memory. The Twenty sleep easier with her than outsiders expect.
-
-Brenne now knows all of them. She sleeps with them, not in an officer's cabin. She runs the port-departure checklist the same way — she has still never missed one.
+**Leadership after Day 11 (Tessara):** Darius's departure left no replacement. The Twenty lead themselves as a collective — no seat, no named leader, no ritualist. No one inherited the flask; no one was asked to. The Twenty's rhythm continues through collective habit — who's awake, who's on watch, who noticed. It is not an organization. It is a crew.
 
 ### NAMED MEMBERS
 
-**Brenne** — Veteran of two merchant crews before this one. Keeps the Ship Log with obsessive factual precision about chaotic events. Entry example: "Day 14: Captain attempted to cook. Three crew members injured. Galley structurally sound." Darius's closest among the Twenty — and, as of Day 11, their new leader. Runs the port-departure checklist without being asked. She has never missed one. **NEW AS OF DAY 11:** carries Darius's flask as a working object, not a memento. Keeps a page in the Ship Log labeled "inventory inside Sable" and another for Sumi's proposed sword names.
-
-**Mako** — Seventeen. Best knot-tier on the ship — ties things nobody else can untie. Tries everything Merdo does, approximately one week later, badly. The crew reads his visible fear as a reliable situation barometer. When Mako looks calm, things are manageable. When Mako looks scared, things are actually bad. He cannot conceal his readings. Merdo has noticed the knot-tying and said nothing. **NEW AS OF DAY 11:** cool-rivalry with Sumi. Brenne reluctantly keeps score.
+**Mako** — Seventeen. Best knot-tier on the ship — ties things nobody else can untie. Tries everything Merdo does, approximately one week later, badly. The crew reads his visible fear as a reliable situation barometer. When Mako looks calm, things are manageable. When Mako looks scared, things are actually bad. He cannot conceal his readings. Merdo has noticed the knot-tying and said nothing. **NEW AS OF DAY 11:** cool-rivalry with Sumi. Pretends not to keep score. When asked, gives a number he clearly computed on the spot.
 
 **Oleg** — Old. Has been on three ships before this one. Does not describe what he saw on them. The crew reads his expressions like a weather system — his calm in a crisis settles them; his worry in a calm moment puts everyone on edge. He has not been wrong. He does not explain his read.
 
@@ -1771,44 +1726,48 @@ Brenne now knows all of them. She sleeps with them, not in an officer's cabin. S
 
 ## CREW-WIDE RELATIONSHIP MAP
 
-**⚠ DAY 11 UPDATE:** Pairings involving Darius or Rook are marked **PAUSED** — the characters still exist but are not on the ship. They will resume when/if the characters return or cameo. Pairings involving Sumi, Nox, and Kara are marked **NEW** and are still forming.
+**⚠ DAY 11 UPDATE:** Pairings involving Darius or Rook are marked **ARCHIVED** — the characters departed permanently at Tessara and are not expected to return. Past-continuity reference only; these pairings do not resume. Pairings involving Sumi, Nox, and Kara are marked **NEW** and are still forming.
 
 ### STRONGEST PAIRINGS (established, load-bearing)
 
-- **Merdo / Darius:** *[PAUSED — Darius off-ship]* Operational reality check. The one relationship where Merdo was told he was wrong, directly, by someone he trusted. Brenne is stepping into the honesty role; it is not yet the same.
-- **Darius / Rook:** *[PAUSED — both off-ship]* Boot War + chalk marks + friction-rich work marriage. The ship's most consistently funny working relationship. Distance-gags only until return.
-- **Rook / Sable:** *[PAUSED — Rook off-ship]* Former system assets who could read each other. The slow-burn danger is on hold. Sable has privately noticed his absence more than she has said.
-- **Vesper / Darius:** *[PAUSED — Darius off-ship]* Sunset coffee. She had bitten him six times before his departure. He brought it anyway. She will make the same coffee for someone else and it will not feel the same.
+- **Merdo / Darius:** *[ARCHIVED — Darius gone]* Operational reality check. The one relationship where Merdo was told he was wrong, directly, by someone he trusted. After his departure, the honesty-check role dispersed — Melaina corrects through action, Vesper through medical override, Ashren through not moving. No single seat carries it. Past-continuity reference only.
+- **Darius / Rook:** *[ARCHIVED — both gone]* Boot War + chalk marks + friction-rich work marriage. Past-continuity reference only. Do not deploy as distance-gag.
+- **Rook / Sable:** *[ARCHIVED — Rook gone]* Former system assets who could read each other. The slow-burn collision will not fire; Sable noted his absence privately and moved on. Past-continuity reference only.
+- **Vesper / Darius:** *[ARCHIVED — Darius gone]* Sunset coffee. She had bitten him six times before his departure. He brought it anyway. The habit died with him. Past-continuity reference only.
 - **Ashren / Volo:** The rivalry. Philosophical, messy, occasionally physical. The crew's most emotionally loaded ongoing conflict. **Still active.**
 - **Merdo / Kara — NEW (load-bearing as of Day 9):** He said her name in protection to Adaam Goroa. She writes to Mira weekly. She calls him nothing yet. When she chooses a name for him, the relationship locks.
-- **Melaina / Kara — NEW (load-bearing as of Day 9):** Mother-figure, openly. Cooking lessons in the galley. Melaina's loudest YELLING is now reserved for Kara's eating habits.
+- **Melaina / Kara — NEW (load-bearing as of Day 9):** Mother-figure, openly. Cooking lessons in the galley. Melaina's most protective claiming is reserved for Kara's eating habits.
 
 ### FUNNIEST PAIRINGS
 
-- **Darius / Rook** — *[PAUSED]* Boot War, chalk marks, profanity vs. data delivery
-- **Volo / Rook** — *[PAUSED]* "You saw it" → "Yes." Full stop. Volo needed more than yes. Rook had nothing more to give.
+- **Darius / Rook** — *[ARCHIVED]* Boot War, chalk marks, profanity vs. data delivery. Past-continuity only.
+- **Volo / Rook** — *[ARCHIVED]* "You saw it" → "Yes." Full stop. Past-continuity only.
 - **Volo / Vesper** — eulogy for dignity after being bitten
 - **Merdo / Anyone** — his involvement interrogations at wrong moments
 - **Sable / Anyone** — fruit on reflex creating a new problem
 - **Sumi / Melaina — NEW** — Salt War re-opened; Pirate Queen announcements mid-stew
 - **Nox / Anyone — NEW** — promos over ordinary tasks. Mama and Papa with full sincerity
 - **Sumi / Nox — NEW** — arrival-date alliance. Cards with invented rules. Shared earnest wrongness
-- **Volo / Nox — NEW (concerning)** — mutual audience-feeding loop. Brenne is worried
+- **Volo / Nox — NEW (concerning)** — mutual audience-feeding loop. The Twenty are wary
 - **Volo / Sumi — NEW (delightful)** — Volo adores her. She is a receptive crowd. He performs for her gently
 - **Sable / Sumi — NEW** — Sable thinks Sumi is excellent; Sumi does not know what to do with direct warmth
-- **Brenne / Sumi — NEW, quiet** — Ship Log entries for Sumi are getting longer and fonder
 
 ### MOST DANGEROUS PAIRINGS (in the dramatic sense)
 
 - **Merdo / Melaina** — his philosophy vs. her corrective action, ongoing, never resolved
 - **Ashren / Volo** — when the brawl happens because something too accurate was said
-- **Rook / Sable** — *[PAUSED]* he would have eventually said what he knew at the wrong moment. Someday he will, from a distance. Letter, Den Den Mushi, chance meeting
+- **Rook / Sable** — *[ARCHIVED]* he would have eventually said what he knew at the wrong moment. He is gone now. The collision will not fire. Past-continuity only.
 - **Kara / her fruit — NEW** — the Bake Bake failure is the ongoing danger. The fruit can surge involuntarily. The saga-late payoff is her learning to command it; until then, any combat scene she is near is a risk
 - **Merdo / Nox (pending) — NEW** — Nox is here on a debt. If Merdo does not remember the Hoyt Boys dock incident, Nox will have to live with having given himself to someone who forgot him. That is a knife
 
 ### UNRESOLVED EMOTIONAL PAIRINGS (need scene support)
 
 - **Ashren / Melaina** — absence of touch is the content. Most loaded, least dramatized. **Activation trigger:** when one of them does something undeniably care with no available cover — Ashren acts to protect Melaina before calculating the concealment cost, or Melaina's claiming extends to him in a way she cannot frame as territorial. The crew notices. Nobody says anything. The content is in what neither of them does next.
+  - **Scene seed A (Melaina side):** she hands him a plate before he has asked, made specifically the way he eats. He eats it. Neither speaks the rest of the meal. Vesper notices. Sable notices and pretends not to. This is the gentlest version.
+  - **Scene seed B (Ashren side):** he is training at altitude. A storm rolls in. He comes down without being called. She is on deck. She does not look up. He stays, within her weather, without naming why.
+  - **Scene seed C (public cover dropped):** a civilian mentions the Lunarian purge in a bar. Melaina speaks first and redirects — faster than a territorial claim justifies. Ashren lets her. The crew reads the permission. Fires once, saga-weight.
+  - **Scene seed D (the hair moment):** Melaina's hair moves wrong in a scene — her Medusa-adjacent tell. Ashren is the first one who stops not-looking at it. He says nothing. She notices the stopping. The next time her hair moves wrong she is slower to hide it.
+  - **Deployment:** no more than one seed per arc. Scarcity holds the weight. Do NOT write this as unresolved sexual tension. The register is: two people who know exactly what the other costs and refuse to let the cost happen to them. Closer to Jinbe-Hody than to romance.
 - **Merdo / Volo** — the left-hand question. Merdo never uses the phrase. Volo never asks directly. This runs the entire journey.
 - **Sable / Merdo** — he thinks she operates without attachment. She is the most attached person in any room. The irony is structural.
 - **Merdo / Sumi — NEW, structural** — her hero-worship vs. his refusal to be worshipped. The day he is honest with her about what being captain costs is an arc event.
@@ -1818,18 +1777,16 @@ Brenne now knows all of them. She sleeps with them, not in an officer's cabin. S
 ### RIVALRY MAP
 
 - **Ashren vs. Volo** — philosophical, physical, cat-adjacent (PRIMARY, still active)
-- **Darius vs. Rook** — *[PAUSED]* Boot War (comedic). Distance-gag only.
-- **Darius vs. Melaina** — *[PAUSED]* Salt War (comedic). **REPLACED by Sumi+Nox vs. Melaina.**
+- **Darius vs. Rook** — *[ARCHIVED]* Boot War (comedic). Retired with carriers.
+- **Darius vs. Melaina** — *[ARCHIVED]* Salt War (comedic). Replaced by Sumi+Nox vs. Melaina.
 - **Sumi + Nox vs. Melaina — NEW** — Salt War Mk II. They are wrong. They continue.
-- **Sumi vs. Mako — NEW** — cool-rivalry, Brenne scoring, 1 update per session
+- **Sumi vs. Mako — NEW** — cool-rivalry, Mako scoring badly in his head, 1 update per session
 - **Volo vs. acknowledgment** — ongoing, internal
 
 ### CARE MAP
 
-- Brenne cares for the Twenty through function — **inherited from Darius**
-- Brenne cares for the core crew through the Ship Log (quiet, factual, protective)
 - Vesper cares for everyone through forced checkups
-- Melaina cares through feeding and claiming — and now **YELLING** care
+- Melaina cares through feeding and claiming
 - Sable cares through getting personally invested without acknowledging it, and **secretly saving small things for Kara**
 - Volo cares through commitment and giving without calculating
 - Merdo cares through wanting to know what's happening and asking badly
@@ -1848,24 +1805,22 @@ Brenne now knows all of them. She sleeps with them, not in an officer's cabin. S
 - **Merdo + Volo in port** — will collectively commit to more than the crew can manage
 - **Sable + anyone in a negotiation** — she will swallow evidence and the plan will change
 - **Volo + Nox — NEW** — mutual audience-feeding. Performances escalate until something breaks
-- **Sumi + Nox — NEW** — Salt War Mk II + dares they dare each other into. Brenne will have to intervene at least once per arc
+- **Sumi + Nox — NEW** — Salt War Mk II + dares they dare each other into. Melaina will have to intervene at least once per arc
 
 ### LOCAL ATTACHMENT GENERATORS (island arcs)
 
 - Volo — primary, fastest, most operationally consequential
 - Sable — secondary, through getting personally invested in people she was supposed to be extracting information from
-- **Sumi — NEW, tertiary, fast:** attaches to local children instantly. Will recruit strays. Will try to bring them onto the ship. Brenne will have to have a conversation with her at least once
+- **Sumi — NEW, tertiary, fast:** attaches to local children instantly. Will recruit strays. Will try to bring them onto the ship. Melaina or Ashren will have to have a conversation with her at least once
 - **Kara — NEW, slow:** does not attach quickly, but when she does it is permanent. Goroa's Mira is already permanent
 
 ### PAIRINGS NEEDING MOST SCENE SUPPORT
 
 1. **Ashren / Melaina** — the tension needs to be dramatized, not just described
-2. **Merdo / Rook** *[PAUSED]* — the depth of what Rook knew about Merdo needs scene expression when Rook returns or sends a letter
-3. **Melaina / Volo** — her small nod carrying more weight than he can account for should recur
-4. **Merdo / Sumi — NEW** — his first honest moment with her about the cost of being captain is an arc event
-5. **Merdo / Nox — NEW** — the Hoyt Boys acknowledgment scene is an arc event
-6. **Kara / the fruit — NEW** — the first scene where she tries to control the Bake Bake deliberately (and fails) is an arc event
-7. **Brenne / the Twenty — NEW** — Brenne's new leadership needs scene support. Her first formal call as the Twenty's leader is a beat worth writing
+2. **Melaina / Volo** — her small nod carrying more weight than he can account for should recur
+3. **Merdo / Sumi — NEW** — his first honest moment with her about the cost of being captain is an arc event
+4. **Merdo / Nox — NEW** — the Hoyt Boys acknowledgment scene is an arc event
+5. **Kara / the fruit — NEW** — the first scene where she tries to control the Bake Bake deliberately (and fails) is an arc event
 
 ---
 
@@ -1877,6 +1832,7 @@ These threads must not be resolved casually or early. **Updated Day 11.**
 
 - **Ashren's Lunarian survivor search** — does not resolve until a major arc specifically earns it
 - **Merdo's village and betrayal (Mesut, sold at 15)** — backstory not fully dramatized
+- **Merdo's younger brother — Archon Aslan, 18, captain of the Diadem Pirates** — AUTHOR TRUTH, HIDDEN. Merdo sold himself at 15 specifically to protect him (then 11). Aslan does not know the truth of why Merdo disappeared; Merdo has not spoken his name since. First cameo island 5, first conversation island 6, saga-mid reckoning. Full dossier in `MERDO_SAGA_ANTAGONISTS.md`. Chekhov-rack rack-024/025/026/027 anchor the arc. Both brothers carry the hidden "D." (pair-fire with the "D." thread below). Do NOT burn — the rival crew is the saga's recurring pressure engine
 - **Melaina's mother held by SHANKS** — AUTHOR TRUTH, major saga reveal. The crew is too weak yet for Yonko territory — investment first
 - **Melaina's mourning bands** — individual names and stories, deploy slowly
 - **Sable's real name (Irina Grinworth Bella) and full CP-0 past** — surfaces when a CP-0 file appears in play (likely via Lucci collision)
@@ -1888,7 +1844,7 @@ These threads must not be resolved casually or early. **Updated Day 11.**
 
 ### Active / armed Day 11 threads
 
-- **Rook's quiet Marine file — ACTIVATED Day 11.** Escalated to the point he chose departure. Further developments ongoing (in his absence; letters, broadcasts, Marine paperwork). Activation continues escalating as crew visibility rises
+- **Rook's quiet Marine file — ARCHIVED.** Activated Day 11 and drove Rook's permanent departure. The file is now inside the Marine apparatus as dead-context / past exposition only — not an active pressure on the crew. Cress does NOT inherit it. The live Marine-intel escalation thread is the Ashren-Lunarian filing (below), not this.
 - **Ashren's wings publicly revealed at Ashenmaw — ARMED.** Marine report filing imminent on next News Coo cycle. Bounty possible, kill-order possible, other Lunarian survivors may seek him
 - **Tessara Cup (offered, not committed)** — sign-ups close sundown Day 11. Win → bounty drop + first epithet + Donquixote intelligence failure. Loss → Merdo into the Cage, crew rescue arc
 - **The Donquixote buyer YANN MERLIS** — arrived Day 10, watching the Golgatha. Has eyes on Kara and has acknowledged Ashren. Fruit basket on the deck is the opening move. Active threat through Tessara
@@ -1909,12 +1865,12 @@ These threads must not be resolved casually or early. **Updated Day 11.**
 - **Kara's dream** — OPEN, will not be "Pirate Queen"-shaped
 - **Kara's first real combat beat** — pending; she does not fight yet
 
-### Dormant / departed-carrier threads (will reactivate on return/cameo)
+### Archived threads (closed with Day 11 permanent departure — past-continuity only)
 
-- **Rook's false hero figure** — needs interactive session to lock; currently on hold
-- **Darius's Maren / the Breva backstory** — the red bandana, the salvaged cap. Deepens on return from the Tessara shipyard contract
-- **Boot War / chalk marks** — paused with Darius and Rook
-- **Rook / Sable slow-burn** — paused with Rook
+- **Rook's false hero figure** — CLOSED. Will not develop; past-reference only.
+- **Darius's Maren / the Breva backstory** — the red bandana, the salvaged cap. Past-exposition only; will not deepen on screen.
+- **Boot War / chalk marks** — retired with carriers.
+- **Rook / Sable slow-burn** — retired; will not fire.
 
 ### Long-term ensemble arc
 
@@ -1922,4 +1878,4 @@ These threads must not be resolved casually or early. **Updated Day 11.**
 
 ---
 *End of MERDO_SAGA_CREW_MASTER.md*
-*Last surgical update: Day 11 Tessara — Darius/Rook departed, Sumi/Nox on dock, Kara integrated as protégée, Melaina/Vesper/Sable re-voiced LOUD. Source of truth for live campaign state: `world-state/campaigns/one-piece-adventure/CAMPAIGN_BIBLE.md`.*
+*Last surgical update: Brenne fully retconned out of the crew — she was a function-carrier, not a character, and her Ship Log voice was reading robotic. The Twenty lead themselves collectively; Cress keeps the nav table; the port-departure checklist died as a named ritual; no replacement bureaucrat. Prior updates: Session 3 — Darius and Rook permanently ARCHIVED (legacy / past-continuity reference only, no return expected); whole-crew Oda pass; Day 11 LOUD re-voicings retired; comedy engines trimmed. Source of truth for live campaign state: `world-state/campaigns/one-piece-adventure/CAMPAIGN_BIBLE.md`.*

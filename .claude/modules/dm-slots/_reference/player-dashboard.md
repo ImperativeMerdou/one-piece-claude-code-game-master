@@ -29,7 +29,7 @@ This module gives the player an on-demand dashboard. Triggered by:
                                    SLEGG" three-word crescendo finisher)
 
   ⛵ Crew on deck (8):  Ashren · Melaina · Vesper · Sable · Volo
-                       · Kara + The Twenty (Brenne, Mako, Oleg, Cress, Skel)
+                       · Kara + The Twenty (Mako, Oleg, Cress, Skel)
   
   🤝 Candidates on the dock:  Sumi "Nika-chan" + Nox (your call)
 

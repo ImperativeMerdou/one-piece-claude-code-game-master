@@ -167,19 +167,19 @@ Notes:
 ### Quiet restatement (once per session max)
 
 ```
-Brenne brought the coffee up before dawn. She didn't talk.
-She waited.
+Ashren was on the crossbeam before dawn. He had not
+said anything in an hour.
 
 Merdo said, "Thrones, their food, leave. Still the plan."
 
-Brenne wrote something in the Ship Log. The pen didn't
-stop for a long time.
+Ashren didn't move. A cat shifted on his boot.
+That was the answer.
 ```
 
 Notes:
 - No audience (or one crew member)
 - Dream compressed to fragments ("thrones, their food, leave")
-- World reaction is SMALL (a line in the Log)
+- World reaction is SMALL (a silence, a cat shifting)
 
 ### Declaration at finisher (scream-register per `emotion-will-heart.md`)
 

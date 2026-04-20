@@ -68,8 +68,9 @@ Q: "Who has the worst sense of direction on the crew?"
 A: It's a tie between Volo and Sumi. Volo because he
    thinks every direction is the right direction with
    enough conviction. Sumi because she has no idea
-   where anything is and refuses to ask. Brenne keeps
-   them out of trouble.
+   where anything is and refuses to ask. Oleg keeps
+   them out of trouble with a raised eyebrow that does
+   the instruction for him.
 
 Q: "Will Merdo ever eat a Devil Fruit?"
    — too curious, North Blue

@@ -1,6 +1,6 @@
 ## One Piece HUD / Output Format Override
 
-For the One Piece campaign, REPLACE the standard D&D dashboard from `output-format.md` with this layout. Bounty is the headline status. Berries (฿) instead of GP. Haki tracker instead of spell slots. No boxed prompt-line footer — the scene ends on its natural beat (per `narration.md` + `length-governor.md`).
+For the One Piece campaign, this module owns the output format. Bounty is the headline status. Berries (฿) instead of GP. Haki tracker instead of spell slots. No boxed prompt-line footer — the scene ends on its natural beat (per `narration.md` + `length-governor.md`). VANILLA D&D template lives in `_reference/_vanilla/output-format.md`.
 
 This module overrides the standard scene template when the active campaign is One Piece.
 
@@ -189,4 +189,4 @@ Pair with a News Coo cut or an anime-forum reaction. THE NUMBER IS NOT INVENTED 
 
 ## Activation
 
-This module is active when `campaign-overview.json` has `narrator_style: shonen-one-piece`. The DM uses this header layout INSTEAD OF the one in `output-format.md`. All other rules from `output-format.md` (Unicode indicators, dialogue boxes when needed, etc.) remain available as fallbacks for non-One-Piece scenes.
+This module is active when `campaign-overview.json` has `narrator_style: shonen-one-piece`. Unicode indicators and dialogue-box formats for non-One-Piece fallbacks live in `_reference/_vanilla/output-format.md`.

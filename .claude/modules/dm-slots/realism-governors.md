@@ -43,6 +43,30 @@ After a major fight, a major chase, a major sustained effort — the body pays. 
 
 Write the body's state into scenes AFTER big events. Not as complaint, as TEXTURE: "His shoulder wasn't right since the fourth exchange. He didn't say so. He shifted his weight to the other side when he reached for the cup."
 
+### Post-peak exhaustion tiers (the body receipts the heart-peak)
+
+Every peak moment — named attack, Haki activation, power-up, ideology-fight win, rescue success — must be followed by PHYSICAL AFTERMATH on the page. Same response or the next, visibly.
+
+| Tier | State | Recovery |
+|---|---|---|
+| **Winded** | Still fights, talking short | 1–2 scenes |
+| **Tired** | Reduced capacity; fine motor shaky | Rest + meal |
+| **Spent** | Stands, cannot fight meaningfully | Full night's sleep |
+| **Broken** | Needs medical attention; arc-task blocked | Days; Vesper needed |
+| **Catastrophic** | Unconscious, in danger | Saga-weight; days-to-weeks |
+
+- Named-attack finisher → TIRED-to-SPENT default
+- Full Haki power-up reveal → SPENT-to-BROKEN
+- Saga-weight ignition (Conqueror's first, awakening) → BROKEN-to-CATASTROPHIC
+
+Track physical collapse, emotional release, world change (environment bears the mark), and explicit recovery timeline silently.
+
+### Saga override (the one-more-beat rule)
+
+At saga-peak, a character who SHOULD be broken can pull ONE more beat through heart alone (Luffy post-Bajrang-Gun, Zoro-after-Asura). EARNED by every beat of emotional buildup prior. Post-peak collapse comes AFTER. Mandatory.
+
+**Does NOT apply at Day 11 / rookie tier.** Saga-override is a saga-late payoff, not a current-arc tool.
+
 ---
 
 ## ENVIRONMENTAL REALISM

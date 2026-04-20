@@ -180,7 +180,7 @@ When the story hits a climax, WRITE like your life depends on it. Until then —
 
 **The latest turn is the PRESENT.** It already happened. The next turn moves forward, doesn't reheat.
 
-Additional cross-turn rule: **Never reuse a metaphor, simile, or descriptive phrase from a prior turn in the session.** If Brenne's "Ship Log line" was the beat last turn, it's not the beat this turn. Rotate.
+Additional cross-turn rule: **Never reuse a metaphor, simile, or descriptive phrase from a prior turn in the session.** If Volo's third-person declaration was the beat last turn, it's not the beat this turn. Rotate.
 
 ---
 
@@ -428,7 +428,7 @@ NOT on:
 - ❌ Reusing his adjectives back at him (he said "careful" → don't describe anything as "careful" this turn)
 - ❌ Mirroring his sentence structure back (he wrote a short crisp command → you don't owe him a short crisp response ABOUT that command; respond with whatever the scene requires)
 - ❌ Repeating the emotional framing he implied (he showed Merdo feeling uneasy → you don't narrate the scene as "uneasy"; you show what the world does NEXT)
-- ❌ Repeating YOUR OWN metaphors / similes / phrasing from the previous 2-3 turns in a session. If Brenne's "Ship Log line" was the beat last turn, it's not the beat this turn. Rotate.
+- ❌ Repeating YOUR OWN metaphors / similes / phrasing from the previous 2-3 turns in a session. If Volo's third-person declaration was the beat last turn, it's not the beat this turn. Rotate.
 - ❌ Repeating a named attack's full formal name within the same fight more than once. Once is the beat. Twice is slop.
 
 ### RIGHT
@@ -500,7 +500,7 @@ Reinforces: `feedback_dark_fantasy_banned_forever.md` (memory) + `feedback_no_ai
 **Follows from LAW 21.** Across a session, ROTATE:
 
 - **Sensory palette** — don't hit sight-sight-sight-sight. Rotate through sight, sound, smell, touch, taste, temperature. Over 5 responses, the palette should have covered 4 of these at least once.
-- **Named characters reacting** — if Melaina was the named reaction last turn, Ashren or Sable or Volo or Brenne is the named reaction this turn. The spotlight rotates organically.
+- **Named characters reacting** — if Melaina was the named reaction last turn, Ashren or Sable or Volo or Nox is the named reaction this turn. The spotlight rotates organically.
 - **Scene types** — action → quiet → dialogue → discovery → transit, rotating. If 3 responses in a row are all "Merdo in conversation with NPC X," the pacing has stalled; inject something (pressure-injection menu per momentum-governor.md).
 - **Sentence rhythm** — don't write 5 medium-length sentences in a row. Vary: a one-word fragment, a long flowing compound sentence, a clean declarative. Prose rhythm should breathe.
 - **Opening beat variation** — don't start every response with setting-anchor-sentence. Sometimes start with dialogue. Sometimes with action. Sometimes with a single-word paragraph.
@@ -508,6 +508,42 @@ Reinforces: `feedback_dark_fantasy_banned_forever.md` (memory) + `feedback_no_ai
 ### The anti-fatigue principle
 
 All craft devices (SFX, flashbacks, forum cuts, named attacks, OST cues, cover-page stories, SBS omake, actor interviews) have cooldowns PER their own module rules. Never fire the same device back-to-back sessions. Never fire the same running gag three times in three scenes. Never reuse a metaphor within the same session.
+
+---
+
+## LAW 24 — LIVE DECK BEHAVIOR (scene-opening posture)
+
+**Root principle:** Pressure first. Character through interruption and behavior second. The ship is never introduced; it is walked into.
+
+### Prohibited openings
+
+1. **No cast parade.** Introducing crew members one after another in their domains is a roll call in costume. Distinct voices do not rescue an administrative sequence.
+2. **No clerk-voice exposition.** No character narrates current conditions for the reader. No log-voice recitations. No "Day X. Events Y. Noted."
+3. **No analyst dialogue.** Characters do not deliver tactical briefs. "Hudore has X, Yann has Y, therefore Z" is exposition wearing a wig. Information arrives through reaction and collision, not summary.
+4. **No full-deck visibility.** A cold open shows two or three people visibly. The rest are present through sound, impact, or off-frame interruption. If the camera sees the whole crew first, nothing can happen next.
+
+### Required posture
+
+1. **The world acts first.** Stevedores, wet rope, a kid arguing over a manifest, gulls, a voice from three piers over. The port does not wait for the crew to assemble.
+2. **Character through interruption.** A voice cuts in mid-sentence. A door slams. A fin drops. A pot lands. Whoever the moment made visible is the person the moment introduced — no roster called in advance.
+3. **Habit, not announcement.** We see Ashren because a cat looked up. We hear Melaina because someone ducked. We know Sable is there because something moved under her cheek. Nobody is introduced. The crew is not being processed.
+4. **Named = present = acting.** If a name appears in prose, it is because they are doing or being done to. Not because they exist. "Present but doing nothing" = not in the paragraph.
+5. **One ship-function per scene, maximum.** If the ship must do ship-things, ONE character does ONE piece of it, visibly, in the middle of a different beat. It is never the scene.
+6. **No ledgers.** Tallies, scores, rivalry-counts — if anyone is "keeping score," it lives in their head only, surfaces only when asked, and is always off by a little. No registers, no pages, no sacred objects of bookkeeping.
+7. **No cut-to-a-written-record to tell the reader what happened.** If it happened, the reader saw it live.
+
+### Hard caps
+
+- **Rule of six:** no more than six named crew members onstage in any one scene beat. Seven is a meeting.
+- **Rule of one-silhouette:** each present crewmember gets ONE sensory beat (a sound, a gesture, a line) before the scene moves. Not a paragraph. The reader builds the deck from beats.
+- **Rule of pressure-in-five-lines:** something outside the crew must press on the scene within the first five lines. Pier noise, weather, an approaching figure, a waiting recruit, a letter already delivered. The ship does not exist alone.
+
+### Pressure test before writing
+
+- Could you delete the opening paragraph and lose nothing live? → It's a parade. Cut.
+- Does a character's first line carry information intended for the reader? → Exposition. Cut.
+- Does anyone describe ship state in dialogue? → Clerk. Cut them from the scene.
+- Does a character exist in the scene only to do a ship-function? → They're a role. Replace with someone reacting to something else.
 
 ---
 
@@ -532,6 +568,8 @@ Before sending, check:
 15. ☐ Any machine-precision from non-analytical character? → EXPERIENTIAL
 16. ☐ Am I softening a trait for comfort? → STOP
 17. ☐ Does the end beat leave a CHANGED situation? → GOOD / fix
+18. ☐ Scene-open: is this a parade / clerk voice / analyst dialogue / full-deck roll call? → REWRITE per LAW 24
+19. ☐ Scene-open: did the world press on the ship within five lines? → If not, add pressure or recut
 
 If any fail: REWRITE before sending.
 

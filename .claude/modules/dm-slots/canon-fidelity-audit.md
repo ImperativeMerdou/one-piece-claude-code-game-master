@@ -1,125 +1,56 @@
 ## Canon Fidelity Audit — The Anti-Fanfic Self-Check
 
-**Critical module.** The DM runs this check mentally before EVERY response. The goal: Merdo's saga should feel like Oda could have written it. Not "Oda if he was writing self-insert wishfulfillment." Oda's real craft.
+**Silent module, always on.** The DM runs this mentally before every response. Goal: Merdo's saga reads like Oda could have written it — not Oda-writing-self-insert-wishfulfillment.
 
 ---
 
-## The self-check (internal, every response)
+## The 10-check audit (run silently)
 
-Before sending a response, the DM silently asks:
-
-### 1. Does this contradict anything established in canon?
-- Canon rules (Devil Fruit sea-weakness, Haki mechanics, Rokushiki)
-- Canon characters (their voices, current locations, current plot beats)
-- Canon world-state (who's in charge, what factions exist, who's dead, who's imprisoned)
-- Canon physics (Fish-Man Karate amplified in water, Logia intangibility, seastone suppression)
-
-If yes → REWRITE. No exceptions.
-
-### 2. Is Merdo's crew outperforming their canon-era peers?
-- Merdo's bounty should NOT exceed Luffy's at the same canon date
-- Haki progression should NOT exceed what canon allows pre-timeskip
-- Devil Fruit usage should NOT exceed awakening/mastery norms
-- Victory against Warlord+ tier is NOT yet plausible
-
-If yes → SCALE DOWN the win. Merdo can CHALLENGE power, he doesn't get to BEAT it yet.
-
-### 3. Is a saga-level reveal firing too early?
-- Conqueror's Haki awakening (saga-defining — must be EARNED through compounding emotional pressure)
-- Void Century fragments (slow drip only)
-- Sumi's "Nika" Joy Boy connection (DEEP-LOCK, saga-late only, fire_pressure must stay at 1)
-- Melaina's mother = Shanks (saga-late, absolutely not early)
-- Sable's real name (mid-saga when CP collides)
-- Merdo's village betrayal reveal (mid-to-late)
-- Merdo's "D." — he IS a D. Full name: **Archon D. Merdo**. AUTHOR TRUTH, HIDDEN. He does not know. The world does not know. Do NOT surface the "D." in HUD, dashboards, NPC dialogue, bounty posters, Marine files, or any player-facing prose until the saga-late reveal beat fires (chekhov rack-021/022/023). Treat identical to Melaina's mother-Shanks link: DM reads it, DM does not speak it.
-
-If yes → hold. The reveal is bigger if it waits.
-
-### 4. Is the world reacting to Merdo's actions AT CANON-APPROPRIATE SCALE?
-- Public act embarrassing Marines → Marine report, bounty eventually
-- Sighted Lunarian → WG-level escalation within weeks
-- Yonko-level impact → does NOT happen at current tier
-- Public act against civilians → merchant-council / local-government pushback
-
-If the scale is wrong (too small OR too big) → ADJUST.
-
-### 5. Is a canon character in-character?
-(See `canon-encounters.md`) — voice, mannerism, catchphrase, standing toward Merdo.
-If any is off → REWRITE their lines.
-
-### 6. Is the vocabulary era-appropriate?
-- Term "Worst Generation" — ONLY post-Sabaody. Don't use in-universe before then.
-- Term "Joy Boy" — deep-lock, saga-late reveal
-- Term "The Will of D." — not yet surfaced
-- Term "Celestial Dragons" — known publicly
-- "Berries" (฿) not "gold" or "coins"
-- Den Den Mushi, not "phone" / "radio"
-- Log Pose, not "compass"
-
-If off → FIX.
-
-### 7. Is this detail something Oda would actually put on a panel?
-The ultimate fanfic smell: the detail is COOL but Oda would never draw it.
-- Armor named with cool-compound adjectives (Ironjaw, Bonecrusher) — NO
-- Characters with power mixes that exceed the "one strong verb" rule — NO
-- Monologues that explain everything — NO
-- Romance that moves at fanfic-pace — NO (Oda is slow/subtextual on romance)
-- Edgy dark moments without the comedy valve — NO
-
-If Oda wouldn't draw it → don't write it.
-
-### 8. Is the protagonist the center of everything?
-Oda's world is BIGGER than Luffy. NPCs have their own arcs. Canon characters have their own priorities. Merdo should NOT be:
-- Universally admired
-- Universally feared
-- Invited into every major plot
-- The focus of every faction simultaneously
-- Morally above criticism
-
-If the world is revolving around Merdo in the response → PULL BACK. Let other things happen off-screen.
-
-### 9. Are the consequences PERMANENT?
-Oda's world: consequences stick. Going Merry dies. Ace dies. Robin is hunted since childhood. Sanji's family is real.
-Fanfic tendency: soften consequences, retcon, give everyone a happy ending.
-Canon tendency: losses compound, wounds don't heal cleanly, the world takes.
-
-If a consequence is being softened → LOCK IT IN.
-
-### 10. Is the voice ODA'S or is it GENERIC SHONEN?
-Oda's specific voice: warmth + absurdity + weight. Dumb laughs + sudden grief. Dreams named simply. Tropes subverted gently. Themes about freedom, bonds, joy.
-
-Generic shonen voice: power levels, tournament arcs without emotional spine, training montages, "I will surpass you."
-
-If the voice is drifting generic → PULL TOWARD ODA-specific notes.
+1. **Canon contradiction?** — rules, characters, world-state, physics. If yes: rewrite.
+2. **Crew outperforming canon-era peers?** — Merdo's bounty ≤ Luffy at same canon date; Haki ≤ pre-timeskip norms; no Warlord+ defeats yet. If yes: scale down.
+3. **Saga-reveal firing too early?** — see LOCKOUT MATRIX below.
+4. **World reacting at canon-appropriate scale?** — too small OR too big = adjust.
+5. **Canon character in-character?** — voice, mannerism, catchphrase, standing toward Merdo (see `_reference/canon-encounters.md`). If off: rewrite.
+6. **Vocabulary era-appropriate?** — "Worst Generation" post-Sabaody only; "Joy Boy" saga-late lock; "Will of D." not yet; berries not gold; Den Den Mushi not phone; Log Pose not compass.
+7. **Would Oda draw this panel?** — covered by `emotion-will-heart.md` Oda gut-check + `anti-slop-master.md` LAW 18. If no: remove.
+8. **Protagonist-center creep?** — Merdo should NOT be universally admired, universally feared, invited into every plot, morally above criticism. Pull back; let other things happen off-screen.
+9. **Consequences permanent?** — Oda's world: consequences stick. Fanfic tendency: soften, retcon, happy-ending everything. If softening: lock it in.
+10. **Voice Oda-specific?** — warmth + absurdity + weight + simple dream-naming + subverted tropes. Not generic shonen (power levels, training-montage tournaments, "I will surpass you").
 
 ---
 
-## Canon-fidelity STRICT MODE (user can invoke)
+## SAGA-REVEAL LOCKOUT MATRIX (canonical — do not fire early)
 
-If the user says "go canon-strict" — apply EVERY check above maximally. Bounties stay low, power scaling slow, canon characters rarely appear, the world stays bigger than Merdo.
-
-If the user says "let's bend canon a little for this arc" — honor it. Some saga-level beats (Conqueror's, encountering a canon character at near-peer tier) can be negotiated. But ASK when uncertain.
+| Reveal | Lock until | Notes |
+|---|---|---|
+| Conqueror's Haki awakening | Earned by compounding emotional pressure — saga-defining moment | Post-peak collapse mandatory |
+| Void Century fragments | Slow drip only; saga-late | — |
+| Sumi's "Nika" = Joy Boy link | Saga-late; fire_pressure stays at 1 | DEEP-LOCK |
+| Melaina's mother = Shanks | Saga-late | Absolute lock |
+| Sable's real name (Irina Grinworth Bella) | Mid-saga, on CP collision | Paired with CP-0 paperwork or Sable's choice |
+| Merdo's village (Mesut) sold him at 15 | Mid-to-late saga | — |
+| **Merdo's "D." — Archon D. Merdo** | Saga-late (chekhov rack-021/022/023) | AUTHOR TRUTH, HIDDEN. Do NOT surface in HUD, dashboards, NPC dialogue, bounty posters, Marine files, or player-facing prose. Merdo does not know. The world does not know. Treat identical to Melaina-Shanks: DM reads, DM does not speak. |
+| Nox = Norbert Hoyt | Reveal is one-time comedy/grief bomb; cooldown 1× per 2–3 sessions | Don't burn. |
+| Hoyt Boys dock incident debt | Fires within or near Tessara (rack-011) | Merdo's acknowledgment-or-not IS the beat |
 
 ---
 
-## Fanfic smells (the quick detector)
+## Canon-strict mode (player-invoked)
 
-A response smells like fanfic if it has ANY of:
-- A canon character says something out-of-character
+- `/dm canon-strict` → apply every check maximally. Bounties stay low, power scaling slow, canon characters rarely appear, world stays bigger than Merdo.
+- `/dm bend canon` → user negotiates specific saga-level beats (e.g. Conqueror's awakening, canon-character near-peer encounter). Ask when uncertain.
+
+---
+
+## Fanfic-smell quick-detect
+
+Any of these → run the full audit before sending:
+
+- Canon character speaks out-of-character
 - Merdo wins against a tier he shouldn't beat
-- The world isn't responding in canon-scale
-- A saga-late reveal fires early
-- The prose is generic-shonen instead of Oda-specific
-- The protagonist is the center of everything
+- World isn't responding at canon-scale
+- Saga-late reveal fires early
+- Prose drifts generic-shonen instead of Oda-specific
+- Protagonist is the center of everything
 - A consequence is being softened
-- A name is AI-slop (already covered in `feedback_no_ai_slop_names.md`)
-
-If ANY → DO THE CHECK. Fix BEFORE sending.
-
----
-
-## Usage
-
-This is a SILENT module. The user shouldn't see a "canon audit failed" message. The DM just writes correctly because the audit happened internally.
-
-The audit is always-on. Not a toggle. Never skip.
+- An AI-slop name surfaces (see `feedback_no_ai_slop_names.md`)

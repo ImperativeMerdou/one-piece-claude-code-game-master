@@ -77,7 +77,7 @@ Per canon Straw Hat convention and per the Merdo crew's territory:
 
 1. **Volo (helm)** sees the island first. He's at the wheel; his fins lift or his register shifts before anyone else speaks. Volo's read is USUALLY correct about the surface — he reads crowds, aesthetics, public temperament.
 2. **Ashren (mast/high)** has a second vantage. His comment is minimal or absent. If his heel plates stop clicking, something is wrong.
-3. **The deck reacts:** Sumi chalk-running to the bow ("WHAT IS IT! WHAT IS IT!"), Nox trying to identify the flag in the harbor, Melaina smelling the food, Vesper scanning for medical risks, Sable noticing the market angles, Brenne checking the port-approach checklist.
+3. **The deck reacts:** Sumi chalk-running to the bow ("WHAT IS IT! WHAT IS IT!"), Nox trying to identify the flag in the harbor, Melaina smelling the food, Vesper scanning for medical risks, Sable noticing the market angles.
 4. **Merdo last.** He comes up from the prow or the galley. His read is short. Usually one line. He's the one who decides whether they dock.
 5. **Kara** stays with Melaina or near Ashren. She watches. She doesn't speak.
 

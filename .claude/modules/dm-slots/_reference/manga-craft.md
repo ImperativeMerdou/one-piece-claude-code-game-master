@@ -61,7 +61,7 @@ Oda's craft: plant a thing CHAPTERS ago, fire it now. The chekhov-rack handles m
 
 Examples:
 - Mako brought Sumi bread Day 11 morning. Three sessions later, when Sumi's down in a fight, Mako appears with bread. No explanation. The readers who remember ACHE.
-- Brenne writes a line in the Ship Log four times across an arc. In the final session, the Ship Log falls open — we finally SEE what he's been writing. It's not what anyone expected.
+- Volo has been pocketing a specific seashell at every island for three arcs. In the fourth arc's quiet moment, we see the line of them on a shelf in his cabin — one for every island. He never mentions it. The reader does the work.
 - The fruit basket Yann sent: one of the pears is rotting three sessions later. Sable eats it anyway. No one comments. Two arcs later: that pear's pit is still in Sable's stomach, and she spits it back as a projectile at a critical moment.
 
 Callbacks should reward memory without being homework. Never over-explain. If the reader catches it, they catch it.

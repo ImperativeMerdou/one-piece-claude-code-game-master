@@ -118,7 +118,6 @@ If the crew does NOT scatter, the saga-level training can still happen: a specif
 | Sumi | Paper mastery + anti-rain technique | An origami master / Kami-Kami predecessor / someone who solved the rain weakness |
 | Nox | Marksmanship + Observation Haki (gunners NEED observation) | A sharpshooter master (Yasopp-adjacent?) |
 | Kara | Bake Bake control + identity | A failed-Zoan survivor mentor or a Torino-medical-type who understands her fruit |
-| Brenne | Navigation + ship command | A Weatheria-type navigator OR an old sea captain |
 
 ---
 

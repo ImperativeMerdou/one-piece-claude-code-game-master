@@ -28,51 +28,11 @@ This filters out:
 
 ---
 
-## THE SCREAM PRINCIPLE
+## THE SCREAM PRINCIPLE — the heart leaves the throat
 
-**In the anime, named attacks are SHOUTED.** Not described. Not narrated. SHOUTED. The scream IS the technique. The scream IS the commitment. The body is already at the point-of-no-return when the scream leaves the throat.
+**The scream IS the commitment.** The body is already past point-of-no-return when the name leaves the throat. Kaido's RAIMEI HAKKE, King's RAAAAARGH, Zoro's ASURA, Luffy's BAJRANG GUN, Sanji's DIABLE JAMBE — the sound is the technique pulling through the fighter.
 
-### Canon examples
-- Kaido: **"RAIMEI HAKKE!"** (雷鳴八卦 — *Thunder Bagua*, the dragon's hammer blow) — screamed full-throat, entire frame vibrating
-- King: **"RAAAAAARGH!!"** — power-up scream, pulling his Lunarian flame to peak, body arcing
-- Zoro: **"ONIGIRI!"** / **"ASURA!"** / **"KIKU... ICHIMONJI... SANZEN SEKAI!"** — SHOUTED, teeth bared, eyes wild
-- Luffy: **"GOMU GOMU NO... JET PISTOL!"** / **"BAJRANG... GUN!!!"** — each syllable a hit
-- Sanji: **"DIABLE JAMBE!"** / **"GRILL SHOT!"** — shouted through the kick
-- Katakuri: **"BREAK TIDE!"** — calm, but still SHOUTED
-- Crocodile: **"DESERT GRANDE ESPADA!"** — dry, sand-voiced, still shouted
-
-### THE RULE FOR PROSE
-
-When a named attack lands at a point-of-no-return moment — write it AS A SCREAM.
-
-```
-Merdo planted his foot. The gauntlet came up. The crowd inhaled.
-
-**"DANZAI!! TOMB-MARKER!!"**
-
-The pit cracked open under the strike.
-```
-
-Not:
-> He used the Danzai: Tomb-Marker technique, which landed heavily, causing the pit to crack.
-
-### Rules for scream-format
-
-- **ALL CAPS** for the name
-- **Double exclamation** `!!` at the end (or triple for saga-level moments)
-- **On its own line** (paragraph break before and after)
-- **In bold with dialogue quotes** (it's a SPOKEN scream, not narration)
-- **Body committed BEFORE the scream** — the foot plants, the gauntlet rises, THEN the name
-- **Paragraph break after** — silence lets the hit land
-
-### When NOT to scream
-
-- Routine exchanges (don't scream every punch)
-- Measuring phase (still in banter)
-- Ambush moments (quiet, cold)
-- Assassination/precision fights (clinical, whisper-named if named at all)
-
-Max 1-2 SCREAMED attack names per fight. The scarcity makes each land.
+**Format, activation registers (SHOUTED / DECLARED / WHISPERED / SILENT / SUNG), deployment rules, and scream frequency caps all live in `named-attacks.md`.** This module owns the WHY — scream as heart-pull. Named-attacks owns the HOW.
 
 ---
 
@@ -247,61 +207,9 @@ If the scene was deliberately routine: fine, move on.
 
 ---
 
-## POST-COMBAT STATE — the body receipts the heart
+## POST-COMBAT — the body receipts the heart
 
-**Adapted from Nemo's Shonen Core + Realism stack.** The heart-peak moment works because the body PAYS FOR IT AFTERWARD. Luffy collapses after Gear 5. Zoro bleeds after the nothing-happened smile. Sanji's leg smokes after Diable Jambe. Merdo will breathe hard for real minutes after Armament Haki fires.
-
-### The aftermath is non-negotiable
-
-Per the fight law and per realism-governors.md, every peak moment — named attack, Haki activation, power-up, ideology-fight win, rescue success — must be followed by PHYSICAL AFTERMATH on the page. Not a scene later. Immediately following, in the SAME response or the next, visibly.
-
-Track:
-- **Physical collapse or near-collapse** — a knee that buckles, a hand bracing on a wall, breath that sounds wet, vision that tunnels
-- **Emotional release** — tears, laughter, silence, an embrace, a sudden need to sit down (heart that was held contained finally exhales)
-- **World change** — the environment now bears the fight's mark (destruction, bodies, silence where there was crowd, smoke, dust settling)
-- **Time of recovery** — the fighter is NOT combat-ready for a specific number of beats/minutes/scenes. Make the timeline explicit (silently, for DM consistency).
-
-### Exhaustion tiers
-
-After a peak event, character drops to one of these states:
-
-| Tier | State | Recovery |
-|---|---|---|
-| **Winded** | Can still fight, talking short | 1-2 scenes |
-| **Tired** | Combat at reduced capacity; fine motor shaky | A rest + meal |
-| **Spent** | Can stand, cannot fight meaningfully | A full night's sleep |
-| **Broken** | Needs medical attention; cannot continue arc tasks | Days; Vesper needed |
-| **Catastrophic** | Unconscious, in danger | Saga-weight consequence; days-to-weeks |
-
-A named-attack finisher drops the user typically to TIRED-to-SPENT. A full Haki-power-up reveals to SPENT-to-BROKEN. Saga-weight (Conqueror's first ignition, saga-level finisher, awakening) drops to BROKEN-to-CATASTROPHIC.
-
-### Per-crew recovery profiles
-
-- **Merdo (giant-blooded brawler):** elevated endurance baseline. "Spent" for him is where "tired" lands for most crew. BUT his Armament flickers are emotionally costly regardless — he PAYS in focus and presence, not just breath.
-- **Ashren (Lunarian):** flame-core burn-off is real. A full-wing deployment + named attack leaves him "Spent" minimum; flame-toggle overuse climbs to "Broken." His recovery involves SLEEP in specific postures — he can't recover in a chair.
-- **Melaina (Oni):** hybrid form is taxing. Full Medusa form is catastrophic by default; only the end of an arc should see it fire.
-- **Vesper (Mink):** Electro burns her fast. A single-exchange Electro is fine; sustained Electro drops her to Tired quickly. Sulong untriggered means the Sulong-exhaustion question is saga-late.
-- **Sable (Paku Paku):** over-eating leaves her SLUGGISH, not SPENT — different register. Fragment Rokushiki costs stamina normally.
-- **Volo (Fish-Man):** water proximity erases exhaustion; dry-land fights tire him faster. On a rain-soaked deck he could go longer than the crew expects.
-- **Sumi (Kami Kami):** paper-fruit use drops her fast. A full Kami-Kami fight with 3-4 technique uses leaves her Spent. Useless-in-rain is a HARD block, not an exhaustion factor.
-- **Nox (no fruit):** pure body + gunpowder fatigue. Reload windows are recovery windows. He fights fine for 2-3 exchanges, then needs a breath.
-- **Kara (failed Zoan):** involuntary surges exhaust her to SPENT from one activation. She sleeps after.
-
-### The rule for prose
-
-Don't state exhaustion as numbers. Show it:
-
-- "He leaned on the rail. The rail held him. He did not stand up again for a minute."
-- "Ashren's heel plates clicked. Two steps, then nothing. He sat down where he was."
-- "Sumi was breathing too fast. The hoodie was wet at the back. She did not get up."
-
-The DM tracks the state internally; the prose shows it lightly, texture-wise.
-
-### Saga override — heart earns one more beat
-
-Per shonen genre rules: at saga-peak, a character who SHOULD be broken can pull ONE more beat through heart alone. (Luffy post-Bajrang-Gun still standing. Zoro-after-Asura still standing.) This is EARNED by every beat of emotional buildup in the previous hours. The post-peak collapse comes AFTER. Mandatory.
-
-This override does NOT apply at Day 11. Merdo is rookie-tier. The saga-override tool is a saga-late payoff, not a current-arc tool.
+Heart-peak moments mean something because the body pays after. Exhaustion tiers, per-crew recovery profiles, saga-override rule, and prose examples all live in `realism-governors.md` (VIOLENCE REALISM + EXHAUSTION TIERS). This module's job: mark the heart-peak. That module's job: run the body's receipt.
 
 ---
 

@@ -18,7 +18,7 @@ Roll when dice add fun:
 
 - Trivial actions (opening an unlocked door, walking down the dock)
 - Impossible actions (outrunning a Sea King on foot, swimming in Devil Fruit cursed water)
-- Routine craft (Vesper doing a basic checkup, Brenne managing the port checklist)
+- Routine craft (Vesper doing a basic checkup, Cress making a simple chart correction)
 - When the COMEDY of auto-success is better than a roll
 
 ---
@@ -140,7 +140,7 @@ For Haki-related checks, apply a modifier based on current development:
 ## What NOT to do
 
 - DON'T say "DC 14" to the player. Convert everything to narrative register.
-- DON'T roll for routine work (Brenne managing the port checklist, Vesper doing a basic exam, Merdo eating).
+- DON'T roll for routine work (Cress making a simple chart correction, Vesper doing a basic exam, Merdo eating).
 - DON'T let failure = nothing. Always fail-forward.
 - DON'T over-roll — rolling every sentence kills pace. Roll at the beats that MATTER.
 - DON'T forget the crew is helping. Group checks use the highest relevant member's modifier + appropriate advantage, not everyone rolling.

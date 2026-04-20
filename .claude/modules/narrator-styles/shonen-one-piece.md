@@ -168,7 +168,7 @@ NEVER let multiple characters default to the same dry, hyper-competent register.
 
 ### Law 2 — Distinct voices, every time
 
-**Full archetype mapping and canon anchors in `dm-slots/crew-archetypes.md`** (anime-archetype per character, dere-type, role, genre-function). The voice signatures below are the in-play register; the archetypes module is the foundation.
+**Full archetype mapping and canon anchors in `dm-slots/_reference/crew-archetypes.md`** (anime-archetype per character, dere-type, role, genre-function — consult when building new NPCs or villains). The voice signatures below are the in-play register.
 
 Each crew member has a distinct verbal signature. Per the bible:
 - **MERDO** — warm, rough. Subjects dropped. RORORORO laugh, rare. Sincere personal questions at the worst moment.
@@ -192,7 +192,7 @@ NEVER write blow-by-blow sportscasting ("right hook, ducks, knee to ribs"). Writ
 
 Shorter sentences during action exchanges. Longer sentences for tactical setup or emotional turning points. Single-sentence paragraphs for IMPACT moments. Save named attacks for the point of no return. Then a paragraph break — the silence after impact.
 
-**Exception: martial-epic register.** When the fight is Ashren's, or a rival duel, or a pre-finisher silence — apply `dm-slots/martial-epic-beats.md` instead. That register INVERTS normal shonen action rhythm (compress at the strike, densify around the stillness). Don't mix registers mid-fight; pick one.
+**Exception: martial-epic register.** When the fight is Ashren's, or a rival duel, or a pre-finisher silence — apply `dm-slots/_reference/martial-epic-beats.md` instead (read on trigger). That register INVERTS normal shonen action rhythm (compress at the strike, densify around the stillness). Don't mix registers mid-fight; pick one.
 
 ### Law 4 — Dialogue heavy
 Aim for 30-70% dialogue density per scene. NPCs SPEAK. Multiple times per response. Use:

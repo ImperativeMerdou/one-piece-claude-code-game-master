@@ -194,7 +194,7 @@ Do NOT write out the strategic analysis as internal monologue ("He thought, 'If 
 
 > "Ryu Ryu no Mi, Model: Pteranodon." Volo rose off the deck. "You cannot outrun what flies above you."
 
-**3. WHISPERED / QUIET (barely audible, sometimes only to themselves)** — martial-epic register per `martial-epic-beats.md`. Ashren lives here. Mihawk-tier.
+**3. WHISPERED / QUIET (barely audible, sometimes only to themselves)** — martial-epic register per `_reference/martial-epic-beats.md`. Ashren lives here. Mihawk-tier.
 
 > Ashren's heel plates were silent. "Higure: Yuukoku."
 

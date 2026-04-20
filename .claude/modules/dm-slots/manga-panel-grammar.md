@@ -116,7 +116,7 @@ Sumi's mouth open.
 
 The dust settling on Ezrad's bottle.
 
-Brenne's pen, mid-stroke in the Ship Log, frozen.
+A cat on Ashren's boot, eyes half-open.
 ```
 
 ### 6. Non-sequitur
@@ -130,14 +130,14 @@ Two panels with no logical connection. Almost never use — only for explicit ab
 Don't pack three things into one paragraph. If you have three things, that's three panels. Three short paragraphs.
 
 WRONG (novel-style, all in one):
-> The crowd surged forward as Merdo planted his foot, and Brenne wrote in the Ship Log without looking up while Sumi screamed encouragement from the railing and Ezrad raised his bottle in a salute that might have been a toast or might have been a goodbye.
+> The crowd surged forward as Merdo planted his foot, and Oleg spat over the rail without looking up while Sumi screamed encouragement from the railing and Ezrad raised his bottle in a salute that might have been a toast or might have been a goodbye.
 
 RIGHT (manga-style, panel by panel):
 > Merdo planted his foot.
 >
 > The crowd surged forward.
 >
-> Brenne wrote in the Ship Log without looking up.
+> Oleg spat over the rail. Didn't look up.
 >
 > Sumi screamed something from the railing.
 >

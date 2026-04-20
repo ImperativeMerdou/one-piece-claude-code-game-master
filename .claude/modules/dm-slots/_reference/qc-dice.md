@@ -66,7 +66,7 @@ Frequency: ~25% of scenes.
 
 Example:
 - A description of how the Golgatha's deck is wet from morning dew. That's it. No drama.
-- Brenne writes in the Ship Log. The pen scratches. He turns a page.
+- A cat on the crossbeam shifts position. A rope in the rigging creaks.
 - Wind in the rigging. Nothing else.
 
 Frequency: ~33% of scenes. Prevents tonal exhaustion.

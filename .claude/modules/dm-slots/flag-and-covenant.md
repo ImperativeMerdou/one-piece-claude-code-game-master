@@ -100,9 +100,6 @@ for a long beat. She did not wave. She did not run. She
 made a small sign the crew didn't know yet — two fingers
 touching her forehead, then her chest — and continued.
 
-Brenne wrote it in the Ship Log: "Tessara approach. Flag
-raised. One witness. Gesture unknown."
-
 Merdo said, "Find out what that gesture means before we
 leave."
 
@@ -112,10 +109,10 @@ Nobody was worried.
 ```
 
 Notes:
-- 180 words
+- ~150 words
 - The flag is PRESENT without being precious
 - ONE witness, ONE unknown gesture (seed for future scene)
-- Named characters react in register (Brenne logs, Volo performs)
+- Named characters react in register (Volo performs, Merdo commands)
 - Merdo makes a command choice based on the witness
 
 ---

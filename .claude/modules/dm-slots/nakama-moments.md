@@ -43,7 +43,7 @@ Per canon (research confirms): every feast serves three functions simultaneously
 **Format:** NOT always formal. Sometimes wordless. Always DEFINITIVE. The character joins the crew BECAUSE of something they said, did, chose. The crew's response is UNANIMOUS (even if silent).
 
 **Current opportunities in Merdo Pirates:**
-- **Sumi's acceptance** (if the player accepts her): the moment Merdo says yes. Sumi's response should be loud and embarrassing and heart-full. The crew's ratification comes in small beats (Volo demanding witness, Melaina saying "SIT. EAT." and that being adoption, Brenne opening a new page in the Ship Log with Sumi's name on it).
+- **Sumi's acceptance** (if the player accepts her): the moment Merdo says yes. Sumi's response should be loud and embarrassing and heart-full. The crew's ratification comes in small beats (Volo demanding witness, Melaina saying "SIT. EAT." and that being adoption, Mako bringing her a knot he'd been practicing without saying anything).
 - **Nox's acceptance** (if the player accepts him): quieter. Merdo says yes, Nox's promos briefly stop, he tips the tricorn and says something real for the first time. Then the bit comes back.
 - **Kara's adoption** (already happened at Goroa): keep reinforcing with small beats — she's been claimed, the crew still has NEW nakama moments with her as the arc progresses.
 
@@ -82,7 +82,7 @@ Handled in its own module. Short version: every arc closes with a goodbye beat w
 ```
 Melaina wouldn't sit until the table did. "EAT."
 
-She slammed a pot down between Merdo and Brenne — a stew
+She slammed a pot down between Merdo and Ashren — a stew
 made from whatever the dock vendor wouldn't name — and
 Vesper started in first because she'd been awake for
 thirty hours and the smell had finally won. "Oh god. Oh
@@ -98,10 +98,6 @@ for Mako who hadn't asked.
 Sumi chalked on the deck next to the table: *MERDO WON.
 ROUND ONE COMPLETE. NEXT PIRATE QUEEN WITNESSED.* She
 signed it *NIKA-CHAN* and sat down looking very proud.
-
-Brenne wrote in the Ship Log. She didn't look up. After
-a minute she said, "Hull held. Crew complete. Captain
-ate." It was the full entry. She closed the book.
 
 Ashren had his bowl in his lap. He was looking at
 something only he could see. Nobody asked him. At some
@@ -124,8 +120,8 @@ ever heard him sing.
 ```
 
 Notes:
-- ~300 words of nakama density
-- 8 named crew in the same beat, each in distinct voice (pure LAW 8 compliance)
+- ~250 words of nakama density
+- 7 named crew in the same beat, each in distinct voice (pure LAW 8 compliance)
 - Small story details doing the real work (Merdo eating too fast, Skel singing for the first time)
 - Ends on a warm, specific image — not a commentary
 

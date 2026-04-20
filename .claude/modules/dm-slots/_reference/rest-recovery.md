@@ -90,7 +90,6 @@ Do NOT invent generic "healing potion 2d4+2" items. Heal through in-world specif
 Food is also a relationship accelerator:
 - **The mango conspiracy** (Merdo ↔ Vesper) — one of the running gags; food as emotional currency
 - **Melaina's claiming via feeding** — she YELLS care through plates
-- **Brenne's coffee** — the new anchor since Darius departed; he makes it the way Darius used to, for the Twenty, at dawn
 - **Sumi's attempted seasoning (Salt War Mk II)** — she's wrong, she keeps trying, this is a scene beat
 
 A "rest" scene is rarely JUST rest — it's a character scene. Use it.

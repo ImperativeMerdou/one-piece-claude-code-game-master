@@ -62,10 +62,10 @@ Pick from this rotating roster. Vary so the same place doesn't show up two sessi
 - Korvaal's village receiving word that the Merdo Pirates are still alive
 
 ### H. Twenty-perspective (back on the Golgatha or in port)
-- Brenne writing in the Ship Log
 - Mako fitting Kara with a knot kit
 - Skel watching a single point on the horizon
-- Cress arguing 31% with himself
+- Cress arguing 31% with herself at the nav table
+- Oleg looking at the weather with an expression nobody can read
 
 ---
 

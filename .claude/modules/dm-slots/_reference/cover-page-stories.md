@@ -161,5 +161,5 @@ Multiple cover pages across many sessions, advancing the side character's own ar
 
 - 1 cover page per session, on average
 - Rotate between continuing series and one-offs
-- Once a series advances, NOTE its position so future covers continue (use hidden-blocks PARALLEL section to track)
+- Once a series advances, NOTE its position so future covers continue (use `living-world.md` [PARALLEL] hidden-block to track)
 - Some sessions skip cover pages entirely — that's fine; they're a flourish, not a requirement

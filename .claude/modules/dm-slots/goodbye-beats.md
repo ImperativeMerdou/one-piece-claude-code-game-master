@@ -86,9 +86,9 @@ Each arc closes with a goodbye beat. Type is determined by how the arc resolves.
 ## Format — a joyful goodbye (example — future Island 5 template)
 
 ```
-The sun was up. The Golgatha was packed. Brenne had
-crossed off every item on the port-departure list twice
-because she couldn't sit still.
+The sun was up. The Golgatha was packed. Mako was tying
+and re-tying the same line. He couldn't sit still and
+wouldn't explain why.
 
 The island's people were at the dock. Not a formal crowd
 — just whoever had chosen to come. Maybe forty of them.
@@ -116,19 +116,15 @@ ship until it was a dot. Somebody rang a bell that didn't
 belong to any temple — just an ordinary harbor bell,
 ringing because somebody wanted it to ring.
 
-Brenne wrote: "Island [name] departure. Witnesses: ~40
-civilians. Flag gesture: paper imitation. Bell rung:
-harbor-type, unauthorized." She closed the book.
-
-Merdo, at the rail, said: "Log the bell. Come back to
-this one someday."
+Merdo, at the rail, said: "Remember the bell. We're
+coming back for this one."
 ```
 
 Notes:
-- 220 words
+- ~200 words
 - 4 beats present: gathering, exchange (the nods, Volo's declaration, the kid's flag), symbolic gesture (the paper flags + the bell), departure (the ship easing away, the crowd holding the shore)
 - Specific named characters react in voice register
-- Ends on Merdo's command choice (logging the bell for future return) — seeds future saga
+- Ends on Merdo's command choice (remembering the bell) — seeds future saga
 
 ---
 
@@ -174,7 +170,7 @@ Notes:
 - DON'T skip the goodbye. Every arc closes with one.
 - DON'T over-narrate the goodbye's emotion. Show the people, the gesture, the silence.
 - DON'T force a Type A goodbye when the arc earned a Type B. Match the emotional truth.
-- DON'T have the crew narrate "we did well here" or "we should come back." Show the command (log it, a note in the Ship Log, an unspoken decision).
+- DON'T have the crew narrate "we did well here" or "we should come back." Show the command (a remembered detail, an unspoken decision, a name marked to memory).
 - DON'T end the goodbye on the ship. End on the SHORE. The shore's image holds. The ship leaves frame.
 - DON'T let the goodbye run over 300 words. Compression is emotional load.
 

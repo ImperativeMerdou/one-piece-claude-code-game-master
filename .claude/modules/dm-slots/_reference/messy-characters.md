@@ -96,7 +96,7 @@ When an emotional input hits, the tell fires AUTOMATICALLY. Before dialogue, bef
 ### THE RULE
 When a character takes a heavy beat (death witnessed, wound sustained, betrayal experienced), that event DOESN'T close in the same scene. It becomes a LOAD.
 
-Track per-character in hidden-blocks:
+Track per-character via `living-world.md` hidden-block (add a [LOAD] sub-block):
 ```html
 <!-- [LOAD]:
 - Merdo: +1 (saw Kara almost transform again at the dock)

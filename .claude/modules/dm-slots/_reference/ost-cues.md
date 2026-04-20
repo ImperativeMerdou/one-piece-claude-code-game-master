@@ -56,7 +56,7 @@ Use for: deaths, departures, character backstory peaks, quiet aftermath of loss.
 ```
 *[the slow piano line — the one that always plays when it ends]*
 
-Brenne closed the Ship Log on the page that mentioned Rook.
+Ashren did not come down from the mast for a long time. Nobody asked him to.
 ```
 
 ### THE TENDER ARRIVAL ("Mother Sea" / "Bink's Sake")
@@ -130,7 +130,7 @@ Silence.
 
 ### A grief moment
 ```
-The Twenty stood at the rail. Brenne held the Ship Log.
+The Twenty stood at the rail. Nobody said anything.
 
 *[the piano starts — the way it always starts when it ends]*
 

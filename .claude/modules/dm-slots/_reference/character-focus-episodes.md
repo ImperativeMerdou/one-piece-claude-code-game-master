@@ -50,7 +50,6 @@ Rotation continues. New focus opportunities:
 - **Vesper** — her universal-medicine project hits a specific wall; cross-species medical crisis; a Mink reunion or Fish-Man medical challenge
 - **Nox** — Hoyt Boys past surfaces, Norbert Hoyt name reveal candidate
 - **Sumi** — her surname, her real reason, her wound
-- **Brenne** (if a major arc lets the Twenty lead) — the Ship Log and Brenne's own past
 - **Kara** — her first deliberate Bake Bake attempt (fails) and what that teaches her
 
 ### SAGA 3 — Sabaody Convergence

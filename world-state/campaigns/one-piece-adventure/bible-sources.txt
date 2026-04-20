@@ -2,7 +2,42 @@
 # by .claude/commands/dm-continue.md. Paths are repo-relative. Lines starting
 # with # are comments. Missing files are silently skipped.
 #
-# The Merdo Saga keeps its authoritative crew bible in ONE PIECE RESEARCH/
-# (design master) rather than a distilled copy in world-state/, so that there
-# is a single source of truth and no drift between the master and a copy.
-ONE PIECE RESEARCH/MERDO_SAGA_CREW_MASTER.md
+# RUNTIME CORE v1 (April 2026 refactor):
+# Runtime loads distilled files, not the full design masters. This cuts
+# per-session context by ~60-70% without losing voice identity or continuity.
+# Full masters remain as MANUAL_REFERENCE in ONE PIECE RESEARCH/ — read them
+# when designing saga-level reveals, closing open author truths, or rebuilding
+# the distilled runtime files.
+#
+# Authority order (highest first):
+#   1. MERDO_SAGA_CREW_MASTER.md (MANUAL_REFERENCE)  — full crew bible
+#   2. CREW_RUNTIME.md (loaded below)                — distilled live-play cards
+#   3. MERDO_SAGA_ANTAGONISTS.md (loaded below)      — runtime-scoped villain roster
+#   4. chekhov-rack.json (MANUAL_REFERENCE)          — full plant ledger
+#   5. ACTIVE_PLANTS.md (loaded below)               — hot plants only (next 1-3 arcs)
+# If any of these conflict on overlapping material, the higher-authority file
+# wins. The distilled runtime files are derived from the masters; on drift,
+# re-generate from master, do not edit distilled-only.
+
+# Crew runtime — distilled from MERDO_SAGA_CREW_MASTER.md
+# Fast live-use cards (voice anchor, body tell, comedy engine, current tension).
+# Includes active crew only. Archived (Darius, Rook) excluded.
+# For saga-level author truths and full backstories, read the master.
+world-state/campaigns/one-piece-adventure/CREW_RUNTIME.md
+
+# Antagonist runtime — Tessara arc villains + local scaffolding
+# Yann Merlis, Commodore Hudore "Cage", Parseval, Allun, the Whale, Petra
+# Mauler, Vireen thread. The Diadem Pirates and saga-span future foes live in
+# ONE PIECE RESEARCH/MERDO_SAGA_RIVALS_FUTURE.md (MANUAL_REFERENCE, intentionally
+# NOT loaded here). Promote build-only material into this file when rumor /
+# cameo phases begin — see the promotion checklist in the build-only file.
+ONE PIECE RESEARCH/MERDO_SAGA_ANTAGONISTS.md
+
+# DO NOT add MERDO_SAGA_RIVALS_FUTURE.md to this manifest until Aslan's
+# cameo arc begins (post-Tessara, toward island 4-5).
+
+# Active plants — hot-state continuity, distilled from chekhov-rack.json
+# Only plants with next-session, next-arc, or Tessara-relevant saga-mid pressure.
+# Full rack (all 30+ plants) remains MANUAL_REFERENCE for build-time lookup and
+# paired-fire relationships. Update both when a plant fires.
+world-state/campaigns/one-piece-adventure/ACTIVE_PLANTS.md

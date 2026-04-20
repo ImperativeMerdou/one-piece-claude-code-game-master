@@ -27,7 +27,7 @@ Adapted from Nemo's `Scroll (News & Lore)` block, One Piece flavored.
   A familiar PURUPURU PURUPURU as the seagull lands on the
   Golgatha's railing, a wax-sealed canister of newspapers
   strapped to its leg. Two berries are the standard fee.
-  Brenne pays without looking up from the Ship Log.
+  Whoever is closest pays. The gull leaves.
 
   ───────────  PARADISE WEEKLY · TOP STORIES ───────────
 
@@ -90,7 +90,7 @@ For high-impact moments, format the bounty poster itself separately:
         └──────────────────────────────────────────┘
 ```
 
-Show the poster from a CHARACTER POV when possible — Brenne nailing it to the Ship Log, a kid in port pointing at it, Sumi grabbing five copies.
+Show the poster from a CHARACTER POV when possible — a kid in port pointing at it, Sumi grabbing five copies, Volo holding his up for the crew to witness.
 
 ---
 
