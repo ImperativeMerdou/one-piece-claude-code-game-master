@@ -1,4 +1,4 @@
-# CAMPAIGN BIBLE — Merdo Pirates
+# CAMPAIGN BIBLE — Danzai Pirates
 
 Runtime pointer. Loads via `dm-continue.md` Step 1. Keep lean — this is orientation, not lore.
 
@@ -7,7 +7,7 @@ Runtime pointer. Loads via `dm-continue.md` Step 1. Keep lean — this is orient
 ## Identity
 
 - **Campaign:** `one-piece-adventure` (active, set in `world-state/active-campaign.txt`)
-- **Player character:** Merdo (captain of the Merdo Pirates)
+- **Player character:** Merdo (captain of the Danzai Pirates — world-given, "Danzai" = *judgment*, after his fighting philosophy and the style-name he carries)
 - **Current arc:** Day 11 — Tessara Port
 - **Ship:** the Golgatha (hull 100/100 post-Goroa refit)
 - **Narrator style:** `shonen-one-piece` (set in `campaign-overview.json`)
@@ -16,7 +16,7 @@ Runtime pointer. Loads via `dm-continue.md` Step 1. Keep lean — this is orient
 
 ## Saga thesis
 
-**The Merdo Pirates are sailing toward Hadrian's Table — the highest seat in the world's tribute chain, the man who has eaten at the top of every kingdom without once standing up. The saga ends when Merdo makes him stand up.**
+**The Danzai Pirates are sailing toward Hadrian's Table — the highest seat in the world's tribute chain, the man who has eaten at the top of every kingdom without once standing up. The saga ends when Merdo makes him stand up.**
 
 Every arc is a step toward that table. Thrones along the way are practice. Hadrian is the destination. The question the saga answers is whether the crew that reaches his room is strong enough for the man to eat with instead of the man to kill.
 
@@ -92,11 +92,14 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 ## Current live state summary
 
 - **Crew on board:** Merdo, Ashren, Melaina, Vesper, Sable, Volo, Cress (nav), Kara (protégée). Sumi + Nox arrived dock Day 11, pending acceptance.
-- **Archived this session:** Darius (ironwood contract, Tessara shipyard), Rook (sealed Marine file activated, chose long game inside apparatus).
+- **Archived this session:** Darius (ironwood contract, Tessara shipyard — departed before dawn Day 11; left a scrap of finished ironwood wrapped in cloth on Merdo's bunk, no note), Rook (sealed Marine file activated, chose long game inside apparatus — left a sealed letter for **Sable**, not Merdo, marked *"Open if I don't come back"*).
 - **Armed external threads:**
   - Ashren's wings publicly revealed at Ashenmaw (Day 9) → Marine filing imminent on next News Coo cycle.
-  - Tessara Cup sign-ups close sundown Day 11.
-  - Yann Merlis's acquisition pressure on Kara (fruit basket already delivered, uneaten).
+  - Tessara Cup sign-ups close sundown Day 11. **Volo already signed Merdo up.** Has not mentioned it. Will find out day-of, as usual.
+  - Yann Merlis's acquisition pressure on Kara (fruit basket already delivered, uneaten on the Golgatha deck; Kara has been touching it daily, moving one fruit, putting it back — Vesper saw last night, Kara does not know Vesper saw).
+  - Yann himself is at Tessara, black-hulled vessel beyond the breakwater, visible from the pier. He has been ashore at a dockside tea-house two piers down from the Golgatha berth since Day 9, quietly.
+  - A Marine patrol left a chalk tally mark on the Golgatha's gangway piling before dawn Day 11. Crew noticed. Nobody erased it.
+- **Visible on Nox at the dock:** a two-month-old knuckle scar on his right hand from the Hoyt Boys dock fight Merdo was in. If Merdo looks at the hand, he can place it. rack-011 live.
 - **Hot plants (Tessara):** rack-006 (Sable/signet), rack-011 (Hoyt debt), rack-012 (Sumi/Vireen first partial), rack-014 (the Whale), rack-015 (Parseval/Allun), rack-016 (Petra says Vireen's name).
 
 ---

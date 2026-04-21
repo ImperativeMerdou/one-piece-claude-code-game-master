@@ -29,7 +29,7 @@ The canon RULE: cover-page series typically run 10-30 chapters. They're tiny win
 
 ## Why cover-page stories MATTER
 
-1. **They make the world feel BIG.** The Merdo Pirates' world has Korvaal STILL doing his thing on Ashenmaw, Adaam Goroa STILL ruling, Mira Odinu STILL at Ridas village, the Hoyt Boys' incarcerated leader STILL in Marine custody. The reader gets glimpses of these continuing lives.
+1. **They make the world feel BIG.** The Danzai Pirates' world has Korvaal STILL doing his thing on Ashenmaw, Adaam Goroa STILL ruling, Mira Odinu STILL at Ridas village, the Hoyt Boys' incarcerated leader STILL in Marine custody. The reader gets glimpses of these continuing lives.
 
 2. **They reward the player's investment.** When Korvaal got a card last arc, seeing Korvaal's life continuing in a cover page tells the player: that arc MATTERED. The world remembers. That character isn't dead-and-gone, they're a person still living.
 
@@ -123,7 +123,7 @@ Multiple cover pages across many sessions, advancing the side character's own ar
 - (3-4 cover pages building to a major Goroa-political arc later)
 
 #### "THE HOYT BOYS' BROTHER"
-- Cover 1: A Marine prison cell — Nox's brother reads news of the Merdo Pirates
+- Cover 1: A Marine prison cell — Nox's brother reads news of the Danzai Pirates
 - Cover 2: He smiles for the first time in two years
 - Cover 3: He requests a transfer to a less-secure facility
 - Cover 4: He escapes

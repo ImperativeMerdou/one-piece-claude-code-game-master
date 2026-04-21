@@ -42,7 +42,7 @@ Per canon (research confirms): every feast serves three functions simultaneously
 
 **Format:** NOT always formal. Sometimes wordless. Always DEFINITIVE. The character joins the crew BECAUSE of something they said, did, chose. The crew's response is UNANIMOUS (even if silent).
 
-**Current opportunities in Merdo Pirates:**
+**Current opportunities in Danzai Pirates:**
 - **Sumi's acceptance** (if the player accepts her): the moment Merdo says yes. Sumi's response should be loud and embarrassing and heart-full. The crew's ratification comes in small beats (Volo demanding witness, Melaina saying "SIT. EAT." and that being adoption, Mako bringing her a knot he'd been practicing without saying anything).
 - **Nox's acceptance** (if the player accepts him): quieter. Merdo says yes, Nox's promos briefly stop, he tips the tricorn and says something real for the first time. Then the bit comes back.
 - **Kara's adoption** (already happened at Goroa): keep reinforcing with small beats — she's been claimed, the crew still has NEW nakama moments with her as the arc progresses.
@@ -53,7 +53,7 @@ Per canon (research confirms): every feast serves three functions simultaneously
 
 **Format:** requires EARNING. Not every arc. Happens at saga-weight emotional peaks. The crew sings TOGETHER, in the same scene, sometimes all the way through a song. Other characters recognize the song (it's world-real). Marines hear it and know who it is.
 
-**For Merdo Pirates:** the crew NEEDS A SONG. It doesn't exist yet. Candidate: a drinking/sailing song Merdo half-remembers from the pit days, or something Volo dragged out of an island culture and won't stop performing. When this song is SUNG TOGETHER the first time, it becomes their "Bink's Sake." Don't force this. Let the right arc earn it. Probable earliest: end of SAGA 1 (Paradise Entry / Worst Route) OR at Sumi's swearing-in if she has the voice for it.
+**For Danzai Pirates:** the crew NEEDS A SONG. It doesn't exist yet. Candidate: a drinking/sailing song Merdo half-remembers from the pit days, or something Volo dragged out of an island culture and won't stop performing. When this song is SUNG TOGETHER the first time, it becomes their "Bink's Sake." Don't force this. Let the right arc earn it. Probable earliest: end of SAGA 1 (Paradise Entry / Worst Route) OR at Sumi's swearing-in if she has the voice for it.
 
 ### 6. The thank-you to the island (see `goodbye-beats.md`)
 

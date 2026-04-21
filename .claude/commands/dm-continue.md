@@ -48,6 +48,9 @@ fi
 BIBLE_SOURCES="${CAMPAIGN_DIR}/bible-sources.txt"
 if [ -f "$BIBLE_SOURCES" ]; then
   while IFS= read -r source_path || [ -n "$source_path" ]; do
+    # Strip trailing CR so CRLF-terminated manifests (common on Windows edits)
+    # don't cause path lookups to fail silently.
+    source_path="${source_path%$'\r'}"
     [ -z "$source_path" ] && continue
     case "$source_path" in \#*) continue ;; esac
     if [ -f "$source_path" ]; then

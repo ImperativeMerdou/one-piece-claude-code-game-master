@@ -100,7 +100,7 @@ Example on its own line (splash):
 ### Specific to this campaign — Merdo's signatures
 
 - **DON** — Merdo's gauntlet impacts (his signature SFX)
-- **GOSHA** — Danzai's overhead blow
+- **GOSHA** — Judgment's overhead blow
 - **KAPP** — Anvil Catch (the gauntlet hardening + catching)
 - **CHA-CHA-CHA** — Nox cocking pistols
 - **TANK** — Mama / Papa firing
@@ -168,7 +168,7 @@ Named attacks + SFX stack at the moment of commitment:
 ```
 Merdo planted his foot.
 
-**"DANZAI: TOMB-MARKER!!"**
+**"CONQUEROR'S WILL — TOMB-MARKER!!"**
 
 **GOSHA — DON.**
 

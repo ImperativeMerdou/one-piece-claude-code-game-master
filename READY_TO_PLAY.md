@@ -4,7 +4,7 @@ Fork of [Claude Game Master](https://github.com/Sstobo/Claude-Code-Game-Master) 
 
 ## What this repo is
 
-A Claude Code-driven One Piece TTRPG where you play **Merdo**, captain of the Merdo Pirates, and the DM runs the world in Oda's grammar — Marines, Yonko, Devil Fruits, Haki, crowds that witness, news that travels, named attacks shouted at the point of no return. No D&D math surfaces in play.
+A Claude Code-driven One Piece TTRPG where you play **Merdo**, captain of the **Danzai Pirates**, and the DM runs the world in Oda's grammar — Marines, Yonko, Devil Fruits, Haki, crowds that witness, news that travels, named attacks shouted at the point of no return. No D&D math surfaces in play.
 
 ## State
 

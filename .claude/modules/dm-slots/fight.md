@@ -188,9 +188,9 @@ Bold for the name. Paragraph break before (the build) and after (the silence). E
 
 ```
 Ezrad's already moving. The rail is behind Merdo.
-The gauntlet comes up.
+Judgment comes off his back.
 
-**"DANZAI: TOMB-MARKER."**
+**"CONQUEROR'S WILL — TOMB-MARKER!"**
 
 The kanabo comes down where Ezrad's chest used to be.
 A crater opens in the floor. Dust, then silence.
@@ -258,7 +258,7 @@ When prose is written as flowing novel paragraphs during peak fights, manga rhyt
 2. **Vary panel types per beat.** Wide → mid → close → reaction → impact. Don't stack five wides.
 3. **Short panels for fast beats, long panels for slow.** Combat exchange: one-sentence panels. Quiet contemplation: longer.
 4. **Page-turn-reveal moments.** Single sentence on its own line, after a break, that recontextualizes the scene.
-5. **No dialogue tags during panel-grammar action.** Let dialogue stand. Not *Merdo said, "DANZAI…"* — just the name.
+5. **No dialogue tags during panel-grammar action.** Let dialogue stand. Not *Merdo said, "CONQUEROR'S WILL…"* — just the name.
 6. **Paragraph break = panel break.** Two beats in two panels = two paragraphs.
 
 ### When to use panel grammar

@@ -13,7 +13,7 @@ You are reading a One Piece episode. Not a Tolkien retelling, not a BBC miniseri
 shonen, anime, action-adventure, pirate, comedy, ecchi, seinen-when-it-needs-to-be
 
 ## recommended_for
-The Merdo Pirates campaign and any One Piece / anime campaign.
+The Danzai Pirates campaign (captain Merdo) and any One Piece / anime campaign.
 
 ---
 

@@ -1,6 +1,6 @@
 ## NSFW / Fanservice / Romance — One Piece Edition
 
-**SWITCH IS ON for the Merdo Pirates campaign per user request.**
+**SWITCH IS ON for the Danzai Pirates campaign per user request.**
 
 User opted in: "uncensored, NSFW for my own enjoyment in the One Piece world, attraction, flirting, fan service, love, sex all of that is allowed and its for my own personal enjoyment nothing else."
 

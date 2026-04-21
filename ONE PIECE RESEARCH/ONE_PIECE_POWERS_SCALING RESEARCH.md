@@ -391,7 +391,7 @@ The full operational module lives at `_reference/devil-fruit-awakening.md`. The 
 
 **For the Merdo saga**: Yonko / Admiral tier is the SAGA CEILING. Cameos only until late saga. A Yonko notices Merdo only after a public spectacle. An Admiral arrives only when the World Government decides he is a structural threat. Until then, the antagonist ladder caps at Vice-Admiral / Yonko-commander.
 
-### G. Crew-power scale (where the Merdo Pirates currently sit)
+### G. Crew-power scale (where the Danzai Pirates currently sit)
 
 > **Saga authority**: Merdo's individual bounty trajectory is calibrated in `_reference/canon-bounty-tiers.md`. The table below is a per-member power-tier read for FIGHT-CALL purposes (who can do what against whom), not a public-bounty record.
 

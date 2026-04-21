@@ -6,7 +6,7 @@
 
 ## PURPOSE AND USE
 
-This file is the definitive cast bible for the Merdo Pirates saga. It is designed to be loaded into Claude Projects, Claude Code, ChatGPT Projects, or any long-form AI system used to run the saga. It is not a summary. It is the source of truth.
+This file is the definitive cast bible for the Danzai Pirates saga (captain Merdo). It is designed to be loaded into Claude Projects, Claude Code, ChatGPT Projects, or any long-form AI system used to run the saga. It is not a summary. It is the source of truth.
 
 Information is marked as:
 - **LOCKED** — confirmed canon, do not contradict
@@ -379,7 +379,15 @@ The gravity everything orbits. Not a nurturer in the conventional sense. Not a s
 
 ### COMBAT IDENTITY
 
-Brawler first, always. Every punch is a stabbing — spiked gauntlets running Armament Haki. The kanabo Danzai (seven-foot rough-forged squared iron) for escalation. The Gnadenkette flail for execution and demolition. Uncontrolled Conqueror's Haki bursts are a liability and a spectacle — they happen under emotional pressure and announce his state to the fight. Extreme durability. Fights like someone who stopped fearing death in a pit and never started again.
+Brawler first, always. Every punch is a stabbing — spiked gauntlets running Armament Haki. The kanabo **Judgment** (seven-foot rough-forged squared iron) for escalation. The Gnadenkette flail for execution and demolition. Uncontrolled Conqueror's Haki bursts are a liability and a spectacle — they happen under emotional pressure and announce his state to the fight. Extreme durability. Fights like someone who stopped fearing death in a pit and never started again.
+
+**Attack grammar (LOCKED, Kaido-register three-tier):**
+
+- **Medium tier — DANZAI EIGHT TRIGRAMS (八卦, *Hakke*).** Eight base patterns of force. Format: **"DANZAI EIGHT TRIGRAMS — [NAME]!"** Shouted at committed strikes (VERDICT, GUILTY-FOOT, GALLOWS-WEIGHT, CHAIN-MEASURE, WITNESS-GRIP, LAST-WORD, BREAKING-POINT, IRON-GATE). Max two per fight.
+- **Heavy tier — CONQUEROR'S WILL.** Haki-coated named attacks at point-of-no-return. Format: **"CONQUEROR'S WILL — [NAME]!"** or the bare shout **"CONQUEROR'S WILL!!"** Current ceiling: TOMB-MARKER, NO PARDON, LAST RITES, RORORORO. One per fight. Day 11 rookie tier: this is the current maximum.
+- **Ultimate tier — DIVINE SUNDERER.** Saga-scale. Reserved. Emerges when the saga-peak fires — not yet named. The move the world has not yet seen. Its eventual deployment is the moment the bounty doubles and the epithet lands.
+
+Full catalog in `.claude/modules/dm-slots/_reference/named-attacks-library.md`. "Danzai" as a prefix on generic strikes is retired; the philosophy-name is now carried by the crew (**Danzai Pirates** — world-given) and the Eight Trigrams medium-tier family. The weapon itself is now named *Judgment*.
 
 **Haki:** All three types. Conqueror's is uncontrolled at opening. Observation is functional. Armament is signature — runs through the gauntlets.
 
@@ -1612,7 +1620,7 @@ Not yet articulated. At fourteen, post-trauma, she has not been allowed a dream 
 
 ### WOUND — LOCKED
 
-Kara's immediate family in Ridas was harmed by the pirate crew the Merdo Pirates broke at Goroa. Mira survived. Kara survived. Nobody else did. The fruit — she ate it accidentally, desperately, during the crisis, hoping for a Zoan that would let her fight back. It failed. The failure is part of the wound.
+Kara's immediate family in Ridas was harmed by the pirate crew the Danzai Pirates broke at Goroa. Mira survived. Kara survived. Nobody else did. The fruit — she ate it accidentally, desperately, during the crisis, hoping for a Zoan that would let her fight back. It failed. The failure is part of the wound.
 
 ### DAILY BEHAVIOR
 

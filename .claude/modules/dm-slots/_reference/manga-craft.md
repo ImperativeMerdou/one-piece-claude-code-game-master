@@ -96,7 +96,7 @@ Oda's SBS column answers fan questions in the back of Jump volumes. We can fire 
 Format: a single fan letter answered in the DM's "Oda voice" — silly, self-aware, character-deepening.
 
 ```
-━━━ SBS (Merdo Pirates Vol. 3, Chapter 47 back matter) ━━━
+━━━ SBS (Danzai Pirates Vol. 3, Chapter 47 back matter) ━━━
 
 READER (Henryk from West Blue): "Oda-sensei! Why does Sable always
 swallow things?? Is it a hunger thing? Is it a trauma thing??"

@@ -19,11 +19,18 @@ MODE="full"
 uv run python - "$PROJECT_ROOT" "$OVERVIEW" "$MODE" << 'PYEOF'
 import json, sys, os
 
+# Force UTF-8 on stdout so smart quotes / emoji in slot files don't crash
+# Python's default cp1254 (or whatever locale) on Windows when piping.
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except AttributeError:
+    pass
+
 project_root = sys.argv[1]
 overview_path = sys.argv[2]
 mode = sys.argv[3]  # full | modules | core
 
-with open(overview_path) as f:
+with open(overview_path, encoding='utf-8') as f:
     d = json.load(f)
 
 mods = d.get('modules', {})
@@ -37,9 +44,9 @@ for mod in enabled:
     manifest_path = f"{project_root}/.claude/modules/{mod}/module.json"
     rules_path = f"{project_root}/.claude/modules/{mod}/rules.md"
     try:
-        with open(manifest_path) as f:
+        with open(manifest_path, encoding='utf-8') as f:
             manifest = json.load(f)
-        with open(rules_path) as f:
+        with open(rules_path, encoding='utf-8') as f:
             rules = f.read()
     except FileNotFoundError:
         continue
@@ -80,7 +87,7 @@ slot_files = sorted(f for f in os.listdir(slots_dir) if f.endswith('.md') and f 
 # Print preamble first
 preamble = f"{slots_dir}/_preamble.md"
 if os.path.exists(preamble):
-    with open(preamble) as f:
+    with open(preamble, encoding='utf-8') as f:
         print(f.read())
 
 # Print each slot
@@ -90,7 +97,7 @@ for filename in slot_files:
     if mode == "core":
         # Core mode: skip replaced slots, print only pure core
         if slot_id not in slot_replacements:
-            with open(f"{slots_dir}/{filename}") as f:
+            with open(f"{slots_dir}/{filename}", encoding='utf-8') as f:
                 print(f.read())
     else:
         # Full mode: slot replaced by module or core
@@ -99,7 +106,7 @@ for filename in slot_files:
             print(f"\n---\n# MODULE RULES [{slot_id}]: {mod_id}\n")
             print(mod_rules)
         else:
-            with open(f"{slots_dir}/{filename}") as f:
+            with open(f"{slots_dir}/{filename}", encoding='utf-8') as f:
                 print(f.read())
 
 if mode != "core":

@@ -59,7 +59,7 @@ Pick from this rotating roster. Vary so the same place doesn't show up two sessi
 - Mesut (the village that sold him) — a quiet shot of someone reading a bounty poster and going pale
 - The pit owners from his slavery years — finding out he's still alive and free
 - Kara Odinu's mother in Ridas village, hearing the Tessara news
-- Korvaal's village receiving word that the Merdo Pirates are still alive
+- Korvaal's village receiving word that the Danzai Pirates are still alive
 
 ### H. Twenty-perspective (back on the Golgatha or in port)
 - Mako fitting Kara with a knot kit

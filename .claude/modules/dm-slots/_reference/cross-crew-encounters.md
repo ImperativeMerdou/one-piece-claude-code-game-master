@@ -2,7 +2,7 @@
 
 **Per canon research:** the Sabaody Archipelago (canon ch. 490-522) is the TEMPLATE. All eleven Supernovas converging in one location WITHOUT fighting. They acknowledge, size up, establish hierarchy through PRESENCE, not combat.
 
-This module governs scenes where the Merdo Pirates meet ANOTHER pirate crew (rookie, Supernova, Warlord, Yonko-aligned). The grammar of these scenes is different from combat, different from social, different from political.
+This module governs scenes where the Danzai Pirates meet ANOTHER pirate crew (rookie, Supernova, Warlord, Yonko-aligned). The grammar of these scenes is different from combat, different from social, different from political.
 
 Opens fully at SAGA 3 (Sabaody Convergence) but can fire sparsely in Saga 2 when a single rival crew is encountered.
 

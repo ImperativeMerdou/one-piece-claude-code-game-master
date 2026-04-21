@@ -40,7 +40,7 @@ Adapted from Nemo's `Scroll (News & Lore)` block, One Piece flavored.
 
   📜 NEW BOUNTIES FILED FROM THE Route Three
      [TBD — placeholder. The world has not yet filed
-      bounties on the Merdo Pirates as of Day 11. Bounties
+      bounties on the Danzai Pirates as of Day 11. Bounties
       and epithets land AFTER the Tessara arc, AFTER the
       world has actually witnessed something. DO NOT
       pre-invent bounty figures or epithets — let them
@@ -83,7 +83,7 @@ For high-impact moments, format the bounty poster itself separately:
         │                                          │
         │            ฿  [bounty earned, not invented]│
         │                                          │
-        │ Captain of the Merdo Pirates            │
+        │ Captain of the Danzai Pirates            │
         │ Last seen: Tessara, Route Three (Paradise)          │
         │                                          │
         │ ⚓ Marine HQ · Authority of Sengoku ⚓    │

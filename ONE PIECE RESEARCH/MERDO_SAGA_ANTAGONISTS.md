@@ -118,7 +118,7 @@ Does not fight. This is the LOCKED rule.
 
 At Tessara he is the wallet, the information node, and the quiet threat. He has paid favors across the merchant council. He knows Hudore by name (not by association — the two have not coordinated; if they meet it is a scene). He has eyes on the Cage and on the tournament bracket. He will be the one to pay Parseval's purse if Parseval wins.
 
-### RELATIONSHIP MAP (toward the Merdo Pirates)
+### RELATIONSHIP MAP (toward the Danzai Pirates)
 
 - **Merdo:** Flagged "interesting." Not yet target. Addresses him as "Captain Merdo, my friend" from first meeting. Will attempt one courtesy gift. Will not attempt a second.
 - **Ashren:** Bows slightly lower than protocol requires. Says nothing about the Lunarian subject. Ashren knows. Ashren will not say so first.
@@ -164,7 +164,7 @@ At Tessara he is the wallet, the information node, and the quiet threat. He has 
 
 **Vibe:** He enters a room and does not take up space in it. He takes up *position.* The room contains him at a specific vector, and if you need to stand somewhere, you find yourself unconsciously arranging yourself to his angle. He does not demand this. The body does it on its own. This is the Observation.
 
-**Verbal identity (LOCKED):** Brutally polite English. "Sir." "Captain." "Pirate." He uses rank as a distancing tool. When he calls Merdo *sir*, it is not respect — it is classification. He has told the Cage prisoners their names and uses them; he has not told the Merdo Pirates his, and he will not until the scene earns it.
+**Verbal identity (LOCKED):** Brutally polite English. "Sir." "Captain." "Pirate." He uses rank as a distancing tool. When he calls Merdo *sir*, it is not respect — it is classification. He has told the Cage prisoners their names and uses them; he has not told the Danzai Pirates his, and he will not until the scene earns it.
 
 Sentences are short, exact, and leave one beat of silence at the end. He does not repeat himself. If you did not hear him, that is your problem. He will not lean into it.
 
@@ -231,7 +231,7 @@ This is a deliberately small dream — the anti-Yann (whose dream was extracted)
 - Will file Ashren's Lunarian sighting internally on the next Marine cycle, before the News Coo.
 - Chess Thursdays with Petra Mauler at the officers' club.
 
-### RELATIONSHIP MAP (toward the Merdo Pirates)
+### RELATIONSHIP MAP (toward the Danzai Pirates)
 
 - **Merdo:** His final-arc opponent at Tessara. Addresses him as *sir* and *Captain* interchangeably — never *pirate* unless Merdo has done something that earned the classification. He has read Merdo's file and knows about the pit-fighting. He does not bring it up. Merdo will read the silence correctly.
 - **Ashren:** Files the Lunarian sighting. Does not approach. Ashren reads him as the most dangerous person in the garrison and keeps altitude. Hudore notes the altitude and files that too.

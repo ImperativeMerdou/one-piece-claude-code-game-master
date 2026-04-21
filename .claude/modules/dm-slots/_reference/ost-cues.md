@@ -38,7 +38,7 @@ Use for: arc-end victories, crew unity moments, declarations of will, public def
 ```
 *[the theme returns — that one — the one you know]*
 
-Merdo lifted Danzai. The crowd lifted with him.
+Merdo lifted Judgment. The crowd lifted with him.
 ```
 
 ### THE SERIOUS PEAK ("Overtaken" / "Difficulty")
@@ -119,7 +119,7 @@ The crowd inhaled.
 
 Merdo planted his foot.
 
-**"DANZAI: TOMB-MARKER!!"**
+**"CONQUEROR'S WILL — TOMB-MARKER!!"**
 
 The pit cracked open.
 

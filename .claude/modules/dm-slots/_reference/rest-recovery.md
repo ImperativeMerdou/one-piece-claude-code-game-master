@@ -1,6 +1,6 @@
 ## Rest & Recovery — Shonen / One Piece Downtime
 
-**Rewritten for the Merdo Pirates campaign.** The D&D short-rest / long-rest / hit-dice framework doesn't fit a shonen anime. One Piece handles recovery through MEALS, MEDIC CARE, SLEEP, and TIME — with the body-receipt ledger from `fight.md` POST-COMBAT STATE and `realism-governors.md` tracking what's healed.
+**Rewritten for the Danzai Pirates campaign.** The D&D short-rest / long-rest / hit-dice framework doesn't fit a shonen anime. One Piece handles recovery through MEALS, MEDIC CARE, SLEEP, and TIME — with the body-receipt ledger from `fight.md` POST-COMBAT STATE and `realism-governors.md` tracking what's healed.
 
 ---
 

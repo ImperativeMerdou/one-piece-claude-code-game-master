@@ -81,7 +81,7 @@ He bit it.
 Long compound sentences strung with "and" / "and" / "and." Builds momentum to a single hard stop.
 
 ```
-The bell rang and the steward cried the bracket and Hudore stepped into the pit and the crowd surged and Sumi screamed and Volo demanded witness and Merdo unhooked Danzai from his back and the eight-thousand-voice wall went silent and only the iron rasped.
+The bell rang and the steward cried the bracket and Hudore stepped into the pit and the crowd surged and Sumi screamed and Volo demanded witness and Merdo unhooked Judgment from his back and the eight-thousand-voice wall went silent and only the iron rasped.
 ```
 
 **Use for:** climactic moments, peak scenes, moments where the world is BIG and you want to feel the weight. Use SPARINGLY — once or twice per arc.

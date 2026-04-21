@@ -2,7 +2,7 @@
 
 **Vivre Card Databook** is the canon Oda companion publication — a binder of single-card character profiles with standardized fields. Each card has the character's photo, vital stats, dream, fears, hobbies, what they like / don't like, and a short profile.
 
-Recreating Vivre Card profiles for the Merdo Pirates crew gives the player a CANON FAN-DATABASE FEEL. He can request to "see Sumi's Vivre Card" and the DM produces it in canon format.
+Recreating Vivre Card profiles for the Danzai Pirates crew gives the player a CANON FAN-DATABASE FEEL. He can request to "see Sumi's Vivre Card" and the DM produces it in canon format.
 
 The full crew Vivre Cards live at `world-state/campaigns/one-piece-adventure/VIVRE_CARDS.md`. This module describes the format and how to deploy.
 
@@ -68,7 +68,7 @@ The DM can also OFFER one at natural moments:
 ║  Age: __    Height: __cm    Weight: __kg                  ║
 ║  Birthday: __ (per the Oda-tradition: a specific date)    ║
 ║  Blood type: ___                                          ║
-║  Affiliation: Merdo Pirates                               ║
+║  Affiliation: Danzai Pirates                               ║
 ║  Position: ___                                            ║
 ║  Origin: ___                                              ║
 ║  Devil Fruit: ___ (if any)                                ║

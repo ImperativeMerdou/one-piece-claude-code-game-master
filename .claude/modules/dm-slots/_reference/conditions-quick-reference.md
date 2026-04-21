@@ -1,6 +1,6 @@
 ## Conditions Quick Reference — One Piece / Shonen Version
 
-**Rewritten for the Merdo Pirates campaign.** D&D's core conditions mostly apply in a shonen register; a few One Piece-specific ones are added. Conditions are DM-internal mechanics; narrate them through the BODY and the WORLD, not the condition name.
+**Rewritten for the Danzai Pirates campaign.** D&D's core conditions mostly apply in a shonen register; a few One Piece-specific ones are added. Conditions are DM-internal mechanics; narrate them through the BODY and the WORLD, not the condition name.
 
 ---
 

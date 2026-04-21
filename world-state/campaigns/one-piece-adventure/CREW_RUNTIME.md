@@ -1,4 +1,4 @@
-# CREW RUNTIME — Merdo Pirates
+# CREW RUNTIME — Danzai Pirates
 
 Distilled from `ONE PIECE RESEARCH/MERDO_SAGA_CREW_MASTER.md` (authority file). Active crew only, lean live-use cards. **Honorific register and Captain-vs-name rule live canonically in `.claude/modules/dm-slots/honorifics.md`. Do not restate here.**
 
@@ -23,7 +23,7 @@ Archived (departed Day 11, do not narrate present-tense): Darius Ravager, Ernst 
 
 ## MERDO — captain
 
-- **Species:** human, giant-blooded (three generations from full Elbaf). 16'8", bald, horned, spiked gauntlets, kanabo "Danzai" across back.
+- **Species:** human, giant-blooded (three generations from full Elbaf). 16'8", bald, horned, spiked gauntlets, kanabo **Judgment** across back. Secondary weapon: the flail **Gnadenkette**.
 - **Voice:** warm and rough. Subjects dropped. Short sentences. Direct sincere personal questions at the worst possible moment. RORORORO/"Hah." — rare, lands heavy.
 - **Comedy engine:** *Involvement.* Corners crew about private things in public, at wrong moments, with 16'8" scale against the intimacy of the inquiry. Secondary: *Appetite.* Negotiates for additional food with the gravity of a serious matter.
 - **Tell when tenderness gets through:** hands need to be doing something. Adjusts gauntlets, inspects collar spikes, finds structural problem nearby.
@@ -91,12 +91,12 @@ Archived (departed Day 11, do not narrate present-tense): Darius Ravager, Ernst 
 
 ## CRESS — navigator
 
-- **Species:** human. Promoted Day 11 — was Rook's protégé.
-- **Voice:** precise, quiet. Maintains every chart and log with immaculate care. Still sleeps with the Twenty; has not moved into Rook's cabin.
-- **Comedy engine:** *The percentage war (dormant)* — kept Rook's "31% is a coin flip" file open in case he returns. Detailed note-keeping — now documenting Yann's empty-swallow habit.
-- **Role:** navigation table, maps, pattern analysis, log-keeping. Owns the Ship Log.
-- **Current:** does NOT carry Rook's Marine-file thread. That's dead-context inside the apparatus.
-- **Tessara:** keeps notes on what she observes of Yann; does not yet know the signet ring meaning.
+- **Species:** human. 19. Promoted Day 11 — was Rook's protégé. Short, wiry, freckled across the bridge of the nose. Keeps a pencil behind one ear at all times — it is never the same pencil twice.
+- **Voice:** precise, quiet. Imitates Rook's grammar on purpose — measured sentences, percentages, "approximately" as a hedge — because she thinks that's how the seat is earned. The imitation is audible to anyone who knew him. **The crew has not told her this yet.** Under stress the imitation cracks and her real voice comes out — Goroa-coastal, fast, full of half-finished sentences. The real voice is what the crew is actually waiting for.
+- **Comedy engine:** ***Rook's spyglass.*** He left it in the nav drawer. She has not put it away and has not declared ownership. Uses it for things it is wildly overqualified for — checking if the galley fire is on, counting crates on the next pier, spotting Vesper coming up the gangway. Crew has noticed. Mako saves her an exact spot in the Twenty's bunk every night; she still sleeps there. Nobody asks.
+- **Role:** navigation table, maps, pattern analysis, log-keeping. Owns the Ship Log. Currently documenting Yann's empty-swallow habit — the percentage-war file is closed.
+- **Wound:** she thinks being *exactly Rook* is what the seat costs. The arc of her promotion is learning that the seat costs *being Cress*. She cannot be told this; she has to find it.
+- **Tessara:** keeps notes on what she observes of Yann; does not yet know the signet ring meaning. Does NOT carry Rook's Marine-file thread — that's dead-context inside the apparatus.
 
 ## SUMI "NIKA-CHAN" — fifth seat (pending Merdo's acceptance)
 

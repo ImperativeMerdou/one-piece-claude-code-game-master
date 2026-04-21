@@ -32,7 +32,7 @@ Fire HUD at scene transitions and session starts, not every response.
 ═══════════ ⚔ COMBAT · TESSARA COLOSSEUM · ROUND 1 ════════
   Crowd: ROARING (full house, ~8000) · With Merdo: drifting
   ▸ MERDO vs EZRAD "LAST BOTTLE"
-  ▸ Merdo: standing, gauntlets on, Danzai sheathed
+  ▸ Merdo: standing, gauntlets on, Judgment sheathed
   ▸ Ezrad: 47, drunk, smiling, two cleavers loose-grip
 ═══════════════════════════════════════════════════════════
 ```

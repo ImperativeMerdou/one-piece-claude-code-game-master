@@ -62,7 +62,7 @@ Deploy 2-3 of these per saga-transition. Fires at the transition beat, not distr
 
 ---
 
-## The Merdo Pirates saga map
+## The Danzai Pirates saga map
 
 **Source of truth: `world-state/campaigns/one-piece-adventure/SAGA_MAP.md`** — auto-loaded by `/dm-continue`. It holds the full 10-saga Emperor-ascension roadmap, per-saga identity questions, power/bounty milestones, canon-divergence log, and chekhov plants per saga. Consult it for horizon work.
 
@@ -70,7 +70,7 @@ This module keeps only a **current-saga snapshot** to avoid drift:
 
 ### SAGA 1 — "PARADISE ENTRY / WORST ROUTE" (ACTIVE)
 
-**Identity question:** "Are the Merdo Pirates a pit-fighter's crew, or a crew the world will notice?"
+**Identity question:** "Are the Danzai Pirates a pit-fighter's crew, or a crew the world will notice?"
 
 | Arc | Status | Shape |
 |---|---|---|
@@ -80,7 +80,7 @@ This module keeps only a **current-saga snapshot** to avoid drift:
 | Tessara Cup (Island 3) | ACTIVE Day 11+ | Peak candidate — Donquixote buyer, first bounty opportunity, first epithet opportunity, Hudore fight |
 | Islands 4-7 | UNWRITTEN | Rising + denouement — each island advances the question; saga closes when crew has been NOTICED by canon-level actors |
 
-**Saga 1 closes when:** the first major canon actor (a Yonko Commander, a Warlord, an Admiral, a Cipher Pol operative) explicitly NAMES the Merdo Pirates as a problem worth their attention. Probable earliest: Donquixote family commissioning a countermove via Yann Merlis after Tessara. Probable latest: Island 7 + exit from Paradise.
+**Saga 1 closes when:** the first major canon actor (a Yonko Commander, a Warlord, an Admiral, a Cipher Pol operative) explicitly NAMES the Danzai Pirates as a problem worth their attention. Probable earliest: Donquixote family commissioning a countermove via Yann Merlis after Tessara. Probable latest: Island 7 + exit from Paradise.
 
 ### Saga horizon (Sagas 2-10+) — see SAGA_MAP.md
 

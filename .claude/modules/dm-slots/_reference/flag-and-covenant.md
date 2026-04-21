@@ -4,16 +4,16 @@
 
 The Enies Lobby flag-burning (ch. 398) is the defining political act in One Piece canon — the Straw Hats shoot down the World Government flag at a government facility. The world sees it. The Marines MUST respond.
 
-The Merdo Pirates already have a flag (Horned skull + Iron bar driven vertically + Lunarian flame-wing left + Medusa serpent-hair right, per CAMPAIGN_BIBLE). This module governs HOW the flag acts in play, when it fires, how it carries covenant.
+The Danzai Pirates already have a flag (Horned skull + Iron bar driven vertically + Lunarian flame-wing left + Medusa serpent-hair right, per CAMPAIGN_BIBLE). This module governs HOW the flag acts in play, when it fires, how it carries covenant.
 
 ---
 
 ## The three functions of the flag
 
 ### 1. Identity
-The flag is who the crew IS. Every element of the Merdo Jolly Roger tells a specific story:
+The flag is who the crew IS. Every element of the Danzai Jolly Roger tells a specific story:
 - **Horned skull** — Merdo's giant-blooded, Elbaf-descended body
-- **Iron bar driven vertically through the skull** — the kanabo (Danzai); pit-fighter foundation; the weapon that made him
+- **Iron bar driven vertically through the skull** — the kanabo (Judgment); pit-fighter foundation; the weapon that made him
 - **Lunarian flame-wing (left)** — Ashren
 - **Medusa serpent-hair (right)** — Melaina
 - **Painted rough on dark sail** — built by fighters, not artists
@@ -44,7 +44,7 @@ When the flag is RAISED in public, it is a statement to the world. Raising it at
 
 ### Event 4 — The flag in public (declaration)
 **Canon:** Enies Lobby — Luffy shoots down the World Government flag; Sogeking raises the Straw Hats' flag at the Tower. Public declaration, global message.
-**Merdo:** not yet fired. Saga 3-5 candidate. When the Merdo Pirates FIRST publicly fly their flag at a Marine, Warlord, or World Government institution — this is the arc's centerpiece scene. The world responds.
+**Merdo:** not yet fired. Saga 3-5 candidate. When the Danzai Pirates FIRST publicly fly their flag at a Marine, Warlord, or World Government institution — this is the arc's centerpiece scene. The world responds.
 
 ### Event 5 — The flag tested
 **Canon:** Arlong tears a flag in rage at Arlong Park. The Merry's flag is damaged across the saga. The flag being threatened is a character-alignment test.
@@ -73,7 +73,7 @@ The most politically charged flag moments sit on a spectrum:
 | **Destroying an enemy's flag** | personal declaration | boss fights, Warlord takedowns |
 | **Burning the World Government flag** | ULTIMATE declaration | saga-defining (Saga 5+), world responds |
 
-The ULTIMATE — burning the World Government flag — is SAGA-DEFINING. Do NOT deploy before Saga 5. Multiple arcs should build to it. When it fires, the world RESPONDS (Admirals dispatched, Yonko notice, the Merdo Pirates cross from "rookie nuisance" to "structural threat").
+The ULTIMATE — burning the World Government flag — is SAGA-DEFINING. Do NOT deploy before Saga 5. Multiple arcs should build to it. When it fires, the world RESPONDS (Admirals dispatched, Yonko notice, the Danzai Pirates cross from "rookie nuisance" to "structural threat").
 
 ---
 

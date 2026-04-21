@@ -23,10 +23,10 @@ This module gives the player an on-demand dashboard. Triggered by:
                        🔥 WHAT'S COOL RIGHT NOW
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ⚔ Combat techniques unlocked:  15 named moves across 7 categories
-                                  (Danzai, Enbu, Gauntlet, Bjorn Stance,
-                                   Floor-Grip, Pit-Grammar, "BJORN BROR
-                                   SLEGG" three-word crescendo finisher)
+  ⚔ Combat techniques unlocked:  15 named moves across 3 tiers
+                                  (Eight Trigrams · Conqueror's Will ·
+                                   Divine Sunderer; weapons: Judgment,
+                                   Gnadenkette, spiked gauntlets)
 
   ⛵ Crew on deck (8):  Ashren · Melaina · Vesper · Sable · Volo
                        · Kara + The Twenty (Mako, Oleg, Cress, Skel)

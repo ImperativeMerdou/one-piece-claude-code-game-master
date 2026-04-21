@@ -111,7 +111,7 @@ Oda PRETENDS not to take these seriously but answers anyway.
 ### D. The 4th-wall absurdism
 Pure joke, Oda playing with the reader.
 - "Mr. Oda why are you the way you are?" — I asked my editor. He said it's late.
-- "Will the Merdo Pirates beat Luffy?" — They'd have a great fight. Then they'd eat together.
+- "Will the Danzai Pirates beat Luffy?" — They'd have a great fight. Then they'd eat together.
 - "How do Devil Fruits work?" — Devilly.
 
 ### E. The character-prediction question (saga-tease)

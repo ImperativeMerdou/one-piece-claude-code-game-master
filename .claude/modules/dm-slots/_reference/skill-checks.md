@@ -1,6 +1,6 @@
 ## Skill Checks — Shonen / One Piece Register
 
-**Rewritten for the Merdo Pirates campaign.** D&D DC numbers are DM-internal only; the player sees NARRATIVE difficulty framed in One Piece terms. Dice still roll, but the output is always translated to the world.
+**Rewritten for the Danzai Pirates campaign.** D&D DC numbers are DM-internal only; the player sees NARRATIVE difficulty framed in One Piece terms. Dice still roll, but the output is always translated to the world.
 
 ---
 
@@ -105,7 +105,7 @@ bash tools/dm-consequence.sh add "[what happens]" "[when it triggers]"
 
 ## Fail-forward examples (shonen-flavored)
 
-- **Failed lockpick on Yann Merlis's room?** The pick breaks in the lock. Now there's evidence Merdo tried. Make noise, use Danzai, or walk away.
+- **Failed lockpick on Yann Merlis's room?** The pick breaks in the lock. Now there's evidence Merdo tried. Make noise, use Judgment, or walk away.
 - **Failed persuasion with the merchant council?** They nod politely. Then one of them sends a bird to Yann Merlis. The Donquixote clock just sped up.
 - **Failed stealth past the Marines?** Not caught — but a low-rank sailor saw enough. His report reaches Hudore by morning bell.
 - **Failed read on Parseval's ideology?** Merdo thinks he understands — he doesn't. The misread shapes how the fight opens.
