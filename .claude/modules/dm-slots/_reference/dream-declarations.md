@@ -57,7 +57,7 @@ Deploy at these specific beats:
 | **After a loss that tests the dream** | The character who lost | Low, stubborn — "I'm still going to —" |
 | **Mentor / rival encounter** | Merdo or the crew member the mentor matches | Measured, like an oath, not a shout |
 | **At Haki activation (first time)** | The character — the dream is what pulled the Haki | Interior first, then aloud |
-| **At finisher commitment** | Fighter landing the named attack | Scream-register per `emotion-will-heart.md` |
+| **At finisher commitment** | Fighter landing the named attack | Scream-register per `fight.md` |
 | **Saga transition feast** | Whoever the saga was about | Restated quietly at a mealtime beat |
 
 **Cooldown:** A specific character shouldn't declare their dream MORE than once per session. And the same character shouldn't front-and-center a declaration for 2-3 sessions after. Rotate.
@@ -181,7 +181,7 @@ Notes:
 - Dream compressed to fragments ("thrones, their food, leave")
 - World reaction is SMALL (a silence, a cat shifting)
 
-### Declaration at finisher (scream-register per `emotion-will-heart.md`)
+### Declaration at finisher (scream-register per `fight.md`)
 
 ```
 The gauntlet came up.
@@ -211,7 +211,7 @@ Notes:
 
 ## Cross-references
 
-- **`emotion-will-heart.md`** — scream register for finisher-tied declarations
+- **`fight.md`** — scream register for finisher-tied declarations
 - **`nakama-moments.md`** — saga-transition feast restatement
 - **`character-focus-episodes.md`** — the arc-focused character gets the declaration
 - **`news-coo.md`** — world-response to a public declaration

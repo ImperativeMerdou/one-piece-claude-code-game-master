@@ -116,7 +116,7 @@ Use ~1× per 3-5 sessions. Pair with an anime-forum cut occasionally. Makes the 
 
 ## Panel grammar
 
-Panel-grammar rhythm (the Oda-panel way of writing scenes) lives in depth in [`manga-panel-grammar.md`](./manga-panel-grammar.md) — 7 panel types, 6 Scott-McCloud transitions, practical writing rules, canon Oda examples. Consult that module when reaching for panel-by-panel pacing on peak beats. SFX catalog lives in [`manga-sfx.md`](./manga-sfx.md).
+Panel-grammar rhythm (the Oda-panel way of writing scenes) lives in depth in [`fight.md`](./fight.md) — 7 panel types, 6 Scott-McCloud transitions, practical writing rules, canon Oda examples. Consult that module when reaching for panel-by-panel pacing on peak beats. SFX catalog lives in [`manga-sfx.md`](./manga-sfx.md).
 
 This module stays focused on the CHAPTER-level craft (hooks, callbacks, cover pages, SBS, volume breaks).
 

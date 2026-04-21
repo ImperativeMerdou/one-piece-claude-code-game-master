@@ -134,7 +134,7 @@ Merdo applications:
 - **`nakama-moments.md`** — swearing-in ceremonies involve the flag
 - **`saga-anatomy.md`** — saga-transition flag beats
 - **`dream-declarations.md`** — dreams are often declared UNDER the flag
-- **`emotion-will-heart.md`** — flag moments are heart moments
+- **`fight.md`** — flag moments are heart moments
 - **`cross-crew-encounters.md`** — flag-sizing at encounters (whose flag is bigger, flies higher)
 - **`goodbye-beats.md`** — departure often frames the flag
 - **`CAMPAIGN_BIBLE.md`** — current flag design locked there

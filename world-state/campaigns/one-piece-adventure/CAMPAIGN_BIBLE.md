@@ -73,18 +73,19 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 
 | Concept | Canonical owner |
 |---|---|
-| Captain-vs-name register, honorifics | `.claude/modules/dm-slots/honorifics.md` |
-| Oda gut-check, heart-before-skill, NPC heart | `.claude/modules/dm-slots/emotion-will-heart.md` |
-| Post-combat body receipts, exhaustion tiers | `.claude/modules/dm-slots/realism-governors.md` |
-| NPC firewall, hidden-block format, sonder | `.claude/modules/dm-slots/living-world.md` |
-| Anti-slop LAWs 1–24 (body agency, filter words, density, rotation, dark-fantasy ban) | `.claude/modules/dm-slots/anti-slop-master.md` |
-| Session shape (title card, cliffhanger, NEXT TIME ON) | `.claude/modules/dm-slots/session-episode-structure.md` |
-| Tier hierarchy (6-tier) | `.claude/modules/dm-slots/rules-priority-tiers.md` |
+| Combat (spatial, named attacks, panels, heart, aftermath) | `.claude/modules/dm-slots/fight.md` |
+| Player verbs (FINISHER COMMIT + CAPTAIN'S ORDER) | `.claude/modules/dm-slots/player-verbs.md` |
+| Anti-slop craft floor (body agency, filter words, density, dark-fantasy ban, 3 prose registers) | `.claude/modules/dm-slots/anti-slop-master.md` |
 | Canon fidelity gut-check | folded into `.claude/modules/dm-slots/anti-slop-master.md` |
-| Reward calibration (Tier 1–4, per-session rhythm) | `.claude/modules/dm-slots/reward-calibration.md` |
+| Tier map | `.claude/modules/dm-slots/rules-priority-tiers.md` |
+| Reward calibration cadence | `.claude/modules/dm-slots/reward-calibration.md` |
+| Captain-vs-name register, honorifics | `_reference/honorifics.md` (triggered) |
+| NPC firewall, hidden-block format, sonder | `_reference/living-world.md` (triggered) |
+| Physiological / environmental / social aftermath | `_reference/realism-governors.md` (triggered; violence scroll lives in fight.md) |
+| Session shape (title card, cliffhanger, NEXT TIME ON) | `_reference/session-episode-structure.md` (triggered at session start) |
 | Crew voice signatures (runtime) | `CREW_RUNTIME.md` (this campaign folder) |
 | Hot plants (runtime) | `ACTIVE_PLANTS.md` (this campaign folder) |
-| Full plant ledger | `chekhov-rack.json` (this campaign folder) |
+| Full plant ledger | `chekhov-rack.json` (this campaign folder — consult-on-demand, no longer auto-loaded) |
 
 ---
 

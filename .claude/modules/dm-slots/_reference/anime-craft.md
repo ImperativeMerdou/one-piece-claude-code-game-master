@@ -177,13 +177,13 @@ Too frequent = dies. Both are anchored via `op-ed-themes.md`.
 Start mid-action for 30-60 seconds before cutting to title. In prose, a session can open mid-beat ("the cleaver caught the rail") before pulling back to the title card. See `session-episode-structure.md` for the structural slot.
 
 ### Time dilation at turning points
-An anime slows a fight to bullet-time at the moment a fighter connects their finisher. In prose: when Merdo's gauntlet MAKES CONTACT, slow the prose. Short sentences. Internal beat. Contact. Paragraph break. Silence. Pair with `manga-sfx.md` (**SHIIIN**) and `manga-panel-grammar.md` (splash panel + silence panel).
+An anime slows a fight to bullet-time at the moment a fighter connects their finisher. In prose: when Merdo's gauntlet MAKES CONTACT, slow the prose. Short sentences. Internal beat. Contact. Paragraph break. Silence. Pair with `manga-sfx.md` (**SHIIIN**) and `fight.md` (splash panel + silence panel).
 
 ### The beat drop
 A comedic scene suddenly turns serious — or a serious scene suddenly turns comedic. Anime transitions these with an OST cue. In prose: mark the shift with a sharp paragraph break + a tonal switch. See `ost-cues.md` for music context.
 
 ### The stretched moment
-Before a named attack lands, EXPAND the micro-second into a paragraph of aspect-to-aspect detail (per `manga-panel-grammar.md` transition type 5). The reader knows the fist is already in motion; the expansion is the anticipation.
+Before a named attack lands, EXPAND the micro-second into a paragraph of aspect-to-aspect detail (per `fight.md` transition type 5). The reader knows the fist is already in motion; the expansion is the anticipation.
 
 ---
 

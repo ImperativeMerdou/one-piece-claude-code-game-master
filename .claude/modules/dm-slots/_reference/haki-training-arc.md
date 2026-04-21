@@ -161,10 +161,10 @@ Canon: Zoro doesn't hear the breath of all things through mechanical practice. H
 ## Cross-references
 
 - **`one_piece_power_law.md`** (memory file) — Haki base rules
-- **`emotion-will-heart.md`** — breakthrough is emotional first
-- **`spatial-violence.md`** — Armament coating in combat scenes
+- **`fight.md`** — breakthrough is emotional first
+- **`fight.md`** — Armament coating in combat scenes
 - **`martial-epic-beats.md`** — trained-master fight register
-- **`named-attacks.md`** — new named attacks emerge from training
+- **`fight.md`** — new named attacks emerge from training
 - **`character-focus-episodes.md`** — focus arcs often include training beats
 - **`saga-anatomy.md`** — saga-level training arcs (timeskip-equivalent)
 - **`SAGA_MAP.md`** — saga-weight training landmarks

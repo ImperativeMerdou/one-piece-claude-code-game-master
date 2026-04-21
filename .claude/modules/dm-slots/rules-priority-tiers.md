@@ -1,89 +1,80 @@
-# Rules Priority — Three Buckets, No Audit Machinery
+# Rules Priority — Module Map
 
-## LOADING BEHAVIOR
+## LOADING
 
-Modules in `.claude/modules/dm-slots/` auto-load every session via the Python loader UNLESS they are in an underscore-prefixed subfolder. Underscore-prefixed folders are skipped by design:
+Files in `.claude/modules/dm-slots/` (top level only) auto-load every session via the Python loader. Underscore-prefixed folders are skipped:
 
-- `_disabled-dnd/` — D&D-native modules this One Piece campaign does not use.
-- `_disabled-parody/` — retired parody-drift modules. Do NOT reinstate.
 - `_reference/` — consult-on-demand. DM reads via Read tool when a scene calls.
-- `_reference/_vanilla/` — D&D 5e output templates. Not loaded in ADVANCED-mode campaigns.
+- `_reference/_vanilla/` — D&D 5e fallback templates.
+- `_disabled-dnd/` and `_disabled-parody/` — retired, do not reinstate.
 
-**Runtime bible:** crew identity loads from `CREW_RUNTIME.md`, not `MERDO_SAGA_CREW_MASTER.md`. Plants load from `ACTIVE_PLANTS.md` (hot only), not full `chekhov-rack.json`. Masters are MANUAL_REFERENCE. Authority order on conflict: master > runtime > dm-slot > ledger.
-
-Combat / spell / level-up are handled by the shonen stack: `spatial-violence.md` + `named-attacks.md` + `emotion-will-heart.md` + `realism-governors.md` + `_reference/martial-epic-beats.md` + `_reference/legendary-fights.md` + `_reference/villain-kit.md`. Devil Fruits + Haki + Rokushiki replace D&D casting. Bounty + Haki budding + reputation replace leveling.
+Campaign-file loading for the Merdo campaign: `CAMPAIGN_BIBLE.md`, `CREW_RUNTIME.md`, `ACTIVE_PLANTS.md`, and `ONE PIECE RESEARCH/MERDO_SAGA_ANTAGONISTS.md` are appended via `dm-continue.md` + `bible-sources.txt`. Runtime authority order: master > runtime distillation > dm-slot > ledger.
 
 ---
 
-## THREE BUCKETS
+## ALWAYS-ON (loads every response)
 
-### ALWAYS_ON (runs every response)
+Craft floor and runtime structure:
 
-The non-negotiable floor.
+- `_preamble.md` — mode gate (VANILLA / ADVANCED)
+- `anti-slop-master.md` — craft floor; prose + canon + dark-fantasy ban
+- `dm-authority.md` — DM owns stats; yields to CAPTAIN'S ORDER
+- `fight.md` — combat, named attacks, panels, heart, aftermath
+- `length-governor.md` — 300–500w target, dynamic flex
+- `momentum-governor.md` — stall detector with scene-type gates
+- `narration.md` — 3-layer opener, no-footer ending
+- `one-piece-hud.md` — HUD + combat header + crowd gauge
+- `player-verbs.md` — FINISHER COMMIT + CAPTAIN'S ORDER
+- `reward-calibration.md` — cadence of small wins
+- `rules-priority-tiers.md` — this file
+- `search-guide-critical.md` — tool-call hygiene
+- `state-persistence.md` — state writes before narration
 
-- Player agency — never narrate Merdo's actions, dialogue, choices, or internal reactions as settled fact (`CREW_RUNTIME.md` rule 1).
-- Anti-slop laws + canon gut-check (`anti-slop-master.md`).
-- Distinct voices — no two crew lines swappable (`anti-slop-master.md` LAW 8).
-- Length governor — 300–500 words dynamic (`length-governor.md`).
-- Prose register — pick beige / clear / blue / purple / red per scene before writing (`prose-registers.md`).
-- Canon vocabulary — Den Den Mushi, berries (฿), Log Pose, Grand Line, Marines, Yonko. No D&D speech (DC/AC/+N/advantage).
-- Oda gut-check and heart-when-earned (`emotion-will-heart.md`).
-- Live deck posture on scene-open (`anti-slop-master.md` LAW 24).
-- Merdo is straight, women only (`feedback_nsfw_straight_wide_scope.md`). NSFW reads on trigger.
-- Dark / generic fantasy BANNED FOREVER (`anti-slop-master.md` LAW 23).
-- NPC firewall and hidden-block cadence (`living-world.md`).
-- Crew voice signatures (`CREW_RUNTIME.md`).
+Plus, via `dm-continue.md`:
+- `narrator-styles/shonen-one-piece.md` — voice + ritual trigger index
+- Campaign bibles and antagonist runtime file
 
-### CONTEXTUAL (fires when triggered)
+---
 
-Structural beats and scene-type tools. The DM reaches for these when the scene calls, not by default.
+## TRIGGERED REFERENCE (read on demand via Read tool)
 
-- HUD header at scene / session starts (`one-piece-hud.md`).
-- Episode title card at session start + cliffhanger + NEXT TIME ON at session end (`session-episode-structure.md`).
-- Island arrival 4-beat at every new island (`island-arrival.md`).
-- Named attack at point-of-no-return, max 1–2 per fight (`named-attacks.md`).
-- Spatial violence floor-plan when geography matters in a fight (`spatial-violence.md`).
-- Manga panel grammar at peak fight / reveal / emotional beat (`manga-panel-grammar.md`).
-- Post-combat body receipts and rumor / reputation tracking (`realism-governors.md`).
-- Stall detection and pressure injection (`momentum-governor.md`).
-- Captain-vs-name register and honorifics (`honorifics.md`).
-- Dream declaration ≥1 per arc (`dream-declarations.md`).
-- Nakama beat ≥1 per arc, feast mandatory at arc close (`nakama-moments.md`).
-- Goodbye beat at arc close (`goodbye-beats.md`).
-- Flag-and-covenant at new-member / arc-climax / saga-defiance (`flag-and-covenant.md`).
-- Chekhov rack fire-check at scene-major-moments (`chekhov-gun-rack.md`; hot plants in `ACTIVE_PLANTS.md`).
-- Reward calibration — ≥1 per session (`reward-calibration.md`).
-- Search guide when the DM needs world lookup (`search-guide-critical.md`).
-- Specialist agents when a sub-task is better farmed (`specialist-agents.md`).
-- State persistence at scene transitions (`state-persistence.md`).
-- DM authority when player pushes on rulings (`dm-authority.md`).
+Structural beats — fired when the scene calls, not by default:
 
-### REFERENCE (consult on demand via Read tool)
+- `_reference/session-episode-structure.md` — title card / cliffhanger / NEXT TIME ON shape; load at session start
+- `_reference/island-arrival.md` — 4-beat arrival; load on new island only
+- `_reference/nakama-moments.md` — feast types; arc-close and meal beats
+- `_reference/goodbye-beats.md` — arc-close departure ceremony
+- `_reference/dream-declarations.md` — the defining One Piece beat; once per arc
+- `_reference/flag-and-covenant.md` — new-member accept / saga-defiance / flag-raise
+- `_reference/chekhov-gun-rack.md` — plant/fire mechanism
+- `_reference/honorifics.md` — per-character address register
+- `_reference/living-world.md` — hidden-block, NPC firewall, proactive NPCs, sonder
+- `_reference/realism-governors.md` — physiological / environmental / social scrolls (violence folded into `fight.md`)
+- `_reference/specialist-agents.md` — when to spawn a specialist agent
+- `_reference/named-attacks-library.md` — per-crew attack vocabulary palette
 
-All in `_reference/` unless noted. The DM reads one of these when a specific scene needs it; they are not always-on context.
+Canon + craft (consult when a scene needs them):
 
-**Canon / world:** `canon-timeline.md` · `canon-factions.md` · `canon-encounters.md` · `canon-bounty-tiers.md` · `canon-geography.md` · `canon-divergence.md` · `haki-tiers.md` · `devil-fruit-awakening.md`
+- `_reference/canon-timeline.md` · `canon-factions.md` · `canon-encounters.md` · `canon-bounty-tiers.md` · `canon-geography.md` · `canon-divergence.md` · `haki-tiers.md` · `devil-fruit-awakening.md`
+- `_reference/villain-kit.md` · `martial-epic-beats.md` · `arc-anatomy.md` · `saga-anatomy.md` · `legendary-fights.md` · `messy-characters.md` · `oda-voice.md` · `epistemic-mode.md` · `arc-toggles.md` · `prose-affinities.md` · `character-focus-episodes.md` · `cross-crew-encounters.md` · `haki-training-arc.md`
+- `_reference/manga-sfx.md` · `meanwhile.md` · `ost-cues.md` · `flashback.md` · `native-tongue.md` · `cover-page-stories.md` · `sbs-questions.md` · `op-ed-themes.md` · `genre-dials.md` · `arc-visual-identity.md` · `news-coo.md` · `anime-craft.md` · `manga-craft.md` · `qc-dice.md`
+- `_reference/conditions-quick-reference.md` · `rest-recovery.md` · `skill-checks.md` · `one-shot-arcs.md` · `nsfw-fanservice.md` (read ONLY on actual escalation)
+- Infra references: `technical-notes.md` · `world-state-files.md` · `your-dm-tools.md` · `vivre-cards.md` · `player-dashboard.md` · `session-mood-request.md`
 
-**Craft:** `villain-kit.md` · `martial-epic-beats.md` · `arc-anatomy.md` · `saga-anatomy.md` · `legendary-fights.md` · `messy-characters.md` · `oda-voice.md` · `epistemic-mode.md` · `arc-toggles.md` · `prose-affinities.md` · `character-focus-episodes.md` · `cross-crew-encounters.md` · `haki-training-arc.md`
+Archived sources (Phase 1 surgery, do not reinstate without review):
+- `_legacy_phase1/dm-slots/` — spatial-violence, named-attacks, manga-panel-grammar, emotion-will-heart, prose-registers; all merged into `fight.md` or retired.
+- `_legacy_phase1/SAGA_ANTAGONISTS-pointer.md` — pointer file; bible-sources.txt loads the real target directly.
 
-**Runtime flourishes (budget sparingly):** `manga-sfx.md` · `meanwhile.md` · `ost-cues.md` · `flashback.md` · `native-tongue.md` · `cover-page-stories.md` · `sbs-questions.md` · `op-ed-themes.md` · `genre-dials.md` · `arc-visual-identity.md` · `news-coo.md` · `anime-craft.md` · `manga-craft.md` · `qc-dice.md`
+---
 
-**Situational mechanics:** `conditions-quick-reference.md` · `rest-recovery.md` · `skill-checks.md` · `one-shot-arcs.md`
+## PLAYER-INVOKED
 
-**NSFW:** `nsfw-fanservice.md` — read ONLY on actual escalation.
-
-**VANILLA (D&D fallback):** `_vanilla/output-format.md` — VANILLA-mode only.
-
-**Infra:** `technical-notes.md` · `world-state-files.md` · `your-dm-tools.md` · `vivre-cards.md`
-
-**Player-invoked:** `/dm dashboard`, `/dm highlights`, `/dm vivre`, `/dm mood`, `/dm genre`, `/dm canon-strict`, `/dm faster`, `/dm slow`, `/dm next time`, `/dm crew`, `/dm what's cool` (`session-mood-request.md`, `genre-dials.md`, `player-dashboard.md`).
+`/dm dashboard`, `/dm highlights` (Phase 2 wiring), `/dm vivre`, `/dm mood`, `/dm genre`, `/dm canon-strict`, `/dm faster`, `/dm slow`, `/dm next time`, `/dm crew`, `/dm finish`, `/dm order <name> <action>`. Detail in `player-verbs.md`, `_reference/session-mood-request.md`, `_reference/genre-dials.md`, `_reference/player-dashboard.md`.
 
 ---
 
 ## BALANCE
 
-- ALWAYS_ON runs every response.
-- CONTEXTUAL fires when the scene asks for it. Over-firing = checklist feel. Under-firing = flat feel.
-- REFERENCE is read, not loaded. Use the Read tool when a scene needs it; close it when the scene is done.
-
-Uncertain on a CONTEXTUAL flourish → don't fire it. Rare = harder landing.
+- Always-on runs every response. Keep it tight.
+- Triggered reference fires when the scene asks. Over-firing reads as a checklist; under-firing reads as a flat world. Rare = harder landing.
+- When uncertain whether to fire a triggered flourish: don't.

@@ -170,7 +170,7 @@ Tessara (current) was: Bronze + Iron primary, blood-red + wax-gold secondary, be
 
 - **`arc-visual-identity.md`** — choose the island's palette first
 - **`session-episode-structure.md`** — arrivals usually open a new session (title card + cold open)
-- **`manga-panel-grammar.md`** — wide shot → mid shot → close-up rhythm works here
+- **`fight.md`** — wide shot → mid shot → close-up rhythm works here
 - **`canon-geography.md`** — where this island sits in the Grand Line
 - **`arc-anatomy.md`** — the arrival is the INCITING beat of the arc
 - **`saga-anatomy.md`** — if this arrival is a saga inciting arc, add weight

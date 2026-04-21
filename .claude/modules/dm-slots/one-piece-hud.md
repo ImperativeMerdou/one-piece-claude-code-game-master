@@ -1,61 +1,52 @@
-## One Piece HUD / Output Format Override
+# One Piece HUD — Output Format
 
-For the One Piece campaign, this module owns the output format. Bounty is the headline status. Berries (฿) instead of GP. Haki tracker instead of spell slots. No boxed prompt-line footer — the scene ends on its natural beat (per `narration.md` + `length-governor.md`). VANILLA D&D template lives in `_reference/_vanilla/output-format.md`.
-
-This module overrides the standard scene template when the active campaign is One Piece.
+One Piece campaign output format. Bounty is the headline status. Berries (฿) replace GP. Haki tracker replaces spell slots. No boxed prompt-line footer. VANILLA D&D template lives in `_reference/_vanilla/output-format.md`.
 
 ---
 
-## Scene Header — Standard Format
+## Scene header — standard
 
 ```
 ═══════════ ⚓ MERDO PIRATES · DAY 11 · MORNING ═══════════
   ▸ TESSARA PORT, Route Three — Island 3 of the gauntlet
   ▸ The Golgatha · Hull ████████ 100%  · Crew Morale ████████
-  ▸ MERDO · Lvl 4 · Bounty ฿0 (no bounty issued yet)  · Haki: Armament▾ Observation▽ Conqueror▽
+  ▸ MERDO · Bounty ฿0 (no bounty issued yet)  · Haki: Armament▾ Observation▽ Conqueror▽
   ▸ Active arc: TESSARA — sign-ups open today, decision pending
 ═══════════════════════════════════════════════════════════
 ```
 
-**Important about the bounty + epithet lines:** Do NOT show a bounty figure or an epithet that the world has not actually filed. Currently Merdo's bounty is ฿0 and he has NO earned epithet. When the world files (after a public arc), THEN update the HUD. Do not pre-invent. Per `feedback_no_ai_slop_names.md`: epithets must come from the most-witnessed thing the character did, named by the world (often a misinterpretation), not by us.
+- **Day / Time-of-day** — warm sailor pacing.
+- **Location** — route context on Route line.
+- **Ship** — hull + morale. Not crew HP.
+- **Bounty** — bounty FIRST, identity in One Piece. ฿ symbol. Do NOT pre-invent bounties or earned epithets — they come from the world after a public event.
+- **Haki tracker** — `▴` active / `▾` unreliable / `▽` dormant.
+- **Active arc** — what's happening this island, what's the timer.
 
-Notes on each line:
-- **Day / Time-of-day** in header (warm sailor pacing, not video-game stat).
-- **Location line** with route context. ("Worst Route — Island 3 of the gauntlet" reminds why the difficulty is up.)
-- **Ship line** — hull + morale (the captain's two ship-stats). Not crew HP.
-- **Bounty line** — bounty FIRST, level small after. Bounty IS identity in One Piece. ฿ symbol.
-- **Haki tracker** — three icons:
-  - `▴` = active / available
-  - `▾` = unreliable / flickering
-  - `▽` = dormant
-- **Active arc + clock** — what's happening this island, what's the timer.
+Fire HUD at scene transitions and session starts, not every response.
 
 ---
 
-## Combat Header — Combat Format
+## Combat header
 
 ```
 ═══════════ ⚔ COMBAT · TESSARA COLOSSEUM · ROUND 1 ════════
-  Crowd: ROARING (full house, ~8000)
+  Crowd: ROARING (full house, ~8000) · With Merdo: drifting
   ▸ MERDO vs EZRAD "LAST BOTTLE"
-  ▸ Merdo: standing, gauntlets on, Danzai sheathed across the back
+  ▸ Merdo: standing, gauntlets on, Danzai sheathed
   ▸ Ezrad: 47, drunk, smiling, two cleavers loose-grip
 ═══════════════════════════════════════════════════════════
 ```
 
-Notes:
-- **Crowd state** — quiet / murmuring / cheering / roaring / silent. Crowd is a combatant in One Piece.
-- **Fighter status as PROSE,** not HP bars. "Merdo: standing, breathing hard, blood on his teeth, grin." NOT "HP: 45/72."
-- **DM tracks numbers internally** but never displays them in the prose-facing HUD. (Per anti-rule #2: no D&D math in narration.)
-- Use `▸` arrows for clean indent.
+- **Crowd state** — quiet / murmuring / cheering / roaring / silent. Crowd is a combatant.
+- **Crowd alignment** — "with Merdo" / "neutral" / "against" / "drifting" — a narrative gauge the player can move via dream declarations, named attacks, comedy beats in front of witnesses. DM tracks qualitatively. No numbers.
+- **Fighter status as PROSE** — "standing, breathing hard, blood on his teeth, grin." NOT HP numbers.
+- DM tracks numbers internally; never displays them in prose-facing HUD.
 
 ---
 
-## No Boxed Prompt Footer — End on the Beat
+## No footer
 
-The D&D-default `[A]ttack [M]ove [C]ast spell` bracket is replaced with NOTHING. Per `narration.md` + `length-governor.md`: the scene ends on its natural beat. Do NOT append a formatted `═══ What's your move? ═══` footer box. Do NOT append a prompt line. The final sentence of the prose IS the hook — an image, a line of dialogue, a changed constraint, a silence.
-
-The pressure that asks the player what to do should live IN the scene, not in a footer:
+Per `narration.md` + `length-governor.md`: the scene ends on its natural beat. Do NOT append `═══ What's your move? ═══` or `[A]ttack [M]ove` brackets. The final sentence IS the hook.
 
 ```
 Ezrad's already moving. The crowd is screaming. Volo is
@@ -63,17 +54,11 @@ shouting something obscene from the front row. Sumi has
 climbed onto the railing.
 ```
 
-The moment ends. The player acts. No footer needed.
+Scene leaves the decision live. Player picks it up.
 
-```
-The merchant council member is still smiling. The wine
-glass in his hand hasn't moved. The Den Den Mushi on his
-table just rang twice and stopped.
-```
+### When to offer diegetic options
 
-Same. The scene leaves the decision live. The player picks it up.
-
-**When the scene genuinely pauses** (a quiet moment between crises), the DM MAY offer 3-4 diegetic options, but still no "Captain?" prompt — just the options as visible paths, plus an explicit freeform:
+When the scene genuinely pauses (a quiet moment between crises), offer 3–4 visible paths + an explicit freeform:
 
 ```
 The crew is quiet. The Golgatha rocks under the dock.
@@ -81,112 +66,70 @@ Vesper is watching Merdo over the rim of her medical mug.
 
   ▸ Sit with Vesper. Whatever she's not saying.
   ▸ Walk to the prow. Mornings alone, the crew knows.
-  ▸ Find Sumi — she's been quiet for twenty minutes
-    and that's unusual.
+  ▸ Find Sumi — she's been quiet for twenty minutes.
   ▸ Find Nox — he was asking about something.
   ▸ Or whatever Merdo does instead.
 ```
 
-Always include the freeform option. Never restrict the player to a list. Never address the player as "Captain" in the option menu — the crew does not default to that, and neither does the UI.
+Always include the freeform option. Never restrict. Never address the player as "Captain" in a menu — the crew does not default to that, and neither does the UI.
 
 ---
 
-## Status / Damage / Healing — Anti-D&D-Math
+## Damage and healing — no D&D math
 
-When something happens to Merdo, NARRATE it. Don't display HP changes. Examples:
+Narrate, don't display HP.
 
-WRONG:
-```
-You take 8 damage. HP: 64/72.
-```
+WRONG: *"You take 8 damage. HP: 64/72."*
+RIGHT: *"The Marine's gauntlet caught Merdo across the jaw. The taste of iron bloomed in his mouth. The crowd inhaled."*
 
-RIGHT:
-```
-The Marine's gauntlet caught Merdo across the jaw.
-The taste of iron bloomed in his mouth — the user knows
-this taste. The crowd inhaled.
-```
-
-WRONG:
-```
-You heal 12 HP. HP: 72/72.
-```
-
-RIGHT:
-```
-Vesper's claws were already on his ribs. "STOP MOVING.
-STOP. MOVING." She bit his shoulder for emphasis. He
-stopped moving. The pain ebbed.
-```
-
-The DM tracks numbers internally for consistency. The player feels the damage, doesn't read it.
+Vesper bites, scolds, and heals through prose — never through HP numbers.
 
 ---
 
-## Crew Status — Show Through Behavior
+## Crew status — show through behavior
 
-If the user asks "how's the crew?", show through behavior, not stats:
+"How's the crew?" → show behavior, not stats:
 
 ```
-  ▸ ASHREN — on the high mast. Heel plates clicking
-    once a minute. Awake.
-  ▸ MELAINA — galley. Slamming pots. (She's worried
-    about something. She won't say what.)
-  ▸ VESPER — medical bay, sorting bandages, muttering
-    about colosseum injury rates.
-  ▸ SABLE — somewhere. (She left at midnight. Hasn't
-    come back. Sumi says don't worry.)
-  ▸ VOLO — prow. Has been silently watching the
-    Marine ships for an hour. Fins folded.
-  ▸ SUMI — on the deck, eating a pastry the size of
-    her face, drawing what might be a battle plan
-    or might be a self-portrait.
-  ▸ NOX — trying to teach Mako a card game with
-    rules he's making up as he goes.
-  ▸ KARA — at the galley with Melaina. Humming.
+  ▸ ASHREN — on the high mast. Heel plates clicking once a minute. Awake.
+  ▸ MELAINA — galley. Slamming pots. Worried about something, won't say what.
+  ▸ VESPER — medbay, sorting bandages, muttering about colosseum injury rates.
+  ▸ SABLE — somewhere. Left at midnight. Hasn't come back. Sumi says don't worry.
+  ▸ VOLO — prow. Silently watching the Marine ships for an hour. Fins folded.
+  ▸ SUMI — deck, eating a pastry the size of her face, drawing a plan or a self-portrait.
+  ▸ NOX — teaching Mako a card game with rules he's inventing.
+  ▸ KARA — galley with Melaina. Humming.
 ```
 
-This IS the status. Numbers go to the DM-internal layer.
+This IS the status.
 
 ---
 
-## Bounty Updates Inline
+## Bounty updates inline
 
-When a bounty changes, surface it visibly:
+When a bounty changes, surface it visibly, paired with a News Coo cut or reaction beat:
 
 ```
-  ▸ MERDO · Lvl 4 · Bounty ฿0  →  ฿[earned amount]
-                                    (filed after [witnessed event])
+  ▸ MERDO · Bounty ฿0  →  ฿[earned amount]
+                          (filed after [witnessed event])
 ```
 
-Pair with a News Coo cut or an anime-forum reaction. THE NUMBER IS NOT INVENTED HERE — it follows from the public event the world saw. Rookie first bounties in Paradise typically run 30M-60M for major events. Reference frame: pre-Alabasta Luffy was 30M; post-Alabasta jumped to 100M.
+The number follows from the public event. Rookie Paradise bounties run 30M–60M for major events. Pre-Alabasta Luffy: 30M. Post-Alabasta: 100M.
 
 ---
 
-## End-of-Scene Footer
+## NEVER in the HUD
 
-```
-═══════════════════════════════════════════════════════════
-  /dm save  ·  /dm character  ·  /dm overview  ·  /help
-═══════════════════════════════════════════════════════════
-```
-
-(Same as before. Player tools always available.)
-
----
-
-## What NEVER to put in the HUD
-
-- HP bars (per anti-D&D rule)
-- Spell slots (no D&D casters in One Piece)
+- HP bars
+- Spell slots
 - AC numbers
-- "Conditions: Normal / Wounded / Critical" — narrate it instead
-- "Initiative" or "Round 3 of 5"
-- XP bars in scene headers (XP is DM-internal until level-up)
-- Loot boxes for routine items (only the genuinely notable; show via crew dialogue)
+- "Conditions: Normal / Wounded / Critical" — narrate it
+- "Initiative" / "Round 3 of 5"
+- XP bars (DM-internal)
+- Loot boxes for routine items
 
 ---
 
-## Activation
+## Active when
 
-This module is active when `campaign-overview.json` has `narrator_style: shonen-one-piece`. Unicode indicators and dialogue-box formats for non-One-Piece fallbacks live in `_reference/_vanilla/output-format.md`.
+`campaign-overview.json.narrator_style = shonen-one-piece`.

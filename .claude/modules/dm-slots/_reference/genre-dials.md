@@ -40,7 +40,7 @@ Each dial is a mood + prose-texture + pacing flavor. Pick one per scene when it 
 - **Vocabulary favored:** specific concrete past objects brought forward (a tea cup, a ribbon, a note), silence that communicates
 - **Vocabulary banned:** any quick-fix emotional resolution, any hug-it-out ending
 - **Deploy for:** Merdo's village-betrayal flashbacks, Melaina's mother-reveal saga arc, Darius-and-Rook parting night (if it happens on-camera), any scene where the WEIGHT of what happened is the point
-- **Pairs with:** emotion-will-heart.md, flashback.md
+- **Pairs with:** fight.md, flashback.md
 
 ### 🌗 MERIDIAN — Fantasy / liminal / mythic
 - **Texture:** the scale of the moment elevates, the ordinary and the mythic touch, something in the scene is larger than the characters know
@@ -112,7 +112,7 @@ Each dial is a mood + prose-texture + pacing flavor. Pick one per scene when it 
 - **Vocabulary favored:** simple direct Oda-vocabulary ("nakama", "live", "no"), public reaction chain (silence → gasp → spread)
 - **Vocabulary banned:** verbose rhetoric, explanatory speech
 - **Deploy for:** Merdo's first public declaration (he already made one: "I'm protecting this Lunarian by name" to Adaam Goroa — GRAVITAS), future bounty moments, Volo's public commitments, anyone's first-declared dream
-- **Pairs with:** emotion-will-heart.md, anime-forum.md (GRAVITAS moments are often anime-forum triggers)
+- **Pairs with:** fight.md, anime-forum.md (GRAVITAS moments are often anime-forum triggers)
 
 ### 🧊 RESIDUE — Trauma as currency
 - **Texture:** what the character carries from the past that won't put itself down

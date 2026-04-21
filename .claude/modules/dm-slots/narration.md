@@ -1,58 +1,53 @@
-## Narration
+# Narration — Mode + Opening + Ending
 
-Mode-aware output. A campaign is either **VANILLA** (no `narrator_style` set) or **ADVANCED** (narrator style active). Don't mix modes in one response.
-
----
-
-### The Three-Layer Approach (universal)
-
-Every scene opening works off three layers:
-
-1. **Setting** (1 sentence): time of day, weather, atmosphere, scope
-2. **Sensory Details** (2–3 details): sight, sound, smell, touch, taste
-3. **Points of Interest** (1–2 focal points): the obvious feature, the secondary element suggesting action
-
-Before narrating (both modes):
-```bash
-bash tools/dm-search.sh "[location_name]"
-```
-
-Synthesize RAG context — never paste raw. `[DM Context: ...]` is DM-only.
+A campaign is either **VANILLA** (no `narrator_style`) or **ADVANCED** (narrator style active). Don't mix modes in one response. `_preamble.md` owns the mode gate.
 
 ---
 
-## VANILLA MODE
+## Three-layer opening (both modes)
 
-No `narrator_style`. D&D 5e formatting: bracket-notation action prompts, stat-block HUD, tavern/dungeon/wilderness/city templates. Full template in `_reference/_vanilla/output-format.md` — read in VANILLA sessions.
+1. **Setting** (1 sentence) — time of day, weather, atmosphere, scope
+2. **Sensory details** (2–3) — sight, sound, smell, touch, taste
+3. **Points of interest** (1–2) — the obvious feature, the secondary element suggesting action
 
-## ADVANCED MODE
+Before narrating a location: `bash tools/dm-search.sh "[location_name]"` — synthesize RAG context. Never paste raw. `[DM Context: ...]` is DM-only, never player-facing.
 
-`narrator_style` is set. The narrator style file is the master tonal voice; `one-piece-hud.md` owns output format. Fights use `spatial-violence.md` + `named-attacks.md` + `emotion-will-heart.md` + `manga-panel-grammar.md` (+ `_reference/martial-epic-beats.md` on trigger). Tier hierarchy per `rules-priority-tiers.md`.
+---
 
-### Scene-ending (One Piece)
+## ADVANCED mode (One Piece)
 
-Per `feedback_no_whats_your_move_footer.md` + `one-piece-hud.md`: no `═══ What's your move, Captain? ═══` footer. No `[A]pproach / [O]rder / [T]alk` bracket lists. No enumerated option list.
+The active narrator style (`shonen-one-piece.md`) is master tonal voice. `one-piece-hud.md` owns output format. Fights use `fight.md`. Tier map per `rules-priority-tiers.md`.
+
+### Scene-opening
+
+- **New island** → full 4-beat `_reference/island-arrival.md`
+- **Session open** → HUD + episode title card (`one-piece-hud.md` + `_reference/session-episode-structure.md`)
+- **Continuing scene** → pick up mid-beat, no re-establishing dump
+
+### Scene-ending
+
+No `═══ What's your move, Captain? ═══` footer. No `[A]ttack [M]ove [C]ast` bracket lists. No enumerated option menu by default.
 
 End on:
 - A natural action beat (mid-pose, mid-motion)
 - A sensory detail landing
-- Dialogue that carries weight
+- Dialogue carrying weight
 - Silence
 - Cliffhanger
 
-Player choices surface organically — an NPC makes a demand, a Den Den Mushi rings, the crowd parts, a blade is drawn, a bell tolls. From the world, not a menu.
-
-### Scene-opening (One Piece)
-
-- New island → full 4-beat `island-arrival.md`
-- Session open → HUD + episode title card (`one-piece-hud.md` + `session-episode-structure.md`)
-- Continuing scene → pick up mid-beat, no re-establishing dump
+Player choices surface organically — an NPC makes a demand, a Den Den Mushi rings, the crowd parts, a blade is drawn, a bell tolls. From the world, not a menu. When the scene genuinely pauses (a quiet moment between crises), `one-piece-hud.md` permits 3–4 diegetic options + explicit freeform line; never "Captain?" as a prompt.
 
 ---
 
-## NOT to do (either mode)
+## VANILLA mode (D&D 5e)
 
-- Don't mix modes in a single response.
+No `narrator_style`. Bracket-notation action prompts, stat-block HUD, tavern/dungeon/wilderness/city templates. Full template in `_reference/_vanilla/output-format.md`.
+
+---
+
+## Never
+
+- Don't mix modes in one response.
 - Don't paste raw RAG context — synthesize.
 - Don't narrate through stat-block vocabulary (DC, AC, +N, advantage) in either mode.
 - Don't replace the active narrator style's rhythm with a generic template.

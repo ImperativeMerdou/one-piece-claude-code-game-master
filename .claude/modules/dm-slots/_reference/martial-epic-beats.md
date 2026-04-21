@@ -161,9 +161,9 @@ This is a CANON One Piece beat (Mihawk vs Zoro at Baratie has this energy; Shank
 
 ## INTEGRATION
 
-- **Pairs with `named-attacks.md`** — martial-epic named attacks are QUIET. "Higure: Yuukoku." Small, certain, final. The scream register from `emotion-will-heart.md` is INVERTED here — martial-epic names are whispered or stated flat.
-- **Pairs with `spatial-violence.md`** — martial-epic fights use spatial precision even more: the exact angle, the exact paces, the exact foot position. The geography is measured, not chaotic.
-- **Pairs with `emotion-will-heart.md`** — heart is still present, but expressed through COMMITMENT and the MOMENT, not through scream. The interior is still there — just AROUND the strike, not during it.
+- **Pairs with `fight.md`** — martial-epic named attacks are QUIET. "Higure: Yuukoku." Small, certain, final. The scream register from `fight.md` is INVERTED here — martial-epic names are whispered or stated flat.
+- **Pairs with `fight.md`** — martial-epic fights use spatial precision even more: the exact angle, the exact paces, the exact foot position. The geography is measured, not chaotic.
+- **Pairs with `fight.md`** — heart is still present, but expressed through COMMITMENT and the MOMENT, not through scream. The interior is still there — just AROUND the strike, not during it.
 - **Overrides default `length-governor.md` on martial-epic beats** — these scenes can run long because the stillness earns the words. The strike itself is small; the surrounding pages are dense.
 - **Pairs with `legendary-fights.md`** — canon Zoro-vs-King patterns have martial-epic mid-beats. Study them.
 

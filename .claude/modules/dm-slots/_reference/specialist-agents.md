@@ -17,12 +17,12 @@
 
 The original DM system shipped with 7 D&D-flavored specialist agents. They've been moved to `.claude/agents/_disabled-dnd/` for this One Piece campaign because the Merdo Pirates saga doesn't use D&D 5e mechanics as player-facing fiction:
 
-- ~~`monster-manual`~~ — D&D 5e API monster stats. Replaced by the shonen combat stack: `spatial-violence.md` + `named-attacks.md` + `emotion-will-heart.md` + `_reference/martial-epic-beats.md` + `_reference/legendary-fights.md` + `_reference/villain-kit.md`.
-- ~~`spell-caster`~~ — D&D 5e spells. Not applicable; One Piece has Devil Fruits + Haki + Rokushiki + Fish-Man Karate instead (see `one_piece_power_law.md` memory + `named-attacks.md`).
+- ~~`monster-manual`~~ — D&D 5e API monster stats. Replaced by the shonen combat stack: `fight.md` + `fight.md` + `fight.md` + `_reference/martial-epic-beats.md` + `_reference/legendary-fights.md` + `_reference/villain-kit.md`.
+- ~~`spell-caster`~~ — D&D 5e spells. Not applicable; One Piece has Devil Fruits + Haki + Rokushiki + Fish-Man Karate instead (see `one_piece_power_law.md` memory + `fight.md`).
 - ~~`rules-master`~~ — D&D 5e rule clarifications. Replaced by `shonen-one-piece` narrator + the canon-* reference modules + the canon gut-check inside `anti-slop-master.md`.
 - ~~`gear-master`~~ — D&D 5e equipment. Replaced by One Piece in-world items logic (kanabo, nodachi, flintlocks, Devil Fruits as items, etc.).
 - ~~`loot-dropper`~~ — D&D 5e loot tables. Replaced by in-world treasure logic (berries, Devil Fruits are priceless, crew shares, etc.).
-- ~~`dungeon-architect`~~ — D&D 5e dungeon rooms. Replaced by One Piece island/ship/fortress writing (see `spatial-violence.md` + `arc-anatomy.md`).
+- ~~`dungeon-architect`~~ — D&D 5e dungeon rooms. Replaced by One Piece island/ship/fortress writing (see `fight.md` + `arc-anatomy.md`).
 - ~~`create-character`~~ — D&D 5e character creation. Replaced by campaign-specific character design per `CAMPAIGN_BIBLE.md` + the design-law memory files.
 
 **DO NOT spawn any of these.** They don't exist in the agent registry anymore for this campaign. If combat / spell / rules / equipment / loot / dungeon / character-creation logic is needed, route through the shonen-one-piece module stack listed above.

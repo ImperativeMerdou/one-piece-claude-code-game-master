@@ -81,7 +81,7 @@ For One Piece-specific attempts, narrative difficulty is tied to the world's sta
 **Physical actions** (climbing a colosseum wall, dodging the Root-Gnawer's tail, catching a falling Kara):
 - Minor setback → takes longer, makes noise, uses up energy
 - Clear fail → resource spent, wound taken, attention drawn
-- Rough fail → real harm (post-combat-state per `emotion-will-heart.md`)
+- Rough fail → real harm (post-combat-state per `fight.md`)
 - Bad fail → major complication, possible saga-scale consequence
 
 **Social actions** (bluffing a Marine officer, convincing Adaam Goroa, intimidating a pit fighter):

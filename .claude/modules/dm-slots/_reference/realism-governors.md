@@ -199,8 +199,8 @@ These governors are GROUNDED but not STRICT. Under shonen rules:
 
 ## INTEGRATION
 
-- **Pairs with `emotion-will-heart.md`** — heart OVERRIDES physiology at peak moments; the body receipts after. Post-peak collapse is non-negotiable per that module.
-- **Pairs with `spatial-violence.md`** — damage-accumulation on bodies and environment tracks there; the governors explain WHY damage persists.
+- **Pairs with `fight.md`** — heart OVERRIDES physiology at peak moments; the body receipts after. Post-peak collapse is non-negotiable per that module.
+- **Pairs with `fight.md`** — damage-accumulation on bodies and environment tracks there; the governors explain WHY damage persists.
 - **Pairs with `news-coo.md`** — social-realism rumor mechanics fire through news-coo formal delivery.
 - **Pairs with `living-world.md`** — hidden-block NPC states track the witness/rumor consequences.
 - **Pairs with `length-governor.md`** — governor details are LIGHT TOUCHES, not inventories. Don't burn 200 words on exertion tracking; 1-2 sentences of texture does the job.

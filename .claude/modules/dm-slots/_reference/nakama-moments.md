@@ -140,7 +140,7 @@ Notes:
 
 ## Cross-references
 
-- **`emotion-will-heart.md`** — the heart core that makes nakama beats land
+- **`fight.md`** — the heart core that makes nakama beats land
 - **`goodbye-beats.md`** — arc-close gratitude scenes
 - **`dream-declarations.md`** — restatements at nakama scenes
 - **`flag-and-covenant.md`** — the flag as crew-binding symbol

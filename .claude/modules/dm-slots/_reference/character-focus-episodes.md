@@ -132,7 +132,7 @@ Current Tessara arc is trending dual-focus: Merdo (primary) + whichever new crew
 
 - **`dream-declarations.md`** — Beat 4 restatement
 - **`flashback.md`** — Beat 2 wound-flashback format
-- **`emotion-will-heart.md`** — finisher heart-register
+- **`fight.md`** — finisher heart-register
 - **`messy-characters.md`** — character-build depth for focus arcs
 - **`saga-anatomy.md`** — arcs within saga structure
 - **`SAGA_MAP.md`** (campaign file) — rotation across sagas

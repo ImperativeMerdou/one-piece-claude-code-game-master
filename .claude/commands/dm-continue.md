@@ -87,42 +87,15 @@ if [ -n "$ACTIVE_ARC" ] && [ "$ACTIVE_ARC" != "null" ]; then
   printf '%s\n' "$ACTIVE_ARC" >> /tmp/dm-rules.md
 fi
 
-# Per-session opening hook (overrides standard scene-open if present)
-NEXT_HOOK="${CAMPAIGN_DIR}/NEXT_SESSION_HOOK.md"
-if [ -f "$NEXT_HOOK" ]; then
-  echo -e "\n\n=== NEXT SESSION HOOK (use as opening scene seed) ===\n" >> /tmp/dm-rules.md
-  cat "$NEXT_HOOK" >> /tmp/dm-rules.md
-fi
-
-# Chekhov gun rack — load the saga's planted threads
-CHEKHOV="${CAMPAIGN_DIR}/chekhov-rack.json"
-if [ -f "$CHEKHOV" ]; then
-  echo -e "\n\n=== CHEKHOV GUN RACK (planted threads — DM tracks fire pressure, fires when due) ===\n" >> /tmp/dm-rules.md
-  cat "$CHEKHOV" >> /tmp/dm-rules.md
-fi
-
-# Saga map — saga-level compass + Emperor-ascension roadmap + divergence log
-SAGA_MAP="${CAMPAIGN_DIR}/SAGA_MAP.md"
-if [ -f "$SAGA_MAP" ]; then
-  echo -e "\n\n=== SAGA MAP (saga structure + Emperor endgame + canon-divergence log) ===\n" >> /tmp/dm-rules.md
-  cat "$SAGA_MAP" >> /tmp/dm-rules.md
-fi
-
-# Saga antagonists — rival + villain + drama roster per saga
-SAGA_ANT="${CAMPAIGN_DIR}/SAGA_ANTAGONISTS.md"
-if [ -f "$SAGA_ANT" ]; then
-  echo -e "\n\n=== SAGA ANTAGONISTS (rivals + villains + per-saga roster) ===\n" >> /tmp/dm-rules.md
-  cat "$SAGA_ANT" >> /tmp/dm-rules.md
-fi
-
-# Drama threads — cross-saga narrative arcs + branch points
-DRAMA="${CAMPAIGN_DIR}/DRAMA_THREADS.md"
-if [ -f "$DRAMA" ]; then
-  echo -e "\n\n=== DRAMA THREADS (cross-saga arcs + 7 branch points) ===\n" >> /tmp/dm-rules.md
-  cat "$DRAMA" >> /tmp/dm-rules.md
-fi
-
-# NOTE: ENDGAME_YONKO.md and OST_LIBRARY.md are CONSULT-ON-DEMAND, not auto-loaded.
+# NOTE (Phase 1 surgery): Dead load blocks removed for files that do not exist
+# in the campaign directory (NEXT_SESSION_HOOK.md, SAGA_MAP.md, DRAMA_THREADS.md)
+# and for the SAGA_ANTAGONISTS.md pointer (the real antagonist file is loaded via
+# bible-sources.txt → ONE PIECE RESEARCH/MERDO_SAGA_ANTAGONISTS.md, so the pointer
+# is redundant). chekhov-rack.json auto-load also removed — hot plants live in
+# ACTIVE_PLANTS.md (loaded via bible-sources.txt). Full rack is consult-on-demand
+# via the Read tool when the DM audits pressure or fires a non-hot plant.
+#
+# ENDGAME_YONKO.md and OST_LIBRARY.md remain CONSULT-ON-DEMAND.
 # ENDGAME_YONKO holds Saga 10 spoilers — do NOT surface before Saga 8.
 # OST_LIBRARY is reference; DM reads it when picking a specific OST cue.
 

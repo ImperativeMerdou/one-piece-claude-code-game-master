@@ -36,7 +36,7 @@
 | **Flame-burned** (Lunarian) | Burn damage + visible scarring + lingering heat in tissue | Ashren's back-flame at full deploy, canon Lunarian encounters | Lunarian flame burns DIFFERENT — silver-white or gold-tinted, hotter than natural fire. Damage carries into later scenes. |
 | **Sulong** (Mink-boosted) | Mink with full-moon access transforms: 3x speed, 2x strength, temporary but catastrophic | Full moon visible to a Mink, Vesper saga-late | Vesper has NEVER triggered this. When it happens it will be saga-weight. Narrate as OVERWHELMING. |
 | **Electro-shocked** (Mink) | Stunned for 1 round per hit + minor damage | Mink Electro strike (Vesper) | Show the AMBER arc — Vesper's Electro is amber-tinted, not standard blue-white. |
-| **Gear-exhausted** (brawler) | Character who pushed past baseline recovery tier — massive debuff until proper rest | Post-heart-peak override per `emotion-will-heart.md` | Show the COLLAPSE. Luffy post-Bajrang-Gun. Saga-late for Merdo. |
+| **Gear-exhausted** (brawler) | Character who pushed past baseline recovery tier — massive debuff until proper rest | Post-heart-peak override per `fight.md` | Show the COLLAPSE. Luffy post-Bajrang-Gun. Saga-late for Merdo. |
 | **Awakening-cost** (advanced fruit user) | Awakened fruit user pays body or lifespan or sanity cost | Doflamingo string-awakening, Zoan awakening absorb risk | Saga-late. Not applicable for current crew. |
 
 ---
@@ -53,9 +53,9 @@ For general social "charmed" fiction: use `villain-kit.md` MANIPULATION section 
 
 ---
 
-## Exhaustion — merged into `emotion-will-heart.md` POST-COMBAT STATE
+## Exhaustion — merged into `fight.md` POST-COMBAT STATE
 
-D&D's 6-level exhaustion ladder is replaced by the 5-tier post-combat state system in `emotion-will-heart.md`:
+D&D's 6-level exhaustion ladder is replaced by the 5-tier post-combat state system in `fight.md`:
 
 | Old D&D exhaustion | New shonen tier |
 |---|---|
@@ -65,7 +65,7 @@ D&D's 6-level exhaustion ladder is replaced by the 5-tier post-combat state syst
 | Level 5 (speed 0) | **Broken** |
 | Level 6 (death) | **Catastrophic** (saga-weight) |
 
-Use the tiers from `emotion-will-heart.md`. Don't track both systems.
+Use the tiers from `fight.md`. Don't track both systems.
 
 ---
 
