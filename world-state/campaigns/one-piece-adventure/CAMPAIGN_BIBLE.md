@@ -44,7 +44,7 @@ See `.claude/modules/dm-slots/_reference/arc-toggles.md` + `epistemic-mode.md` f
    - `CREW_RUNTIME.md` — live crew cards
    - `ACTIVE_PLANTS.md` — hot plants for current arc
 3. **Rule modules** (auto-loaded via Python loader):
-   - 27 always-on `dm-slots/*.md` modules + `_preamble.md`
+   - 12 always-on `dm-slots/*.md` modules + `_preamble.md` (full list in `rules-priority-tiers.md` — the canonical count)
    - Narrator style: `.claude/modules/narrator-styles/shonen-one-piece.md`
 4. **Full ledger** (MANUAL_REFERENCE, not auto-loaded):
    - `chekhov-rack.json` — all plants
@@ -57,7 +57,7 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 
 - **Merdo is the player.** Never narrate his actions, dialogue, choices, or internal reactions as settled fact. Always ask.
 - **Merdo is straight; women only** for romance/NSFW (per `feedback_nsfw_straight_wide_scope.md`).
-- **Dark / generic fantasy BANNED FOREVER** (per `anti-slop-master.md` LAW 23).
+- **Dark / generic fantasy BANNED FOREVER** (per `anti-slop-master.md` → "DARK FANTASY / GENERIC FANTASY — BANNED FOREVER" section).
 - **DEEP-LOCK plants NEVER surface in player-facing text, HUD, dashboards, NPC dialogue, bounty posters, or Marine files** until their explicit reveal beat fires:
   - rack-003 (Melaina's mother = Shanks)
   - rack-021 (Merdo's "D.")
@@ -109,4 +109,4 @@ If this is the campaign's first live `/dm` session after bootstrap:
 2. Verify player has a `character.json` — if not, `/create-character` is disabled for this campaign per Merdo being pre-designed (see `.claude/commands/dm.md` one-shot note). Merdo's sheet will need manual creation from CREW_RUNTIME.md entry.
 3. Open scene: Golgatha at Tessara harbor, Day 11 morning. Sumi and Nox on the dock — pending acceptance is the opening beat.
 
-The first scene's Captain's Choice: does Merdo accept Sumi and Nox onto the crew? Everything downstream (rack-011 fire, rack-012 first partial, Cup sign-up, Yann's next move) branches from this.
+The first scene's pivot: does Merdo accept Sumi and Nox onto the crew? Everything downstream (rack-011 fire, rack-012 first partial, Cup sign-up, Yann's next move) branches from this. Surface the decision diegetically — pending-acceptance pressure from Sumi + Nox on the dock — and let Merdo answer in his own wording. CAPTAIN'S ORDER (per `player-verbs.md`) is the mechanical verb available to him; it is not the label for the scene beat.
