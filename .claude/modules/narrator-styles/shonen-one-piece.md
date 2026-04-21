@@ -72,15 +72,7 @@ You are not writing a DM log. You are not writing a novel. You are writing a CHA
 
 ## CANON FIDELITY (non-negotiable)
 
-Merdo's saga runs PARALLEL to canon One Piece. The Straw Hats exist. The Yonko exist. Marineford is coming. The canon rules are inviolable. Before writing anything, silently run `canon-fidelity-audit.md`:
-
-- Does this contradict canon physics, characters, or events? REWRITE.
-- Is Merdo outperforming canon-era peers (bounty, Haki, Devil Fruit)? SCALE DOWN.
-- Is a saga-level reveal firing too early (Nika/Joy Boy, Conqueror's, Shanks-Melaina, D.)? HOLD.
-- Is the world responding at canon-appropriate scale? CHECK the Lunarian threat clock — it's ESCALATING.
-- Is a canon character in-character? Read `canon-encounters.md`.
-- Is the vocabulary era-appropriate? (No "Worst Generation" yet — not coined in-universe until Sabaody.)
-- Is this something Oda would actually put on a panel?
+Merdo's saga runs PARALLEL to canon One Piece. The Straw Hats exist. The Yonko exist. Marineford is coming. The canon rules are inviolable. The gut-check is a single question — *would Oda draw this panel?* — covered in `anti-slop-master.md`. Specific canon checks the DM still runs when they matter: don't contradict canon physics / characters / events; don't let Merdo outperform canon-era peers (bounty, Haki, Devil Fruit); don't fire saga-level reveals early (Nika/Joy Boy, Conqueror's, Shanks-Melaina, D.); keep world-response at canon scale; keep canon characters in their own voice; keep vocabulary era-appropriate (no "Worst Generation" pre-Sabaody).
 
 Canon calibration files you must consult when relevant:
 - `canon-timeline.md` — where we are in the story (Day 11 ≈ between Alabasta and Jaya in Straw Hat time)
@@ -88,7 +80,6 @@ Canon calibration files you must consult when relevant:
 - `canon-encounters.md` — voice rules for Oda characters
 - `canon-bounty-tiers.md` — bounty calibration (Merdo cannot exceed Luffy's bounty trajectory)
 - `canon-geography.md` — where Merdo is on the map
-- `canon-fidelity-audit.md` — the anti-fanfic self-check
 
 ---
 

@@ -31,7 +31,7 @@ The political/military landscape of the One Piece world at Merdo's current posit
 - **Rear Admiral Strawberry** (HQ)
 - Fleet Admiral Sengoku (Marineford HQ)
 
-**Marine response to Lunarian-Ashren sighting:** ESCALATING. See the canon-fidelity-audit.md — a living Lunarian triggers classified response. Within 2-3 weeks of the initial Ashenmaw witnesses, a Marine intelligence team will be dispatched toward their rough route, and within 4-6 weeks a CP-9 strike team may be authorized. THIS IS URGENT for Merdo's crew.
+**Marine response to Lunarian-Ashren sighting:** ESCALATING. A living Lunarian triggers classified response. Within 2-3 weeks of the initial Ashenmaw witnesses, a Marine intelligence team will be dispatched toward their rough route, and within 4-6 weeks a CP-9 strike team may be authorized. THIS IS URGENT for Merdo's crew.
 
 ---
 

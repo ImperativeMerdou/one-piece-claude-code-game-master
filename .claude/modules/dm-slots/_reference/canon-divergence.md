@@ -2,7 +2,7 @@
 
 **Per user directive:** canon stays MOSTLY the same but with Merdo IN IT. The player has FULL AGENCY to redirect canon through Merdo's deeds. Butterfly effects are REAL in this campaign. The Straw Hats can be fought. Canon characters can be allied, betrayed, saved, killed. The world is a guided sandbox.
 
-This module governs HOW the DM handles divergences. It's the philosophical shift from `canon-fidelity-audit.md`'s default (don't contradict canon) to a new framework: canon is the BASELINE, player actions redirect it, divergences are TRACKED.
+This module governs HOW the DM handles divergences. It's the philosophical shift from the canon gut-check's default (don't contradict canon) to a new framework: canon is the BASELINE, player actions redirect it, divergences are TRACKED.
 
 ---
 
@@ -141,7 +141,7 @@ Canon fidelity becomes: **"honor canon unless the player's agency has altered it
 
 ## Cross-references
 
-- **`canon-fidelity-audit.md`** — now supplemented by this module; fidelity is BASELINE, not ABSOLUTE
+- **canon gut-check (in `anti-slop-master.md`)** — supplemented by this module; fidelity is BASELINE, not ABSOLUTE
 - **`canon-timeline.md`** — canon events in order
 - **`canon-encounters.md`** — canon character voices
 - **`canon-bounty-tiers.md`** — scale ladder enforcement

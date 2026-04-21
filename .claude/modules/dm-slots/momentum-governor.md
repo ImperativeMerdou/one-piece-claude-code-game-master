@@ -45,6 +45,26 @@ A known antagonist takes visible action. Black ship raises a signal lantern. Two
 
 ---
 
+## Follow-through — NPC declarations execute on-screen
+
+**Never end a response on "X will happen later" without firing the first concrete step of X in the same response.**
+
+If an NPC threatens, decides, promises, or commits — show the first move toward it before the scene ends. Not the full action — just the first visible beat that proves the decision is real.
+
+### BANNED endings
+- ❌ "Hudore says he'll have a word with the harbor master tomorrow." (deferred — closes the scene on a postponement)
+- ❌ "Yann smiles and walks away. Tomorrow, the offer to Kara becomes an order." (next-day teaser without an immediate beat)
+- ❌ "Sumi nods. She'll get her answer one way or another." (declarative tease)
+
+### RIGHT
+- ✅ "Hudore says he'll have a word with the harbor master tomorrow. He's already three steps toward the gangway." (decision + first physical commitment)
+- ✅ "Yann smiles and walks away. The second basket is in his hand." (the threat is moving, not theoretical)
+- ✅ "Sumi nods. She turns and asks Vesper which of the crew lies the worst." (the next move is HER move, on-screen)
+
+If the threat is genuinely future-tense — postpone the threat itself, don't postpone the scene's energy. End on a present-tense beat that the player can react to NOW.
+
+---
+
 ## When the player IS asking for breath
 
 Sometimes the player wants a quiet moment. Recognize:

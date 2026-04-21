@@ -14,6 +14,12 @@ Runtime pointer. Loads via `dm-continue.md` Step 1. Keep lean — this is orient
 - **Advanced mode:** implicit via `narrator_style` + `nsfw_enabled` + arc toggles
 - **NSFW:** enabled (consent-driven, player-paced; `_reference/nsfw-fanservice.md` reads on actual escalation only)
 
+## Saga thesis
+
+**The Merdo Pirates are sailing toward Hadrian's Table — the highest seat in the world's tribute chain, the man who has eaten at the top of every kingdom without once standing up. The saga ends when Merdo makes him stand up.**
+
+Every arc is a step toward that table. Thrones along the way are practice. Hadrian is the destination. The question the saga answers is whether the crew that reaches his room is strong enough for the man to eat with instead of the man to kill.
+
 ## Arc toggles (from `campaign-overview.json`)
 
 - `session_mood`: EAGER
@@ -74,7 +80,7 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 | Anti-slop LAWs 1–24 (body agency, filter words, density, rotation, dark-fantasy ban) | `.claude/modules/dm-slots/anti-slop-master.md` |
 | Session shape (title card, cliffhanger, NEXT TIME ON) | `.claude/modules/dm-slots/session-episode-structure.md` |
 | Tier hierarchy (6-tier) | `.claude/modules/dm-slots/rules-priority-tiers.md` |
-| Canon fidelity + lockout matrix | `.claude/modules/dm-slots/canon-fidelity-audit.md` |
+| Canon fidelity gut-check | folded into `.claude/modules/dm-slots/anti-slop-master.md` |
 | Reward calibration (Tier 1–4, per-session rhythm) | `.claude/modules/dm-slots/reward-calibration.md` |
 | Crew voice signatures (runtime) | `CREW_RUNTIME.md` (this campaign folder) |
 | Hot plants (runtime) | `ACTIVE_PLANTS.md` (this campaign folder) |

@@ -144,18 +144,20 @@ Not every character has a signature laugh. Do not force one where it does not fi
 
 ## PHYSICAL TELLS — QUICK REFERENCE
 
-When real contact gets through the performance — when something genuine breaks the surface:
+One live tell per character — the thing that fires when real contact gets through the performance. Pick one per scene, do not cascade.
 
-| Character | Tell 1 | Tell 2 | Tell 3 |
-|---|---|---|---|
-| Merdo | Gets physically busy (adjusts gauntlets, inspects collar spikes) | Finds structural problems in nearby environment | Hands need to be doing something |
-| Ashren | Goes completely still. Not his usual stillness — different quality | The heel plates stop clicking | Looks directly at the person for one beat too long |
-| Melaina | Humming stops mid-phrase | Hands pause on whatever she was doing | Continues with slightly more care than before, silently |
-| Darius | Profanity disappears entirely | Speaks to the floor instead of the person | Leaves a carving near their space that night |
-| Rook | Whatever he was doing stops mid-motion. One beat. | Tea cup goes to table before it is empty | Says nothing. Waits. The other person fills the silence. |
-| Vesper | Bites her thumbnail. Medical hygiene. She knows this. | Wings spread slightly — involuntary, only a few inches | Produces a medical task to occupy her hands |
-| Sable | Cheek lump appears or shifts | "Purely strategically speaking" pause: the framing is absent for one beat | Cover behavior returns louder than necessary |
-| Volo | Fins drop — lose tension, settle flat | The "you saw it" witness-ask does not appear | Goes quiet, which is more alarming than the loudness was |
+| Character | Live tell |
+|---|---|
+| Merdo | Hands need to be doing something — adjusts a gauntlet, inspects a spike, finds something structurally wrong nearby. |
+| Ashren | The heel plates stop clicking. |
+| Melaina | Humming stops mid-phrase. |
+| Darius (archived) | Leaves a small carving near the person's space that night. |
+| Rook (archived) | Tea cup goes to the table before it is empty. |
+| Vesper | Wings spread slightly — involuntary, a few inches. |
+| Sable | Cheek lump appears or shifts. |
+| Volo | Fins drop — lose tension, settle flat. |
+
+Other behaviors from previous versions of this file (finding structural problems, looking one beat too long, cover behavior returning louder, etc.) remain as optional texture the DM may reach for when a scene has already used the live tell and needs another note — never as an ordered cascade.
 
 ---
 
@@ -345,7 +347,7 @@ Sold himself into slavery at fifteen to protect his family. Seven years of fight
 - Chases women openly; panics when tenderness is directed back at him
 - Keeps letting Vesper override his code when lives are at stake — does not understand why he allows this
 
-**Tenderness panic tell (LOCKED):** When someone directs genuine warmth or tenderness at Merdo — thanks him, says something real, reaches toward him — he gets physically busy. Adjusts the gauntlets. Straightens the collar spikes. Finds something structurally questionable in the immediate environment. Hands need to be doing something. Everyone sees it. He knows everyone sees it. Nobody says anything. The comedy requires nobody saying anything.
+**Tenderness panic tell:** When someone directs genuine warmth at Merdo, his hands need to be doing something — a gauntlet adjusted, a spike checked, a structural problem suddenly found in the immediate environment. One live gesture, not a sequence. Everyone sees it. He knows everyone sees it. Nobody says anything. The comedy requires nobody saying anything.
 
 ### DREAM — LOCKED
 
@@ -383,29 +385,13 @@ Brawler first, always. Every punch is a stabbing — spiked gauntlets running Ar
 
 **No Devil Fruit at opening.**
 
-### IDOL / NORTH STAR — LOCKED
+### WHO HE WATCHES
 
-**Figure:** Kaido
-**Type:** Cautionary admiration
+Merdo admires Kaido. Scale, mythic presence, force as the clearest truth — the idea that violence cannot be faked, which means the battlefield is the most honest place in the world. He copied the appetite for a worthy death and the contempt for anything that cannot be proved through direct conflict. He rejected the self-destruction as an end in itself.
 
-**What he admires:** Scale. Mythic battlefield presence. Force as the highest truth. Bodily honesty — the idea that violence cannot be faked, which means the battlefield is the most honest place in the world. The image of something so powerful that the world itself has to acknowledge it.
+He has not yet noticed that Kaido's "bodily honesty" is a cage. The battlefield cannot answer every question. Some things cannot be punched. Part of him wants to die doing this.
 
-**What he copied:** The philosophy that force is the clearest language. The appetite for a death worthy of the life. The contempt for anything that cannot be proved through direct conflict.
-
-**What he misunderstood:** Kaido's "bodily honesty" is a cage, not clarity. It is the logic that locked Kaido in the same cycle for centuries. Merdo reads it as freedom. It is limitation. The battlefield cannot answer every question. Some things cannot be punched.
-
-**What he rejected:** Kaido's nihilism as an end state. Kaido's desire for self-destruction as a goal in itself.
-
-**Inherited flaw — LOCKED:**
-- Root desire: glorious, worthy death over meaningful life. Already in his contradiction stack. The danger: the dream could become a suicide vector. He says "drag thrones into the dirt" but part of him wants to die doing it.
-- Root philosophy: force as the highest truth. He will reach for the punch when the situation requires something else. He mistakes this for honesty rather than limitation.
-- Eventual consequence: if B and C continue unchecked, Kaido-like isolation. The stronger he gets, the fewer people can tell him the truth in the only language he fully trusts.
-
-**The crack:** The crew is already the structural counter to the Kaido trajectory. Every time Vesper says "sit down, you're hurt" and he does — that is the crack in the Kaido model. He does not yet understand why he allows it.
-
-**What will break it:** The moment the crew needs him alive more than they need him glorious. That moment has been seeding since the first time he let Vesper override his code.
-
-**What he actually needs:** A model of someone who was that strong and chose to live *for* something rather than die *against* something. He has not found that figure yet. The journey is partially about finding it.
+The crew is already the counter. Every time Vesper says *sit down* and he does, the Kaido trajectory cracks a little. He does not yet understand why he allows it. Somewhere he is looking for the figure who was that strong and chose to live *for* something rather than die *against* something. He has not found them.
 
 ### RELATIONSHIP MAP
 
@@ -523,10 +509,9 @@ The toggle is not a power-up sequence — it is a tactical gear shift he deploys
 
 Fights with economy. No wasted motion. The finishing blow is quiet relative to the damage it does.
 
-### IDOL / NORTH STAR — IN DEVELOPMENT
+### WHO HE WATCHES
 
-**Recommended type:** Anti-model (King) + fractured Lunarian composite
-**Direction:** Ashren knows King existed — a Lunarian who survived by attaching his power to Kaido's. King represents the path Ashren refused: survival through useful attachment to a dominant force. Ashren finds this approach repugnant and cannot dismiss it as functional. The fractured composite of historical Lunarian traces he has assembled from his reading provides fragments but no clean figure. **OPEN — not yet locked through interactive session.**
+Ashren knows King existed — a Lunarian who survived by attaching his power to Kaido's. That is the path Ashren refused and cannot dismiss as functional. The fragments of historical Lunarian traces he has assembled from his reading give him pieces, not a clean figure. Open to development in play.
 
 ### ASHREN / VOLO RIVALRY — LOCKED
 
@@ -646,7 +631,7 @@ Her silent moral correction function is historically informed, not just emotiona
 
 ### CORE CONTRADICTION
 
-Oni-hot anger that boils and spills. Medusa-cold combat mode where warmth disappears entirely and she gives short commands. Two completely different temperatures with no overlap between them. The transition is the most dangerous moment — **and it is a body tell, LOCKED:** her humming stops mid-phrase, her hands pause on whatever she was doing, and her hair's wrong-movement becomes more pronounced for one beat. The crew reads the transition before it fully lands. Deploy the transition as a recognizable shift, not a surprise.
+Oni-hot anger that boils and spills. Medusa-cold combat mode where warmth disappears entirely and she gives short commands. Two completely different temperatures with no overlap between them. The transition is the most dangerous moment — her humming stops mid-phrase. That is the live tell. Hair moving wrong and hands pausing mid-task are optional texture when the scene has already used the humming and needs another note. Not a cascade.
 
 She claims people rather than cares. Claiming is protection. Claiming may also be holding too tight. She does not yet fully know which version she is running on any given day.
 
@@ -654,16 +639,11 @@ She claims people rather than cares. Claiming is protection. Claiming may also b
 
 **Implied but not yet explicitly locked.** Shaped by what's been developed: retrieve her mother, and build something the World Government and the forces that hold her cannot reach. The crew is the beginning of that construction. Her claiming of the crew is both love and the early stages of building something durable enough to matter.
 
-### IDOL / NORTH STAR — PARTIALLY LOCKED
+### WHO SHE WATCHES
 
-**Figure:** Her mother
-**Type:** True hero with inherited flaw
+Her mother. The method of Oni care — claiming rather than asking, feeding rather than explaining, correcting through action — all inherited. And the historical clarity: she knows what systems do to people over time. She acts when others deliberate because she has the record.
 
-**What she copied:** The method of Oni care — claiming rather than asking, feeding rather than explaining, correcting through action rather than speech. And the historical clarity: she knows what systems do to people over time. She acts when others deliberate because she has the record.
-
-**What the crack is:** Her mother's claiming was real love and possibly suffocating. Melaina does not yet fully know which version of it she is running. She may be protecting people. She may be holding them against their will in a way that looks like protection from the inside.
-
-**The deeper crack:** Her mother taught her the method. Her mother is still unreachable. The method has not freed her. Melaina is running it at full intensity and somewhere underneath the certainty is the question she doesn't ask: what if the method is right and it still isn't enough?
+Her mother's claiming was real love and may have been suffocating. Melaina does not yet know which version of it she is running. She may be protecting people. She may be holding them against their will in a way that looks like protection from the inside. Her mother taught her the method, and her mother is still unreachable — so somewhere underneath the certainty is the question she does not ask: what if the method is right and it still is not enough?
 
 ### AUTHOR TRUTH — DO NOT REVEAL EARLY
 
@@ -787,20 +767,15 @@ Follows a captain who breaks everything while being the one who fixes everything
 
 Not explicitly stated in source files. Implied: keep the ship moving, keep the crew alive, make sure no one else dies for him the way Maren did.
 
-### IDOL / NORTH STAR
+### WHO HE WATCHED
 
-**Figure:** Maren
-**Type:** True hero with misunderstood lesson
+Maren, the Breva's boatswain. He copied her pragmatism, her shipwright ethic, her care for the people below deck who keep the ship running. Her principle: do the work, protect the people beside you, don't waste time on things that don't matter.
 
-**What he copied:** Her pragmatism, her shipwright ethic, her care for the people below deck who keep the ship running. Her principle: do the work, protect the people beside you, don't waste time on things that don't matter.
-
-**What he misunderstood:** She died protecting him. He interpreted this as "this is what loyalty looks like" — the ultimate expression of care. What she probably wanted was for him to live and build something, not to spend the rest of his life paying a debt she never asked him to carry.
-
-**The crack:** He treats self-sacrifice as the highest expression of loyalty. He would sacrifice himself too readily. He would accept sacrifice from others too readily. The moment this breaks is when he realizes the debt he's been paying isn't what Maren intended.
+She died protecting him. He has read that as *this is what loyalty looks like* — the ultimate expression of care. What she probably wanted was for him to live and build something, not spend the rest of his life paying a debt she never asked him to carry. He would sacrifice himself too readily. He would accept sacrifice from others too readily. The moment this breaks is the moment he realizes the debt isn't what she intended.
 
 ### DAILY BEHAVIOR AND BAD HABITS
 
-Sleeps with the Twenty, not in an officer cabin. Snores. Coffee before all problems. Whittles carvings and leaves them around the ship without comment — near bunks, on ledges, by the helm. Nobody mentions them. They accumulate. Manages the consequences of everything the core crew does in port. Says "I don't like this" to Merdo when he sees danger, with complete directness, and means it. After every bad fight, disappears into the hull for twenty minutes and talks to whatever broke. Nobody follows. After every bad fight, disappears into the hull for twenty minutes. Nobody follows. Whatever he says to the broken things down there, he says alone.
+Sleeps with the Twenty, not in an officer cabin. Snores. Coffee before all problems. Whittles carvings and leaves them around the ship without comment — near bunks, on ledges, by the helm. Nobody mentions them. They accumulate. Manages the consequences of everything the core crew does in port. Says "I don't like this" to Merdo when he sees danger, with complete directness, and means it. After every bad fight, disappears into the hull for twenty minutes and talks to whatever broke. Nobody follows. Whatever he says to the broken things down there, he says alone.
 
 ### FUNCTIONAL CREW ROLE
 
@@ -897,10 +872,9 @@ A precision instrument aimed at something precision cannot solve. A man of syste
 
 Not explicitly stated. Implied: aim what he knows at the system that built him until something gives. He found the weapon he needed in Merdo.
 
-### IDOL / NORTH STAR — IN DEVELOPMENT
+### WHO HE WATCHED
 
-**Recommended type:** False hero — a Marine officer whose craft Rook copied and whose final choice Rook refuses to accept.
-**Direction:** He had someone in the Marines he trusted, whose precision and integrity seemed to function correctly within the institution. That person either died serving the system or became it completely. Rook carries the craft and refuses the conclusion. **OPEN — not yet locked through interactive session.**
+Someone in the Marines whose precision and integrity seemed to function correctly within the institution. That person either died serving the system or became it. Rook carries the craft and refuses the conclusion. Open to development in play.
 
 ### DAILY BEHAVIOR AND BAD HABITS
 
@@ -1008,12 +982,11 @@ The physically smallest crew member with the most unqualified authority over eve
 
 Universal cross-species medicine. Study every species aboard as living research without dehumanizing them. Left Zou to treat bodies across races. Left Clementia when the system violated her principle. The Golgatha is a research context she is very fond of.
 
-### IDOL / NORTH STAR — IN DEVELOPMENT
+### WHO SHE WATCHES
 
-**Recommended type:** Craft idol — a historical cross-species medicine figure she is trying to complete.
-**Direction:** A historical or legendary figure in cross-species medicine that exists in Mink records or medical archives. Someone who attempted universal medicine before and either failed or only partially succeeded. She is trying to complete what that person started. She may be misinterpreting what that person was actually doing. **OPEN — not yet locked through interactive session.**
+A historical or legendary figure in cross-species medicine — someone who attempted universal medicine before and either failed or only partially succeeded. She is trying to complete what that person started. She may be misinterpreting what they were actually doing. Open to development in play.
 
-The Clementia boy functions as an anti-model: the definitive example of what medicine must refuse to become.
+The Clementia boy is the opposite reference — the example of what medicine must refuse to become.
 
 ### DAILY BEHAVIOR AND BAD HABITS
 
@@ -1123,14 +1096,9 @@ She performs slippery, unserious, and hard-to-read while being the most attached
 
 The performance of not-caring is not coldness. It is the only protection available to someone who cannot stop caring and knows what happens when people know she cares.
 
-### PHYSICAL TELL — LOCKED
+### PHYSICAL TELL
 
-When the performance drops and something genuine gets through:
-1. **Cheek lump appears or shifts** — involuntary, often when nervous or thinking
-2. **The operational language pauses** — one beat where the framing would be but isn't
-3. **Cover behavior returns louder than necessary** — something is immediately found to be loudly interested in
-
-These fire in sequence. The crew reads all three. She does not know they do this.
+When the performance drops and something genuine gets through: her cheek lump appears or shifts — the one live tell. The operational-framing pause and the louder-cover-behavior exist as optional texture, not as a scripted cascade. Pick one per scene.
 
 ### DREAM — LOCKED
 
@@ -1183,11 +1151,9 @@ Makes sure the fight doesn't happen, happens somewhere else, or ended before any
 
 **Volo:** She witnesses him warmly and immediately, for everything. He gets the witnessing. It doesn't feel exclusive enough. He is embarrassed by needing more than Sable's warmth and has not said this. She has already understood it.
 
-### IDOL / NORTH STAR — RECOMMENDED
+### WHO SHE WATCHES
 
-**Type:** Fractured composite / no clean hero + Lucci as cautionary ghost
-**Direction:** She performed enough identities to have borrowed pieces from all of them. "Sable" is assembled from covers, not born from a single model. Lucci is not a hero — he is a ghost orbit. The question of whether what they had was real has never resolved and informs everything she does when she gets too close to someone.
-**OPEN — not yet locked through full interactive session, though wound work strongly implies this direction.**
+Nobody cleanly. She performed enough identities to have borrowed pieces from all of them — *Sable* is assembled from covers, not born from a single model. Lucci is not a hero; he is a ghost orbit. The question of whether what they had was real has never resolved and informs everything she does when she gets too close to someone.
 
 ### DEVELOPMENT
 
@@ -1241,14 +1207,9 @@ Third-person self-reference at extreme emotional peaks only, as flavor: "Volo wi
 
 When the performance drops (genuine contact gets through): voice gets quieter, more direct, without the declarative warmth. This is more alarming than the loudness was.
 
-### PHYSICAL TELL — LOCKED
+### PHYSICAL TELL
 
-When real contact gets through the performance:
-1. **Fins drop** — not spread, they lose tension and settle close to the body. The opposite of the performance spread. Involuntary. He does not notice. The crew does. He would be furious if he knew they tracked this.
-2. **The witness-ask fails to appear** — one beat where "you saw it" should have come and didn't. The absence of the verbal signature is as revealing as the fins.
-3. **Cover behavior returns louder than necessary** — he finds something to be loudly interested in.
-
-These fire in sequence. Different crew members catch different signals. Darius noticed the fins first. Rook noticed the missing line. Ashren has said exactly one thing that made Volo's fins drop. He has not said it again.
+When real contact gets through the performance, his fins drop — lose tension, settle close to the body. That is the live tell. The missing "you saw it" and the louder cover behavior are optional texture when the scene has already used the fins and needs another note — not an ordered cascade. Ashren has said exactly one thing that made Volo's fins drop. He has not said it again.
 
 ### COMEDY ENGINE — LOCKED
 
@@ -1300,11 +1261,9 @@ He has been trying to build this everywhere he goes, with the crew's resources, 
 
 **Flavor:** Takes up space he was not offered — sits in Merdo's spot at the prow, uses Ashren's training area. He is not doing this to provoke. He has no internal register for "this space belongs to someone else." He is surprised by the friction. This keeps the rivalry texture active.
 
-### IDOL / NORTH STAR — RECOMMENDED
+### WHO HE WATCHES
 
-**Figure:** Fisher Tiger
-**Type:** Misread hero
-**Direction:** Fisher Tiger liberated slaves through direct action and refused the gaze of the world that had owned him. Volo took the image of that liberation moment — the spectacle of Tiger commanding presence in defiance — without fully taking Tiger's demand that the display be on his own terms, not the crowd's. He took the power of the performance and left the refusal of the audience's ownership. That is the misreading. **OPEN — not yet locked through interactive session, but strongly implied by wound and dream architecture.**
+Fisher Tiger. Tiger liberated slaves through direct action and refused the gaze of the world that had owned him. Volo took the image of that liberation moment — the spectacle of Tiger commanding presence in defiance — without fully taking Tiger's demand that the display be on his own terms, not the crowd's. He kept the power of the performance and left the refusal of the audience's ownership. That gap is the wound still doing its work.
 
 ### DAILY BEHAVIOR
 
@@ -1452,9 +1411,9 @@ Signature unfinished beats:
 - **The paper-scout:** sends a fragment of her sleeve ahead as a paper crane to see around a corner. Exhausts her quickly, usable once or twice per fight
 - **The blade-that-isn't:** one sword becomes paper mid-swing. Used once, at Tessara dock. The crew noticed
 
-### IDOL / NORTH STAR
+### WHO SHE WATCHES
 
-**MERDO.** This is the whole thing. She watched him at Tessara and decided. He is the measurement. Everything she does will be measured against whether it would earn his approval. The day she sees him as a person rather than a figure is a narrative event that has not yet happened.
+Merdo. The whole thing. She watched him at Tessara and decided. He is the measurement. Everything she does will be measured against whether it would earn his approval. The day she sees him as a person rather than a figure is a narrative event that has not yet happened.
 
 ### RELATIONSHIP MAP
 
@@ -1563,9 +1522,9 @@ Signature developing beats:
 - **The ricochet off nothing:** calls an impossible shot, somehow makes it, does not explain how
 - **The reload prayer:** during a reload window, talks to Mama and Papa out loud. The crew does not mock him for this
 
-### IDOL / NORTH STAR — OPEN
+### WHO HE WATCHES
 
-The obvious answer is Merdo. The real answer is probably more complicated. Let the play find it.
+Merdo is the obvious answer. The real answer is probably more complicated. Let play find it.
 
 ### RELATIONSHIP MAP
 
@@ -1622,13 +1581,22 @@ The obvious answer is Merdo. The real answer is probably more complicated. Let t
 
 **Vibe:** A child who has been asked to behave like an adult and has been doing it so long she no longer knows it is strange. You do not notice her at first. Then you realize she has been here the whole time, watching.
 
-**Verbal identity:** Quiet. Soft voice. Rare speech. When she does speak, she says the true thing — she has not been on a ship long enough to learn performance. Her voice cracks when she is scared, which is often. She calls Melaina "ma'am" on her own initiative. She calls Merdo nothing yet — she is not sure what to.
+**Verbal identity — the flat observation register:** Quiet voice. Rare speech. When she speaks she says the true thing in the plainest possible words — she has not been on a ship long enough to learn performance. Short declarative sentences. No hedges. She does not soften what she says, because it has never occurred to her that she could. She calls Melaina "ma'am" on her own initiative. She calls Merdo nothing yet.
 
-**Under pressure:** Silence deepens. The scale patches show. She goes stiller than she was. The crew has learned to read this.
+**Voice samples:**
+- "That man lied."
+- "Your hands are shaking."
+- "The soup is ready. You said you were not hungry. You are."
+- *(Volo delivers a theatrical eulogy for a dropped sandwich. Kara, to the deck:)* "It was a sandwich."
+- "I heard that." *(To Nox, who had checked the room before lying.)*
 
-### COMEDY ENGINE — DEVELOPING
+**Under pressure:** The voice stays flat. The scale patches show. She goes stiller than she was. That is her physical tell.
 
-Kara's comedy engine is still **OPEN**. At fourteen, post-trauma, she is not yet comedic. Comedy will emerge as she heals — quiet observational comedy most likely, the kid who notices what the adults miss and says it flatly. There are early signs: she has begun to roll her eyes at Volo's theatrics. She has begun to pass sarcastic notes to Sumi during Melaina's yelling. These are GROWTH markers — they will mature into her comedic identity.
+### COMEDY ENGINE — THE FLAT NOTE
+
+Not cute, not performed. Kara says the unvarnished thing in a voice nobody has told her to modulate, usually right after an adult has spent four sentences saying the same thing in a complicated way. The comedy is in the register gap — a fourteen-year-old who has no reason to dress a sentence up puncturing a grown-up theatrical beat with a one-line fact.
+
+**Surface habit — she keeps count of small things aloud.** Not ledgers. Running totals she says to no one in particular while she does something else. *"Three cats today."* *"That is the fourth lie."* *"Volo has said 'you saw it' six times."* *"Fifth mango."* The crew has started listening for the count. She has not noticed. Or she has, and is not saying. Do not turn this into a running gag the crew comments on — the comment kills it. Let it stand.
 
 ### EMOTIONAL CORE
 
@@ -1670,15 +1638,11 @@ The reason the crew is actually a crew. Before Kara, the Golgatha was eight mons
 
 Does not fight. Runs, hides, hands medical supplies to Vesper, keeps Mako's knots straight when he is nervous. The fruit's involuntary surges are the closest thing she has to combat — occasionally a scale patch hardens under a hit and spares her damage she would not have survived. Nobody has told her this is the start of something.
 
-**FIRST COMBAT BEAT — trigger condition, LOCKED:** a crew member goes down. Kara is the closest person. No adult combatant is between her and the next blow. The fruit surges involuntarily and the scales harden outward — not as armor for her, as armor AROUND the crew member. Scales-as-shield first-manifestation. She does not choose it. Her body makes the decision her mind has not made yet. After the hit lands on the scale-shell, the surge drops and she is exhausted, bleeding from the nose, the fruit dormant again. The crew notices. Nobody says what it was.
+Her first real combat beat is not scripted. When it lands, it lands. Let play produce it. Post-first-beat she begins the long work of learning to command the fruit. The chimera state becoming a deliberate weapon is multi-arc work.
 
-**Do NOT pre-fire. Do NOT engineer the condition.** Let play produce the moment. The trigger is the moment it earns, not the moment it is handed. Accelerate nothing.
+### WHO SHE WATCHES
 
-Eventual arc (post-first-beat): she learns to control the fruit. The chimera state becomes a deliberate weapon. The failure becomes an identity. This is multi-arc work.
-
-### IDOL / NORTH STAR
-
-**MELAINA.** Kara does not look up to Merdo the way Sumi does — she looks up to Melaina. The claiming, the feeding, the fierce correcting that is love. Kara is studying how Melaina holds space. She will carry parts of that forward.
+Melaina. Kara does not look up to Merdo the way Sumi does — she looks up to Melaina. The claiming, the feeding, the fierce correcting that is love. Kara is studying how Melaina holds space. She will carry parts of that forward.
 
 ### RELATIONSHIP MAP
 

@@ -124,11 +124,12 @@ Archived (departed Day 11, do not narrate present-tense): Darius Ravager, Ernst 
 ## KARA ODINU — protégée, 14
 
 - **Species:** human (Goroa-born). Failed Zoan Bake Bake no Mi — uncontrolled, partial, chimera-adjacent. Scale patches surface without her will. She hides them in sleeves.
-- **Voice:** quiet. Soft. Says the true thing when she speaks — hasn't learned performance. Calls Melaina "ma'am." Calls Merdo nothing yet.
-- **Dream (OPEN):** not yet articulated. Let play find it.
-- **Idol:** Melaina. She's studying how Melaina holds space.
+- **Voice — the flat observation register:** quiet voice, short declarative sentences, no hedges. Says the true thing in the plainest words. "That man lied." "Your hands are shaking." "It was a sandwich." Calls Melaina "ma'am." Calls Merdo nothing yet.
+- **Surface habit — she keeps running counts aloud.** To no one in particular, while doing something else. "Three cats today." "Fourth lie." "Volo has said 'you saw it' six times." The crew has started listening for the count. She has not noticed. Do NOT have the crew comment on it — the comment kills it.
+- **Tell:** voice stays flat, scale patches show, she goes stiller than before.
+- **Dream (OPEN):** not yet articulated.
+- **Who she watches:** Melaina. She's studying how Melaina holds space.
 - **Wound:** her family in Ridas (Goroa) was harmed by the pirate crew Merdo broke. Mira Odinu (sister) survived and writes weekly. Kara ate the fruit during the crisis hoping for a Zoan that would let her fight back. It failed.
-- **First combat beat (LOCKED, do not pre-fire):** a crewmate goes down, Kara is the closest non-combatant, fruit surges involuntarily, scales harden AROUND the crewmate as shield. She doesn't choose it. Her body does. After, exhausted, bleeding from nose. Crew notices. Nobody names it.
 - **Tessara hot:** Yann Merlis's primary acquisition target. Fruit basket already delivered (still uneaten on Golgatha). Photographed from three angles without her knowledge. Scientific Division wants her.
 
 ---
