@@ -20,6 +20,13 @@ find_python() {
 # Set up Python command
 PYTHON_CMD=$(find_python)
 
+# Force UTF-8 stdout/stderr for Python invocations so unicode characters
+# (em-dash, arrows, emoji, smart quotes) don't crash print() on Windows
+# consoles whose default encoding is cp1252/cp1254. Data in JSON files is
+# stored UTF-8 regardless; this only affects display.
+export PYTHONIOENCODING=utf-8
+export PYTHONUTF8=1
+
 # Get project root directory (parent of tools/)
 PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 

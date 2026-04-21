@@ -429,18 +429,23 @@ class SessionManager(EntityManager):
         # --- Pending Consequences ---
         lines.append("--- PENDING CONSEQUENCES ---")
         consequences = self.json_ops.load_json("consequences.json") or {}
+        # Sibling-tool compat: dm-consequence.sh stores as
+        # {"active": [...], "resolved": [...]} with field 'consequence'.
+        # Unwrap to flat list so the existing list branch handles it.
+        if isinstance(consequences, dict) and isinstance(consequences.get('active'), list):
+            consequences = consequences['active']
         pending = []
         if isinstance(consequences, dict):
             for cid, cdata in consequences.items():
                 if isinstance(cdata, dict) and cdata.get('status', 'pending') == 'pending':
-                    event = cdata.get('event', cdata.get('description', 'Unknown'))
+                    event = cdata.get('event', cdata.get('description', cdata.get('consequence', 'Unknown')))
                     trigger = cdata.get('trigger', 'Unknown')
                     short_id = cid[:4] if len(cid) >= 4 else cid
                     pending.append(f"[{short_id}] {event} -> triggers: {trigger}")
         elif isinstance(consequences, list):
             for cdata in consequences:
                 if isinstance(cdata, dict) and cdata.get('status', 'pending') == 'pending':
-                    event = cdata.get('event', cdata.get('description', 'Unknown'))
+                    event = cdata.get('event', cdata.get('description', cdata.get('consequence', 'Unknown')))
                     trigger = cdata.get('trigger', 'Unknown')
                     cid = str(cdata.get('id', '?'))
                     short_id = cid[:4] if len(cid) >= 4 else cid
