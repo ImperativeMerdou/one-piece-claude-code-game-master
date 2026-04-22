@@ -266,20 +266,45 @@ Thin notes on secondary figures introduced through The Cage / Tessara Cup / Tess
 
 ---
 
-## FUTURE ANTAGONISTS — EMERGE THROUGH PLAY
+## FUTURE ANTAGONISTS — MOSTLY EMERGENT
 
-Per user directive 2026-04-22: no pre-written rival crew, no saga-long predetermined villain, no pre-scheduled reveals. Previous drafts had "The Diadem Pirates" (Archon Aslan + crew) as the saga-long rival and "Aslan is Merdo's secret brother" as a mid-saga reveal — **all retconned**.
+Per user directive 2026-04-22: most arc antagonists emerge through play, not predetermined. No saga-long villain to confront. "Hadrian's Table" endpoint deleted. Exception: **Aslan** is real character canon — Merdo's younger brother, captain of his own crew, arriving at Sabaody in the Worst Generation window. See the Aslan stub below + `MERDO_SAGA_CREW_MASTER.md` AUTHOR TRUTH block + chekhov-rack rack-024.
 
 Emergent-antagonist rules for the DM going forward:
 
 - **Next island's antagonists are generated when the crew arrives** at that island, not before. Pull from `_reference/canon-encounters.md`, `_reference/villain-kit.md`, and canon archetypes at arrival time.
-- **No rival-crew-as-dark-mirror pre-assigned.** If the world naturally surfaces a rival crew (e.g., an encounter on the sea, a News Coo headline, a shared port), name and shape them in the moment. Do not pre-commit to identity, fruit, or saga role.
-- **Donquixote response** (post-Yann events) is an organic consequence, not a specific pre-written crew. When/if Dressrosa dispatches agents, the DM builds them fresh, using Yann + Hudore archetypes as quality baseline.
-- **CP / World Government escalation** (from Sable's past, or from Merdo's bounty crossing thresholds) surfaces when the pressure lands — DM writes the specific agent at that moment, not pre-seeded.
+- **No rival-crew-as-dark-mirror pre-assigned** (Aslan is the one exception, and even his specific confrontation timing is emergent).
+- **Donquixote response** (post-Yann events) is an organic consequence, not a specific pre-written crew. When/if Dressrosa dispatches agents, the DM builds them fresh.
+- **CP / World Government escalation** (from Sable's past, or from Merdo's bounty crossing thresholds) surfaces when the pressure lands.
 - **Canon Worst Generation** exists at canon-timeline positions (currently Alabasta-to-Jaya). Cross-crew encounters with Kid / Law / Bonney / Drake / Apoo / Urouge / Hawkins / Killer / Bege / Luffy are possible around Sabaody convergence (~Ch 497+ canon). Not scripted — emergent.
-
-**When a new antagonist actually enters play:** add them to Section A of this file at that point, with the same depth as Yann / Hudore.
 
 ---
 
-*End of runtime ANTAGONISTS file. Version 3 (emergent-only per user directive 2026-04-22). Authority order: crew master > this file > dm-slots modules > chekhov rack.*
+## ASLAN (stub — full sheet when he enters play)
+
+**Status:** Canon character truth. Exists in the world. Do NOT narrate him present-tense at Tessara or the next 2-3 islands. Keep him off-page until convergence fires.
+
+**Identity:** Merdo's younger brother. 18. Captain of his own pirate crew (crew name, lieutenants, specific structure — TBD at contact, shape in the moment). Both brothers carry the Will of D. (Merdo doesn't know his own; Aslan may or may not know his own — emergent).
+
+**Backstory anchor:** Was 11 when Merdo was sold at 15 to protect him (and the rest of the family). Survived whatever happened to Angora after. Went to sea at some point. Has not seen Merdo in 11 years. Does not know the full shape of why Merdo disappeared.
+
+**Convergence:** Arrives at Sabaody Archipelago in the Worst Generation window (canon ~Ch 497+). Possibly counted among the 11 Supernovas — depends on his bounty timing vs. canon convergence. If his bounty qualifies him as a Supernova at convergence moment, he is the 12th counted (or canon shifts to fit).
+
+**What is NOT pre-scheduled:**
+- Cameo timing (could cross paths before Sabaody; may not).
+- Recognition timing (brothers haven't seen each other in 11 years — might meet and not recognize each other as brothers on first pass).
+- First-conversation shape (depends entirely on the scene that surfaces them).
+- Specific Devil Fruit, fighting style, flag, crew members, bounty amount — all generate at the moment of first real encounter.
+- Whether the brothers fight, ally, ignore each other, or form some third relationship — player-driven / scene-driven.
+
+**Promotion rule:** the moment Aslan first enters a scene with Merdo (or becomes visible on the horizon), promote this stub into a full antagonist/rival sheet in Section A using the Yann / Hudore template.
+
+---
+
+## OTHER FUTURE ANTAGONISTS — add to Section A when they enter play
+
+**When a new antagonist actually enters play:** add them to Section A of this file at that point, with the same depth as Yann / Hudore. No pre-seeding.
+
+---
+
+*End of runtime ANTAGONISTS file. Version 3 (mostly-emergent per user directive 2026-04-22; Aslan retained as canon-character anchor for Sabaody convergence). Authority order: crew master > this file > dm-slots modules > chekhov rack.*

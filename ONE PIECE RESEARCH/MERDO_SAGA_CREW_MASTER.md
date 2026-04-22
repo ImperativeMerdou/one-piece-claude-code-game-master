@@ -357,7 +357,11 @@ He does not want to be Pirate King. He wants to make kings fight like pirates. H
 
 Angora village. Mesut's son. Sold at fifteen. Seven years in the fighting pits. The village still exists in some form; Merdo has not returned. What exactly happened — the full shape of the betrayal and the sale — is a thread that should not be closed early.
 
-**AUTHOR TRUTH — OPEN (user directive 2026-04-22):** the family he sold himself to protect at 15 included a younger brother, then 11. Merdo has not spoken his brother's name since the sale. **Whether the brother survived, whether he is still in Angora, whether he went to sea, whether he is a pirate / a Marine / a civilian / dead — all OPEN.** The brother's fate is not pre-written. If play organically surfaces the thread (Merdo returns to Angora, a letter arrives, someone from the old village recognizes him, a name is spoken in his earshot), the DM generates a fitting outcome in the moment. Do NOT pre-assign the brother to any rival crew, captain role, or saga-mid confrontation beat. Superseded: earlier drafts had a predetermined "brother captains the rival crew" arc — that is retconned per user directive. The thread is real character backstory, not a saga-mechanical reveal.
+**AUTHOR TRUTH — HIDDEN, character canon (user directive 2026-04-22 update):** the family he sold himself to protect at 15 included a younger brother, **Aslan**, then 11. Merdo has not spoken Aslan's name since the sale. Aslan survived, went to sea at some point, is now 18 and captaining his own crew. Both brothers carry the Will of D. (paired with rack-021). **Aslan arrives at Sabaody Archipelago in the Worst Generation convergence window — same time as Merdo.** He may or may not be counted among the 11 canonical Supernovas depending on bounty timing when they converge.
+
+**What is NOT pre-scheduled (retconned from earlier drafts):** the timetable of cameo / conversation / recognition beats. The brothers have not seen each other in 11 years. Recognition is not automatic. Aslan doesn't yet know the shape of why Merdo disappeared. The scene of first contact — whether at Sabaody, earlier at sea, earlier at an island, or delayed — **emerges from play, not from a schedule**. Shape of Aslan's crew, lieutenants, and specific Devil Fruit can shift to fit what the session needs at the moment of contact. Do NOT pre-load them before the convergence fires.
+
+The thread is real character backstory AND a real world-canon convergence anchor. Treat it like Oda treats Sabo: a character the audience knows exists before the protagonist meets them, whose reveal lands when the scene EARNS it.
 
 ### DAILY BEHAVIOR AND BAD HABITS
 
@@ -1802,7 +1806,7 @@ These threads must not be resolved casually or early. **Updated Day 11.**
 
 - **Ashren's Lunarian survivor search** — does not resolve until a major arc specifically earns it
 - **Merdo's village and betrayal (Mesut, sold at 15)** — backstory not fully dramatized
-- **Merdo's younger brother** — had a brother in Angora, age 11 when Merdo was sold at 15. Brother's **current fate is OPEN** (user directive 2026-04-22): alive/dead, pirate/Marine/civilian, at Angora or at sea — emergent from play, not pre-written. Prior draft had a predetermined "brother captains the rival crew Diadem Pirates / Archon Aslan" arc — RETCONNED. If the thread surfaces organically (letter, Angora return, recognition), DM generates in the moment
+- **Merdo's younger brother Aslan** — alive, 18, captain of his own crew (rack-024). Sold-self-to-protect-him backstory intact. Both brothers carry the Will of D. (paired with rack-021). **Arrives at Sabaody in the Worst Generation convergence window, same time as Merdo.** Possibly among the 11 Supernovas depending on bounty timing. What is NOT pre-scheduled: cameo/conversation/recognition beats, crew lieutenants, exact arc-to-arc visibility. Those emerge in play. Do not pre-load Aslan sheet before convergence fires — keep him world-canon but scene-generated at contact
 - **Melaina's mother held by SHANKS** — AUTHOR TRUTH, major saga reveal. The crew is too weak yet for Yonko territory — investment first
 - **Melaina's mourning bands** — individual names and stories, deploy slowly
 - **Sable's real name (Irina Grinworth Bella) and full CP-0 past** — surfaces when a CP-0 file appears in play (likely via Lucci collision)

@@ -20,12 +20,14 @@ Runtime pointer. Loads via `dm-continue.md` Step 1. Keep lean — this is orient
 
 Canon timing: Sabaody convergence is ~Chapter 497+ (Straw Hats + Law + Kid + Bonney + Apoo + Drake + Urouge + Hawkins + Killer + Bege + Luffy all arrive before Marineford). Merdo is currently Alabasta-to-Jaya equivalent — ~270 chapters before Sabaody in canon terms. The path between Tessara and Sabaody covers several more islands on the Worst Route.
 
-**Antagonists, rivals, and arc antagonists emerge through play — they are not predetermined.** Tessara's Yann Merlis + Commodore Hudore are live because Merdo is at Tessara. Future islands will surface their own faces organically: world-responsive Marines, local regimes, rival crews the DM builds as the crew arrives, News Coo headlines that shape who notices Merdo. Characters Merdo will encounter on the Worst Route are NOT pre-written. Let scenes create them.
+**Most arc antagonists emerge through play — they are not predetermined.** Tessara's Yann Merlis + Commodore Hudore are live because Merdo is at Tessara. Future islands will surface their own faces organically: world-responsive Marines, local regimes, rival crews the DM builds as the crew arrives, News Coo headlines that shape who notices Merdo. Characters Merdo will encounter on the Worst Route are NOT pre-written. Let scenes create them.
+
+**The one world-canon convergence anchor: Aslan** (rack-024). Merdo's younger brother, alive, captain of his own crew, arrives at Sabaody Archipelago in the Worst Generation convergence window — same time as Merdo. Aslan may or may not be counted among the 11 Supernovas depending on when his bounty files vs. the canon convergence. Neither brother has seen the other in 11 years. Recognition is not automatic. The scene of first contact (at Sabaody, or earlier if paths cross) is EARNED in play, not pre-scheduled. See `CAMPAIGN_BIBLE.md` permanent-locks + `MERDO_SAGA_CREW_MASTER.md` Aslan entry. No other pre-written rivals — everything else emergent.
 
 The rhythm the saga sits inside:
 - Each island = one arc (arrival → local problem reveal → crisis → climax → feast → departure)
 - News Coo cadence every 3 in-game days; bounty and rumor shape the world's response
-- Worst Generation is a CONVERGENCE EVENT in the world — Merdo may arrive at Sabaody before them, alongside, or after. That positioning is emergent from play.
+- Worst Generation is a CONVERGENCE EVENT in the world — Merdo arrives in the window. Aslan arrives in the window. Canon Supernovas arrive in the window. Positioning emergent from play.
 - Marineford War looms after Sabaody in canon; its shadow can inform later arcs but is not a Merdo-plot until it is.
 
 ## Arc toggles (from `campaign-overview.json`)
@@ -65,11 +67,11 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 - **Merdo is the player.** Never narrate his actions, dialogue, choices, or internal reactions as settled fact. Always ask.
 - **Merdo is straight; women only** for romance/NSFW (per `feedback_nsfw_straight_wide_scope.md`).
 - **Dark / generic fantasy BANNED FOREVER** (per `anti-slop-master.md` → "DARK FANTASY / GENERIC FANTASY — BANNED FOREVER" section).
-- **DEEP-LOCK plants NEVER surface in player-facing text, HUD, dashboards, NPC dialogue, bounty posters, or Marine files** until the player's play organically pressures them toward surface:
-  - rack-003 (Melaina's mother = Shanks) — character backstory; only fires if player pushes into Melaina's history hard
-  - rack-021 (Merdo's "D.") — character backstory; surfaces through a specific earned reveal beat or not at all
-  - These are character depth, not saga ending hooks. Don't pre-schedule them.
-- **Merdo's younger brother.** Merdo had a younger brother in Angora when he was sold at 15. Whether that brother survived, stayed in Angora, went to sea, became a pirate, became a Marine, or died — **OPEN**. Do NOT pre-assign him an identity, role, ship, or rival-crew slot. If the player pursues the thread organically, the DM generates a fitting outcome in play.
+- **DEEP-LOCK plants NEVER surface in player-facing text, HUD, dashboards, NPC dialogue, bounty posters, or Marine files** until the player's play organically pressures them toward surface. These are character depth — do NOT pre-schedule reveal beats:
+  - rack-003 (Melaina's mother = Shanks) — fires only if player pushes into Melaina's history hard.
+  - rack-021 (Merdo's "D." — full name Archon D. Merdo) — surfaces through an earned scene, or not at all.
+  - rack-024 (Merdo's younger brother Aslan is alive and captain of his own crew) — Aslan went to sea after Merdo was sold. Both brothers carry the D. Aslan doesn't yet know the shape of why Merdo disappeared; Merdo has not spoken Aslan's name since the sale. **Aslan arrives at Sabaody Archipelago in the Worst Generation convergence window — same time as Merdo. He may or may not be counted among the Supernovas depending on bounty timing.** DO NOT pre-schedule cameo/conversation/recognition beats — they fire when earned in play. The brothers might meet before Sabaody at sea, at an island, or not until Sabaody. Recognition is not automatic — they haven't seen each other in 11 years.
+- **Merdo's brother reveal is NOT pre-scheduled.** Aslan exists as world-canon character truth. WHEN he surfaces in the crew's path, HOW recognition lands (if at all), and WHAT the first conversation becomes — all emergent from play. No "saga-mid reckoning" timetable.
 - **No Brenne.** Not in the roster. Do not introduce.
 - **Archived, do not narrate present-tense:** Darius Ravager, Ernst Rook. Departed Day 11. No cameo, no letter, no Den Den Mushi.
 

@@ -125,7 +125,8 @@ Top-loaded in `_preamble.md`, checked every turn:
 
 - **Locations:** Tessara Port (berth, Pier Quarter, Colosseum, Cage, Tea-house pier), Ashenmaw (visited, wings-reveal incident), Korvaal (visited, Kara's family), Aquila Isle (next, dormant), Angora (Merdo's home, saga-mid reference only)
 - **Live antagonists:** Yann Merlis (Donquixote field broker, ACTIVE target on Merdo post-humiliation), Commodore Hudore (Cage warden, Cup champion, Vireen-daughter wound)
-- **Future threats:** emerge through play — no pre-written rival crew or saga villain. World-response to Merdo's actions (Marine escalation, Donquixote response, new ports with new problems) shapes who shows up. When antagonists land, they earn their depth in the moment they appear.
+- **Future threats:** mostly emerge through play — no pre-written rival crew or saga villain. World-response to Merdo's actions (Marine escalation, Donquixote response, new ports with new problems) shapes who shows up. When antagonists land, they earn their depth in the moment.
+- **The one world-canon convergence anchor:** Merdo's younger brother **Aslan** (DEEP-LOCK, rack-024) — alive, 18, captain of his own pirate crew. Arrives at Sabaody Archipelago in the Worst Generation window, same time as Merdo. Possibly counted among the 11 Supernovas depending on bounty timing at convergence. Neither brother has seen the other in 11 years. Recognition is not automatic. First contact emerges from play — not pre-scheduled. All other details about Aslan (crew name, lieutenants, fruit, flag) generate at first contact.
 - **Saga goal:** reach Sabaody Archipelago at the same time as the Worst Generation convergence (canon ~Chapter 497+ — Luffy, Law, Kid, Bonney, Apoo, Drake, Urouge, Hawkins, Killer, Bege converging pre-Marineford). Several more islands between Tessara and Sabaody — each its own arc, each emergent. Merdo's personal dream (drag thrones into dirt) is his character line, not the saga ending.
 
 ---
