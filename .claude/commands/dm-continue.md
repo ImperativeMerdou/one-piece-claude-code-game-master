@@ -1,5 +1,11 @@
 # /dm-continue - Play the Game
 
+> ## ⚠️ RUN ONCE PER SESSION
+>
+> This command runs the full startup pipeline (rule stack + bible + crew runtime + antagonists + plants + narrator style + session context). It is intended to fire **once at the start of each session** — not every turn. After the first `/dm-continue`, just type into the chat; the rules are already in context. Re-running this per turn is why responses feel slow.
+>
+> To save progress use `/dm-continue save`. To end the session use `/dm-continue end`. To just check state use `/dm-continue overview`. For live play: type normally.
+
 ---
 
 ## SUBCOMMAND ROUTING

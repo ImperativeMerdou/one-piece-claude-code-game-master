@@ -49,9 +49,9 @@ Ashren's heel plates stopped clicking. He looked at the door. He did not move to
 Repeat a word or phrase across the scene with the meaning shifting each time. Builds rhythm + emotional weight.
 
 ```
-"Captain," Sumi said the first time, like a child trying out a magic word.
-Mako shouted "Captain!" across the deck when the storm hit, and the word meant please.
-Hours later, Vesper murmured "Captain" once, soft, and it meant survive.
+"Merdo," Sumi said the first time — small, careful, testing the shape of a real name after weeks of rehearsing it loud.
+Mako shouted "Merdo!" across the deck when the storm hit, and the word meant please.
+Hours later, Vesper murmured "Merdo" once, soft, and it meant survive.
 ```
 
 **Use for:** emotional arcs, character bonding, late-arc beats where one word now carries weight.

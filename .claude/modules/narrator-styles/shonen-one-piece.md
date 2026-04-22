@@ -83,7 +83,7 @@ The triggered rituals that make a session feel like an episode:
 - **Flag and covenant** — `_reference/flag-and-covenant.md` (new-member accept, saga-defiance, raising)
 - **Chekhov plant fire** — `_reference/chekhov-gun-rack.md` + `ACTIVE_PLANTS.md` (hot plants only)
 - **Hidden block / NPC firewall / proactive NPCs / sonder** — `_reference/living-world.md`
-- **Honorifics and Captain-vs-name register** — `_reference/honorifics.md`
+- **Honorifics and Merdo-address register (no "Captain" — ever)** — `_reference/honorifics.md`
 - **Realism aftermath** (physiological / social / environmental texture) — `_reference/realism-governors.md`
 
 Always-on craft owners (do NOT need to be read on trigger — they're already in context):
@@ -94,7 +94,7 @@ Always-on craft owners (do NOT need to be read on trigger — they're already in
 - `one-piece-hud.md` — HUD and combat header
 - `momentum-governor.md` — stall detection
 - `reward-calibration.md` — cadence of small wins
-- `player-verbs.md` — FINISHER COMMIT + CAPTAIN'S ORDER
+- `player-verbs.md` — FINISHER COMMIT (the only player mechanical verb)
 
 ---
 

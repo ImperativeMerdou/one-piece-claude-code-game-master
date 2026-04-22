@@ -74,12 +74,12 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 | Concept | Canonical owner |
 |---|---|
 | Combat (spatial, named attacks, panels, heart, aftermath) | `.claude/modules/dm-slots/fight.md` |
-| Player verbs (FINISHER COMMIT + CAPTAIN'S ORDER) | `.claude/modules/dm-slots/player-verbs.md` |
+| Player verb (FINISHER COMMIT — the only one) | `.claude/modules/dm-slots/player-verbs.md` |
 | Anti-slop craft floor (body agency, filter words, density, dark-fantasy ban, 3 prose registers) | `.claude/modules/dm-slots/anti-slop-master.md` |
 | Canon fidelity gut-check | folded into `.claude/modules/dm-slots/anti-slop-master.md` |
 | Tier map | `.claude/modules/dm-slots/rules-priority-tiers.md` |
 | Reward calibration cadence | `.claude/modules/dm-slots/reward-calibration.md` |
-| Captain-vs-name register, honorifics | `_reference/honorifics.md` (triggered) |
+| Address register — nobody calls Merdo "Captain" | `_reference/honorifics.md` (triggered) |
 | NPC firewall, hidden-block format, sonder | `_reference/living-world.md` (triggered) |
 | Physiological / environmental / social aftermath | `_reference/realism-governors.md` (triggered; violence scroll lives in fight.md) |
 | Session shape (title card, cliffhanger, NEXT TIME ON) | `_reference/session-episode-structure.md` (triggered at session start) |
@@ -112,4 +112,4 @@ If this is the campaign's first live `/dm` session after bootstrap:
 2. Verify player has a `character.json` — if not, `/create-character` is disabled for this campaign per Merdo being pre-designed (see `.claude/commands/dm.md` one-shot note). Merdo's sheet will need manual creation from CREW_RUNTIME.md entry.
 3. Open scene: Golgatha at Tessara harbor, Day 11 morning. Sumi and Nox on the dock — pending acceptance is the opening beat.
 
-The first scene's pivot: does Merdo accept Sumi and Nox onto the crew? Everything downstream (rack-011 fire, rack-012 first partial, Cup sign-up, Yann's next move) branches from this. Surface the decision diegetically — pending-acceptance pressure from Sumi + Nox on the dock — and let Merdo answer in his own wording. CAPTAIN'S ORDER (per `player-verbs.md`) is the mechanical verb available to him; it is not the label for the scene beat.
+The first scene's pivot: does Merdo accept Sumi and Nox onto the crew? Everything downstream (rack-011 fire, rack-012 first partial, Cup sign-up, Yann's next move) branches from this. Surface the decision diegetically — pending-acceptance pressure from Sumi + Nox on the dock — and let Merdo answer in his own wording. Orders, acceptances, refusals are all declared intent; the only player mechanical verb is FINISHER COMMIT (per `player-verbs.md`).

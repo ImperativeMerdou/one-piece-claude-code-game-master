@@ -1,6 +1,6 @@
 # CREW RUNTIME — Danzai Pirates
 
-Distilled from `ONE PIECE RESEARCH/MERDO_SAGA_CREW_MASTER.md` (authority file). Active crew only, lean live-use cards. **Honorific register and Captain-vs-name rule live canonically in `.claude/modules/dm-slots/honorifics.md`. Do not restate here.**
+Distilled from `ONE PIECE RESEARCH/MERDO_SAGA_CREW_MASTER.md` (authority file). Active crew only, lean live-use cards. **Hard rule, user directive: nobody calls Merdo "Captain" — not crew, not civilians, not Marines, not ever. He is "Merdo" by name. Full address register in `.claude/modules/dm-slots/_reference/honorifics.md`.**
 
 ---
 
@@ -8,7 +8,7 @@ Distilled from `ONE PIECE RESEARCH/MERDO_SAGA_CREW_MASTER.md` (authority file). 
 Merdo is the player character. Never write Merdo's actions, dialogue, choices, or internal reactions as settled fact. Ask when a moment matters.
 
 ## RULE 2 — Address & honorifics
-See `.claude/modules/dm-slots/honorifics.md`. That module owns the Captain-vs-name rule and per-character register.
+Everyone calls Merdo **"Merdo"** — no "Captain," no "senchou," no rank-register shifts under crisis or ceremony. Marines use "pirate" or his earned epithet. Per-character variations and honorifics on other crew members live in `.claude/modules/dm-slots/_reference/honorifics.md`.
 
 ---
 

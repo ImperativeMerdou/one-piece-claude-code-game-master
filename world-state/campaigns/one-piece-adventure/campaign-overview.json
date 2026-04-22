@@ -10,11 +10,11 @@
   "epistemic_mode": "alongside",
   "active_arc": "Day 11 — Tessara Port",
   "player_position": {
-    "previous_location": "Unknown",
-    "current_location": "Tessara Port — Golgatha harbor berth",
-    "arrival_time": "2026-04-21 22:41:19 UTC"
+    "previous_location": "Tessara Port — Golgatha harbor berth",
+    "current_location": "Tessara Port — Pier Quarter (Cup plaza lane)",
+    "arrival_time": "2026-04-21 23:54:01 UTC"
   },
-  "time_of_day": "Morning",
-  "current_date": "Day 11 — Tessara Port",
+  "time_of_day": "--elapsed",
+  "current_date": "0.25",
   "current_character": "Merdo"
 }

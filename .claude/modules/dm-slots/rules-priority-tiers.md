@@ -18,13 +18,13 @@ Craft floor and runtime structure:
 
 - `_preamble.md` — mode gate (VANILLA / ADVANCED)
 - `anti-slop-master.md` — craft floor; prose + canon + dark-fantasy ban
-- `dm-authority.md` — DM owns stats; yields to CAPTAIN'S ORDER
+- `dm-authority.md` — DM owns stats; player owns FINISHER COMMIT
 - `fight.md` — combat, named attacks, panels, heart, aftermath
 - `length-governor.md` — 300–500w target, dynamic flex
 - `momentum-governor.md` — stall detector with scene-type gates
 - `narration.md` — 3-layer opener, no-footer ending
 - `one-piece-hud.md` — HUD + combat header + crowd gauge
-- `player-verbs.md` — FINISHER COMMIT + CAPTAIN'S ORDER
+- `player-verbs.md` — FINISHER COMMIT (the only player mechanical verb)
 - `reward-calibration.md` — cadence of small wins
 - `rules-priority-tiers.md` — this file
 - `search-guide-critical.md` — tool-call hygiene
