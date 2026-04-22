@@ -1,6 +1,6 @@
 # READY TO PLAY — Danzai Pirates (One Piece Claude Game Master)
 
-Fork of [Claude Game Master](https://github.com/Sstobo/Claude-Code-Game-Master) tuned for a living One Piece campaign. You play **Merdo**, giant-blooded half-Elbaf captain of the **Danzai Pirates**, sailing toward Hadrian's Table.
+Fork of [Claude Game Master](https://github.com/Sstobo/Claude-Code-Game-Master) tuned for a living One Piece campaign. You play **Merdo**, giant-blooded half-Elbaf captain of the **Danzai Pirates**, sailing the Worst Route toward Sabaody Archipelago — timed to arrive as the Worst Generation converges.
 
 ---
 
@@ -23,7 +23,7 @@ Nobody calls you Captain. You are Merdo.
 - **Haki:** Armament 45/100 (signature), Observation 30/100 (functional), Conqueror's 5/100 (uncontrolled).
 - **Ship:** Golgatha hull 100/100, crew morale 75/100.
 - **Active plots (4):** Tessara Cup (main) · Sumi+Nox Acceptance (side) · Kara Acquisition Pressure (threat, Yann) · Ashren Marine Filing (threat).
-- **Dormant plots (4 — activate post-Tessara):** Post-Tessara Horizon / Aquila Isle · Diadem Pirates Rumor · First World Government Attention · Hoyt Boys Aftermath Ripple.
+- **Dormant plots (activate post-Tessara):** Post-Tessara Horizon / Aquila Isle · Path to Sabaody · First World Government Attention · Hoyt Boys Aftermath Ripple.
 - **Pending consequences (7):** armed Day-11 threads + live-play follow-ups (Yann humiliation after notebook destroyed, Marine patrol converging on Golgatha berth within 10-15 min).
 
 Full state is always in the engine — `dm-overview.sh` shows it, `dm-search.sh <anything>` queries it.
@@ -125,8 +125,8 @@ Top-loaded in `_preamble.md`, checked every turn:
 
 - **Locations:** Tessara Port (berth, Pier Quarter, Colosseum, Cage, Tea-house pier), Ashenmaw (visited, wings-reveal incident), Korvaal (visited, Kara's family), Aquila Isle (next, dormant), Angora (Merdo's home, saga-mid reference only)
 - **Live antagonists:** Yann Merlis (Donquixote field broker, ACTIVE target on Merdo post-humiliation), Commodore Hudore (Cage warden, Cup champion, Vireen-daughter wound)
-- **Future threats (dormant):** Diadem Pirates (Archon Aslan + Callista + Ingrid + Esen + Solei — saga-long rival crew, first cameo post-Tessara), WG escalation to CP attention (post-first-bounty)
-- **Saga endgame:** Hadrian's Table — the man at the top of every kingdom's tribute chain. The saga ends when Merdo makes him stand up.
+- **Future threats:** emerge through play — no pre-written rival crew or saga villain. World-response to Merdo's actions (Marine escalation, Donquixote response, new ports with new problems) shapes who shows up. When antagonists land, they earn their depth in the moment they appear.
+- **Saga goal:** reach Sabaody Archipelago at the same time as the Worst Generation convergence (canon ~Chapter 497+ — Luffy, Law, Kid, Bonney, Apoo, Drake, Urouge, Hawkins, Killer, Bege converging pre-Marineford). Several more islands between Tessara and Sabaody — each its own arc, each emergent. Merdo's personal dream (drag thrones into dirt) is his character line, not the saga ending.
 
 ---
 

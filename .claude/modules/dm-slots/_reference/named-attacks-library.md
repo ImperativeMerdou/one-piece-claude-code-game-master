@@ -43,7 +43,7 @@ Cap: one CONQUEROR'S WILL per fight. Day 11 rookie tier: this is the current cei
 
 Reserved. Saga-late register. One fight per saga, maximum. Merdo has not yet named a DIVINE SUNDERER technique — it emerges when it fires. Do NOT pre-deploy in Tessara. Do NOT deploy in Day 11. This is the move the world has not yet seen. Its eventual deployment is the moment the bounty doubles and the epithet lands.
 
-Thematic seed (build-only, do not narrate): DIVINE SUNDERER is the answer to Hadrian's Table. Whatever Merdo fires at the end of saga-peak, against a throne-holder, will wear that name for the first and sometimes only time.
+Thematic seed (build-only, do not narrate): DIVINE SUNDERER fires once per saga at most. Whatever Merdo fires at the end of a saga-peak against a throne-holder will wear that name for the first and sometimes only time. Which throne-holder, which saga, which moment — emerges through play.
 
 ### Activation register
 

@@ -74,10 +74,10 @@ This module gives the player an on-demand dashboard. Triggered by:
     ▸ DIVINE SUNDERER — your saga ultimate, not yet named, not yet fired
     ▸ The D. in your name (you don't know yet)
     ▸ Conqueror's Haki awakening (uncontrolled now — saga-defining later)
-    ▸ Hadrian's Table (the saga's final room)
+    ▸ Sabaody Archipelago (reach it with the Worst Generation)
     ▸ Melaina's mother (locked behind a Yonko — DEEP-LOCK)
     ▸ Sable's CP-0 file (mid-saga reveal, pressure from inside the apparatus)
-    ▸ Aslan and the Diadem Pirates (first cameo post-Tessara)
+    ▸ Rivals and antagonists emerge through play — not pre-written
     ▸ The bigger world: canon Straw Hats currently Alabasta-to-Jaya tier
 
 ═══════════════════════════════════════════════════════════════

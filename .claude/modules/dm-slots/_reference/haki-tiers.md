@@ -130,7 +130,7 @@ Examples in canon: Roger vs Whitebeard (Edd War), Luffy vs Kaido (rooftop). Each
 
 - "His fist hit the sand-skin. The sand resisted. His fist did not stop."
 - "Hudore's eyes unfocused for a second. Merdo's right cross was already moving — and Hudore had stepped left before it left the shoulder."
-- "Aslan's voice broke the air. Three of the Marines went down where they stood. Two stayed up. He looked at those two."
+- "The rival captain's voice broke the air. Three of the Marines went down where they stood. Two stayed up. He looked at those two." (Conqueror's Haki demonstrated by whoever earns the scene.)
 - "The strike never reached. It cracked black across the gap, and Yann's sleeve burst at the wrist."
 
 The COLOR is in WHAT THE READER SEES, not in a label.

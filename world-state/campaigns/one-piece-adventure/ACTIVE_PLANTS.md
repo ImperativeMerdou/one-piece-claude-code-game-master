@@ -3,11 +3,9 @@
 Hot plants only. Next 1–2 sessions / current Tessara-arc pressure. Full ledger in `chekhov-rack.json`.
 
 **Explicitly NOT included in hot runtime (long-horizon DEEP-LOCK):**
-- rack-003 — Melaina's mother / Shanks
-- rack-021 — Merdo's "D."
-- rack-024 — Aslan is Merdo's brother
-- rack-027 — Callista pit-fighter history
-- rack-030 — Solei's songs spreading Aslan's myth
+- rack-003 — Melaina's mother / Shanks (CHARACTER backstory, not scheduled reveal)
+- rack-021 — Merdo's "D." (CHARACTER backstory, not scheduled reveal)
+- (Racks 024 / 027 / 030 previously here — Aslan-as-Merdo's-brother-captaining-Diadem, Callista pit-fighter, Solei songs — all retconned per user directive 2026-04-22. Those were tied to a predetermined rival-crew arc that has been removed. Merdo's younger brother's fate is OPEN — no pre-written identity.)
 
 Do NOT surface these before saga-mid at the earliest. DM reads; DM does not speak.
 

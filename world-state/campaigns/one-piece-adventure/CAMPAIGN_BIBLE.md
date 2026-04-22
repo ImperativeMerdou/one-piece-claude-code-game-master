@@ -14,11 +14,19 @@ Runtime pointer. Loads via `dm-continue.md` Step 1. Keep lean — this is orient
 - **Advanced mode:** implicit via `narrator_style` + `nsfw_enabled` + arc toggles
 - **NSFW:** enabled (consent-driven, player-paced; `_reference/nsfw-fanservice.md` reads on actual escalation only)
 
-## Saga thesis
+## Saga goal
 
-**The Danzai Pirates are sailing toward Hadrian's Table — the highest seat in the world's tribute chain, the man who has eaten at the top of every kingdom without once standing up. The saga ends when Merdo makes him stand up.**
+**Reach Sabaody Archipelago at the same time as the Worst Generation.**
 
-Every arc is a step toward that table. Thrones along the way are practice. Hadrian is the destination. The question the saga answers is whether the crew that reaches his room is strong enough for the man to eat with instead of the man to kill.
+Canon timing: Sabaody convergence is ~Chapter 497+ (Straw Hats + Law + Kid + Bonney + Apoo + Drake + Urouge + Hawkins + Killer + Bege + Luffy all arrive before Marineford). Merdo is currently Alabasta-to-Jaya equivalent — ~270 chapters before Sabaody in canon terms. The path between Tessara and Sabaody covers several more islands on the Worst Route.
+
+**Antagonists, rivals, and arc antagonists emerge through play — they are not predetermined.** Tessara's Yann Merlis + Commodore Hudore are live because Merdo is at Tessara. Future islands will surface their own faces organically: world-responsive Marines, local regimes, rival crews the DM builds as the crew arrives, News Coo headlines that shape who notices Merdo. Characters Merdo will encounter on the Worst Route are NOT pre-written. Let scenes create them.
+
+The rhythm the saga sits inside:
+- Each island = one arc (arrival → local problem reveal → crisis → climax → feast → departure)
+- News Coo cadence every 3 in-game days; bounty and rumor shape the world's response
+- Worst Generation is a CONVERGENCE EVENT in the world — Merdo may arrive at Sabaody before them, alongside, or after. That positioning is emergent from play.
+- Marineford War looms after Sabaody in canon; its shadow can inform later arcs but is not a Merdo-plot until it is.
 
 ## Arc toggles (from `campaign-overview.json`)
 
@@ -37,8 +45,7 @@ See `.claude/modules/dm-slots/_reference/arc-toggles.md` + `epistemic-mode.md` f
 
 1. **Masters** (full source of truth, not auto-loaded):
    - `ONE PIECE RESEARCH/MERDO_SAGA_CREW_MASTER.md` — crew bible
-   - `ONE PIECE RESEARCH/MERDO_SAGA_ANTAGONISTS.md` — Tessara antagonists (auto-loaded via bible-sources.txt)
-   - `ONE PIECE RESEARCH/MERDO_SAGA_RIVALS_FUTURE.md` — Diadem Pirates / Aslan (NOT auto-loaded until post-Tessara)
+   - `ONE PIECE RESEARCH/MERDO_SAGA_ANTAGONISTS.md` — current-arc antagonists only (auto-loaded via bible-sources.txt; new arc antagonists get added here as they emerge through play)
    - `ONE PIECE RESEARCH/ONE_PIECE_RESEARCH_BIBLE.md` + appearance / fight / powers / naming / episodes laws
 2. **Runtime distillations** (auto-loaded via bible-sources.txt):
    - `CREW_RUNTIME.md` — live crew cards
@@ -58,12 +65,11 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 - **Merdo is the player.** Never narrate his actions, dialogue, choices, or internal reactions as settled fact. Always ask.
 - **Merdo is straight; women only** for romance/NSFW (per `feedback_nsfw_straight_wide_scope.md`).
 - **Dark / generic fantasy BANNED FOREVER** (per `anti-slop-master.md` → "DARK FANTASY / GENERIC FANTASY — BANNED FOREVER" section).
-- **DEEP-LOCK plants NEVER surface in player-facing text, HUD, dashboards, NPC dialogue, bounty posters, or Marine files** until their explicit reveal beat fires:
-  - rack-003 (Melaina's mother = Shanks)
-  - rack-021 (Merdo's "D.")
-  - rack-024 (Aslan is Merdo's brother)
-  - rack-027 (Callista knows Merdo from pits)
-  - rack-030 (Solei's songs — cold until post-Tessara)
+- **DEEP-LOCK plants NEVER surface in player-facing text, HUD, dashboards, NPC dialogue, bounty posters, or Marine files** until the player's play organically pressures them toward surface:
+  - rack-003 (Melaina's mother = Shanks) — character backstory; only fires if player pushes into Melaina's history hard
+  - rack-021 (Merdo's "D.") — character backstory; surfaces through a specific earned reveal beat or not at all
+  - These are character depth, not saga ending hooks. Don't pre-schedule them.
+- **Merdo's younger brother.** Merdo had a younger brother in Angora when he was sold at 15. Whether that brother survived, stayed in Angora, went to sea, became a pirate, became a Marine, or died — **OPEN**. Do NOT pre-assign him an identity, role, ship, or rival-crew slot. If the player pursues the thread organically, the DM generates a fitting outcome in play.
 - **No Brenne.** Not in the roster. Do not introduce.
 - **Archived, do not narrate present-tense:** Darius Ravager, Ernst Rook. Departed Day 11. No cameo, no letter, no Den Den Mushi.
 
@@ -113,3 +119,10 @@ If this is the campaign's first live `/dm` session after bootstrap:
 3. Open scene: Golgatha at Tessara harbor, Day 11 morning. Sumi and Nox on the dock — pending acceptance is the opening beat.
 
 The first scene's pivot: does Merdo accept Sumi and Nox onto the crew? Everything downstream (rack-011 fire, rack-012 first partial, Cup sign-up, Yann's next move) branches from this. Surface the decision diegetically — pending-acceptance pressure from Sumi + Nox on the dock — and let Merdo answer in his own wording. Orders, acceptances, refusals are all declared intent; the only player mechanical verb is FINISHER COMMIT (per `player-verbs.md`).
+
+## Path to Sabaody
+
+Current: Tessara Port, Worst Route island 3 of a gauntlet.
+Next several islands: emerge through play. Known/seeded geography: Aquila Isle (post-Tessara candidate, not guaranteed). Paradise transitions (Sabaody Archipelago, pre-Marineford convergence) sit at the far end of the saga — several arcs out.
+
+Between Tessara and Sabaody, the DM builds islands, antagonists, rivals, and arc pressures as the crew approaches them. No pre-written rival crew. No pre-written saga villain. No pre-scheduled reveals. The world reacts to what Merdo does.

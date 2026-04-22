@@ -1,6 +1,6 @@
 # MERDO SAGA — ANTAGONISTS (RUNTIME)
 **Version:** Session 2 (split from v1). Runtime-active antagonist roster. Companion file to `MERDO_SAGA_CREW_MASTER.md`.
-**Scope:** This file contains ONLY active-arc antagonists and arc-local future-foe stubs. Build-only rival material (Archon Aslan, the Diadem Pirates, saga-span future foes) lives in `MERDO_SAGA_RIVALS_FUTURE.md` and is intentionally NOT auto-loaded. Promote material from the build-only file to this file when its rumor / cameo / first-contact phase begins — see the promotion checklist in the build-only file for when to promote what.
+**Scope:** This file contains ONLY active-arc antagonists and arc-local future-foe stubs. Per user directive 2026-04-22, there is no pre-written rival crew or saga-long predetermined villain — arc antagonists emerge through play. When a new island's scenes surface figures worth tracking, add them to this file at that time, not before.
 
 **Authority:** Wins on antagonist identity — voice, design, combat, wound, relationship-to-crew — for material currently live in play. The crew master wins on crew identity. If an entry here ever conflicts with crew master canon, the crew master wins and this file must be amended.
 
@@ -17,7 +17,7 @@ Information is marked LOCKED (confirmed canon, do not contradict), OPEN (still i
 **Authority order for live play:**
 1. Crew master (crew identity, ship culture, internal relationships)
 2. This file (active-arc antagonist identity)
-3. `MERDO_SAGA_RIVALS_FUTURE.md` — BUILD-ONLY, NOT auto-loaded. Consult during build / design, not during session.
+3. (Removed per user directive 2026-04-22 — no predetermined future-rivals file)
 4. `.claude/modules/dm-slots/*.md` (reference frames — anti-slop, canon encounters, villain kit, etc.)
 5. `world-state/campaigns/one-piece-adventure/chekhov-rack.json` (plant/fire ledger)
 
@@ -266,15 +266,20 @@ Thin notes on secondary figures introduced through The Cage / Tessara Cup / Tess
 
 ---
 
-## BUILD-ONLY MATERIAL — DO NOT PULL UNTIL PROMOTED
+## FUTURE ANTAGONISTS — EMERGE THROUGH PLAY
 
-The following material is intentionally kept OUT of runtime context to preserve session-context budget and saga reveal timing. It lives in `ONE PIECE RESEARCH/MERDO_SAGA_RIVALS_FUTURE.md`:
+Per user directive 2026-04-22: no pre-written rival crew, no saga-long predetermined villain, no pre-scheduled reveals. Previous drafts had "The Diadem Pirates" (Archon Aslan + crew) as the saga-long rival and "Aslan is Merdo's secret brother" as a mid-saga reveal — **all retconned**.
 
-- **The Diadem Pirates** — Archon Aslan + Callista + Ingrid + Esen + Solei. The long-form rival crew. First cameo island 5–6. Build-reference only until the cameo phase begins.
-- **Future Foes beyond Tessara** — broader Donquixote response, Admiral-tier Marine escalation, second rookie rival placeholder, CP agent tied to Sable's past.
+Emergent-antagonist rules for the DM going forward:
 
-**When to promote:** when a figure's rumor phase begins (name printed in a News Coo headline; Marine brief names them; a port-side song mentions them), move the intro paragraph into Section A of this file. When direct contact is imminent (next 1–2 arcs), move the full sheet. See `MERDO_SAGA_RIVALS_FUTURE.md` for the detailed promotion checklist.
+- **Next island's antagonists are generated when the crew arrives** at that island, not before. Pull from `_reference/canon-encounters.md`, `_reference/villain-kit.md`, and canon archetypes at arrival time.
+- **No rival-crew-as-dark-mirror pre-assigned.** If the world naturally surfaces a rival crew (e.g., an encounter on the sea, a News Coo headline, a shared port), name and shape them in the moment. Do not pre-commit to identity, fruit, or saga role.
+- **Donquixote response** (post-Yann events) is an organic consequence, not a specific pre-written crew. When/if Dressrosa dispatches agents, the DM builds them fresh, using Yann + Hudore archetypes as quality baseline.
+- **CP / World Government escalation** (from Sable's past, or from Merdo's bounty crossing thresholds) surfaces when the pressure lands — DM writes the specific agent at that moment, not pre-seeded.
+- **Canon Worst Generation** exists at canon-timeline positions (currently Alabasta-to-Jaya). Cross-crew encounters with Kid / Law / Bonney / Drake / Apoo / Urouge / Hawkins / Killer / Bege / Luffy are possible around Sabaody convergence (~Ch 497+ canon). Not scripted — emergent.
+
+**When a new antagonist actually enters play:** add them to Section A of this file at that point, with the same depth as Yann / Hudore.
 
 ---
 
-*End of runtime ANTAGONISTS file. Version 2 (slim, split). Build-only rival material lives in `MERDO_SAGA_RIVALS_FUTURE.md`. Authority order: crew master > this file > build-only file > dm-slots modules > chekhov rack.*
+*End of runtime ANTAGONISTS file. Version 3 (emergent-only per user directive 2026-04-22). Authority order: crew master > this file > dm-slots modules > chekhov rack.*

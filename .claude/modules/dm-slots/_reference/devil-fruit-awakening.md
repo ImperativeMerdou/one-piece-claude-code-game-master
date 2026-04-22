@@ -82,9 +82,9 @@ A Mythical Zoan in saga should:
 
 ### Identity risk (the jailer-beast warning)
 
-In SBS, Oda confirmed the Impel Down beasts are cases where the user's personality was absorbed by the awakened form. **For the Merdo saga**: any Zoan user who awakens carries this risk. Aslan's Mythical Zoan (Nemean Lion) awakening should:
+In SBS, Oda confirmed the Impel Down beasts are cases where the user's personality was absorbed by the awakened form. **For the Merdo saga**: any Zoan user who awakens carries this risk. If the DM introduces a Zoan user in play (per emergent-antagonist rule, user directive 2026-04-22), their awakening should:
 - Be teased, not delivered, until late saga
-- When delivered, raise the question: is Aslan still in there?
+- When delivered, raise the question: is the user still in there?
 - Resolution depends on emotional throughline, not raw stat fight
 
 ### Operational rules
@@ -139,7 +139,7 @@ For original storytelling (the Merdo saga's needs):
 
 1. **Establish the user's fruit early** with conventional applications. The reader knows what it does.
 2. **Give the user repeated losses** — fights they should win but stall in. The wall must be visible.
-3. **Plant ideological commitment** — moments where the user articulates their deep value. Hudore says "the badge is the law"; Aslan says "I do not lose to mortals."
+3. **Plant ideological commitment** — moments where the user articulates their deep value. Hudore says "the badge is the law"; an awakening-risk Zoan antagonist might say "I do not lose to mortals" — the specific line emerges when the character does.
 4. **Late-arc emotional triggering scene** — the user is about to die or lose what they value. The wall is now or never.
 5. **The awakening is the SCENE** — not a label. The world physically changes. Allies and enemies react. The narrator names NOTHING until other characters have already named it.
 6. **Aftermath includes a cost** — exhaustion, identity-friction, world-revision.
@@ -157,7 +157,7 @@ For original storytelling (the Merdo saga's needs):
 | Melaina | Hebi Hebi Model: Medusa (Mythical Zoan) | **Tease begins mid-saga, payoff late-saga**. Identity-risk: medusa-myth involves victim/monster duality. |
 | Vesper | None (Mink) | N/A | Sulong is the Mink-equivalent reveal |
 | Volo | None (Fish-Man) | N/A | Fish-Man Karate mastery is the track |
-| Aslan (rival) | Neko Neko Model: Nemean Lion (Mythical Zoan) | **Awakening teased throughout saga, fires saga-final-arc**. Identity-risk: lion-myth invulnerability could consume his humanity. |
+| (Emergent antagonist Zoan users) | Introduced + assigned in play, not pre-written | Awakening mechanics in this module apply to any Zoan antagonist the DM introduces. |
 | Kara | Failed Bake Bake no Mi | N/A — cannot awaken | Her arc is regaining agency another way |
 
 **Major canonical antagonists** (Hudore, Yann Merlis): NOT awakening users in this saga. Their threat is institutional power, not awakened DF.

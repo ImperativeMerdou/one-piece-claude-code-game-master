@@ -28,7 +28,9 @@
       "status": "HOT",
       "saga_lock": "none",
       "fire_pressure": 4,
-      "paired_with": ["rack-011"],
+      "paired_with": [
+        "rack-011"
+      ],
       "seeded_in": "ANTAGONISTS:Yann Merlis:visual identity / CREW_MASTER:Sable:CP-0",
       "fire_when": "pressure moment in Tessara — Merdo about to trust Yann, or about to accept a deal, or about to miss the threat",
       "payoff": "Sable tells Merdo what she saw. Forces crew recalibration mid-Tessara. Also burns some of her CP-0 cover — she had to read the ring.",
@@ -54,7 +56,10 @@
       "status": "HOT",
       "saga_lock": "none",
       "fire_pressure": 5,
-      "paired_with": ["rack-006", "rack-019"],
+      "paired_with": [
+        "rack-006",
+        "rack-019"
+      ],
       "seeded_in": "CREW_MASTER:Nox:EMOTIONAL_CORE",
       "fire_when": "early in Tessara — during or near Merdo's acceptance of Nox onto crew",
       "payoff": "Merdo remembers OR does not. If he does, Nox's debt reconfigures into chosen service. If he does not, Nox lives with having given himself to someone who forgot him — a knife that reshapes his arc.",
@@ -67,7 +72,9 @@
       "status": "HOT",
       "saga_lock": "none",
       "fire_pressure": 4,
-      "paired_with": ["rack-016"],
+      "paired_with": [
+        "rack-016"
+      ],
       "seeded_in": "ANTAGONISTS:Hudore:emotional_core / CREW_MASTER:Sumi",
       "fire_when": "first scene Hudore sees Sumi — crowd shot, dockside, tournament bracket line",
       "payoff": "FIRST PARTIAL FIRE: Hudore's Observation slips for one beat — a stutter not in three years. Sumi will not know why he looked. Scene scored for Vireen; Sumi never learns within this fire.",
@@ -80,7 +87,9 @@
       "status": "WARM",
       "saga_lock": "none",
       "fire_pressure": 2,
-      "paired_with": ["rack-015"],
+      "paired_with": [
+        "rack-015"
+      ],
       "seeded_in": "ANTAGONISTS:Hudore:The Cage",
       "fire_when": "rescue arc triggers — crew enters the Cage (Merdo thrown in after Cup loss, OR crew rescue operation)",
       "payoff": "the Whale's identity surfaces. Candidate: Yonko officer in hiding. Reveal triggers possible alliance or hostile-neutral dynamic.",
@@ -93,7 +102,9 @@
       "status": "WARM",
       "saga_lock": "none",
       "fire_pressure": 3,
-      "paired_with": ["rack-014"],
+      "paired_with": [
+        "rack-014"
+      ],
       "seeded_in": "ANTAGONISTS:Tessara-local:Parseval / Brother Allun",
       "fire_when": "Merdo faces Parseval in the Cup bracket, OR Merdo encounters Allun in the Cage, OR a Parseval chant references Allun",
       "payoff": "unlocks Parseval as 3D character (not just tournament fighter). Possible rescue motive for Allun. Parseval may switch sides or grant quarter on Allun's fate.",
@@ -106,7 +117,9 @@
       "status": "WARM",
       "saga_lock": "none",
       "fire_pressure": 3,
-      "paired_with": ["rack-012"],
+      "paired_with": [
+        "rack-012"
+      ],
       "seeded_in": "ANTAGONISTS:Petra Mauler",
       "fire_when": "Petra / Hudore chess scene, OR the moment after Hudore loses two games and asks her to — if Merdo is close enough to hear",
       "payoff": "full fire of Hudore's wound. Merdo learns Vireen exists without Hudore telling him directly. Player choice: use the intel, or respect it. This choice defines the Hudore relationship arc.",
@@ -132,7 +145,9 @@
       "status": "DEEP-LOCK",
       "saga_lock": "none",
       "fire_pressure": 1,
-      "paired_with": ["rack-011"],
+      "paired_with": [
+        "rack-011"
+      ],
       "seeded_in": "CREW_MASTER:Nox:AUTHOR_TRUTH",
       "fire_when": "one-time comedy/grief bomb. Either (a) Marine paperwork surfaces at a bounty poster, or (b) Nox chooses to say it himself at the RIGHT moment.",
       "payoff": "scene-defining. Nox either reveals to earn his place, or the world reveals it to strip him of the armor. Both break open who he is under the hat.",
@@ -145,51 +160,12 @@
       "status": "DEEP-LOCK",
       "saga_lock": "saga-late",
       "fire_pressure": 0,
-      "paired_with": ["rack-024", "rack-027"],
+      "paired_with": [],
       "seeded_in": "CREW_MASTER:Merdo:AUTHOR_TRUTH",
-      "fire_when": "saga-late, paired with Aslan-is-brother reveal. Both 'D.'s surface together, or within one arc of each other. Marines file both bloodlines differently.",
-      "payoff": "world recalibration. Two brothers carrying the Will of D. The world notices; the Marines file; the Revolutionary Army notices; the Yonko notice. Merdo does not know beforehand.",
+      "fire_when": "saga-late. Surfaces only through a specific earned scene (Marine cross-reference, an old villager who knew Mesut's name, a document, a cover-page). Not pre-paired to any other reveal. Do NOT pre-schedule.",
+      "payoff": "world recalibration. Merdo carries the Will of D. The world notices; Marines file; Revolutionary Army notices; Yonko notice. Merdo does not know beforehand. The shape of who else in the world carries the D. around him is OPEN — emerges through play, not pre-written.",
       "surfaced": false,
       "notes": "Do NOT surface in HUD, dashboards, NPC dialogue, bounty posters, Marine files, or any player-facing prose. Merdo does not know. World does not know. DM reads, DM does not speak. Treat identical to Melaina-Shanks."
-    },
-    {
-      "id": "rack-024",
-      "title": "Archon Aslan is Merdo's younger brother",
-      "status": "DEEP-LOCK",
-      "saga_lock": "saga-mid-to-late",
-      "fire_pressure": 0,
-      "paired_with": ["rack-021", "rack-027"],
-      "seeded_in": "ANTAGONISTS/RIVALS_FUTURE:Aslan:AUTHOR_TRUTH",
-      "fire_when": "saga-mid reckoning scene. First cameo island 5 (no contact). First conversation island 6. Truth lands mid-saga at the brother-confrontation.",
-      "payoff": "breaks both of them. Defines the saga's core emotional arc. Irony: Merdo's dream requires Aslan NOT be king; Aslan's dream requires Merdo acknowledge him. Cannot both win current trajectories.",
-      "surfaced": false,
-      "notes": "NOT hot at Tessara. Do not load into ACTIVE_PLANTS until post-Tessara, at earliest island-4 prep. Merdo sold himself at 15 to protect Aslan (then 11). Aslan does not know why. Merdo has not spoken his name since."
-    },
-    {
-      "id": "rack-027",
-      "title": "Callista knows Merdo from the pits",
-      "status": "DEEP-LOCK",
-      "saga_lock": "saga-mid",
-      "fire_pressure": 0,
-      "paired_with": ["rack-024"],
-      "seeded_in": "RIVALS_FUTURE:Diadem Pirates:Callista",
-      "fire_when": "saga-mid, the scene Callista tells Aslan about the pits. Largest beat in her arc, probably largest in Aslan's mid-saga.",
-      "payoff": "forces the Aslan-reckoning. Callista's seven years of watching Merdo become 'different kind of fighter than Merdo' resolves into telling Aslan the shape of who his brother became.",
-      "surfaced": false,
-      "notes": "Callista is 47, pit fighter for 23 years, saw Merdo fight twice in pits. Recognized the Archon surname when Aslan joined seven years ago. Has been watching him become different than Merdo. Paired DEEP-LOCK with rack-024."
-    },
-    {
-      "id": "rack-030",
-      "title": "Solei's songs spread Aslan's myth",
-      "status": "COLD",
-      "saga_lock": "saga-mid",
-      "fire_pressure": 0,
-      "paired_with": ["rack-024"],
-      "seeded_in": "RIVALS_FUTURE:Diadem Pirates:Solei",
-      "fire_when": "islands 4–5 build-up — News Coo carries a song or cover-page Aslan myth. Public reputation leads actual bounty.",
-      "payoff": "world-reaction layer for Aslan. By the time Merdo meets him, civilian reputation is larger than his bounty suggests. Crew notices the surname.",
-      "surfaced": false,
-      "notes": "NOT hot at Tessara. Do not load into ACTIVE_PLANTS. Cold until post-Tessara news cycle. Solei has not published the voice-crack page (that's a saga-mid reveal in itself)."
     },
     {
       "id": "armed-ashren-ashenmaw",
@@ -204,5 +180,6 @@
       "surfaced": false,
       "notes": "ARMED means the trigger is already in flight. Fires whether Merdo acts or not. Do not treat as Merdo-decision plant."
     }
-  ]
+  ],
+  "_retcon_note_2026_04_22": "Per user directive 2026-04-22: predetermined rival-crew arc (Diadem Pirates / Archon Aslan / Callista / Solei) has been removed. Racks 024, 027, 030 deleted. Merdo's younger brother's fate is OPEN, not pre-assigned. New saga goal: reach Sabaody with the Worst Generation. Arc antagonists emerge through play."
 }

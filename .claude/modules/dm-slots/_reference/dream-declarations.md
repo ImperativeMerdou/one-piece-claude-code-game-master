@@ -87,7 +87,7 @@ Re-declaration registers available:
 - To a rival captain: *"I don't want your crew. I don't want your flag. I want to be the one you couldn't outlast."*
 - To Cassian Vox mid-duel (Saga 6): *"Not Emperor. Strongest. Different word."*
 - Before a Yonko-tier fight (Saga 7+): *"I'm going to be the thing the world cannot move past. Go ahead. Try."*
-- At the Hadrian confrontation (Saga 10, possible final dream-declaration): *"You sat. I kept walking. The strongest is the one who kept walking."*
+- At a saga-peak confrontation with a throne-holder whose ideology opposes his (shape emerges in play, not pre-scripted): a re-articulation of the dream in the specific enemy's grammar — e.g., *"You sat. I kept walking. The strongest is the one who kept walking."*
 
 **Evolution horizon:** Merdo's dream REFINES across sagas:
 - **Saga 1-2:** thrones from the pit (personal wound)
