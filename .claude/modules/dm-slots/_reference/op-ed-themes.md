@@ -37,7 +37,7 @@ Endings show: bounty updates, Marines responding, civilians affected. EDs are wh
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                    MERDO PIRATES
+                    DANZAI PIRATES
                       SAGA 2 OPEN
                 "Believe" — kingdom-scale stakes
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -102,7 +102,7 @@ Per `session-episode-structure.md` — mandatory session-end preview. The ED the
 *[ED: "Memories" — post-arc quiet]*
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                NEXT TIME ON MERDO PIRATES!
+                NEXT TIME ON DANZAI PIRATES!
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [4-7 lines of preview — beats the player can't fully see]
 

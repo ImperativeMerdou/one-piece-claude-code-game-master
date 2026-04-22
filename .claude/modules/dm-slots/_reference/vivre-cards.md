@@ -58,7 +58,7 @@ The DM can also OFFER one at natural moments:
 ╔═══════════════════════════════════════════════════════════╗
 ║              ⚓ VIVRE CARD ⚓                              ║
 ║         CHARACTERS & RECRUITS DATABOOK                    ║
-║              MERDO PIRATES VOLUME I                       ║
+║              DANZAI PIRATES VOLUME I                       ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
 ║  [NAME]                                                   ║

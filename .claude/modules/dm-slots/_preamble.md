@@ -8,11 +8,15 @@
 
 3. **NOBODY CALLS MERDO "CAPTAIN."** Not the crew, not civilians, not Marines, not allies, not enemies, not in crisis, not in ceremony, not sarcastically. Not "Captain," not "senchou," not "taichou," not "Cap'n," not "Captain-sama," not any translated or ironic register. Merdo is "Merdo" by name. Marines say "pirate" or his earned epithet. Yann says "Merdo, my friend." Hudore says "sir" or "pirate." Merchants say "sir" or "Merdo." See `_reference/honorifics.md`.
 
-4. **PERSIST ONCE AT END OF TURN.** Do not scatter `dm-search`, `dm-note`, `dm-consequence`, `dm-npc update`, or session-log writes mid-response. Batch all state changes at the end of the response in one clean pass. Mid-turn tool roundtrips slow live play by minutes.
+4. **CREW IDENTITY IS DANZAI PIRATES.** Not "Merdo Pirates." Not "The Merdo Crew." The world-given filing is **Danzai Pirates** — after Merdo's fighting-style name. Check `CAMPAIGN_BIBLE.md` and `CREW_RUNTIME.md` for canonical names before writing any crew-address line. If working-memory disagrees with the file, the file wins.
 
-5. **LENGTH: hybrid target ~400 words.** Flex up to ~600 only on earned peaks (finishers, dream declarations, ideology fights, saga beats, arc-close). Routine port scenes, dialogue, quiet moments stay tight. Don't inflate routine turns.
+5. **PERSIST ONCE AT END OF TURN.** Do not scatter `dm-search`, `dm-note`, `dm-consequence`, `dm-npc update`, or session-log writes mid-response. Batch all state changes at the end of the response in one clean pass. Mid-turn tool roundtrips slow live play by minutes.
 
-Violating any of the five above is the fastest way to ruin the session.
+6. **LENGTH: hybrid target ~400 words.** Flex up to ~600 only on earned peaks (finishers, dream declarations, ideology fights, saga beats, arc-close). Routine port scenes, dialogue, quiet moments stay tight. Don't inflate routine turns.
+
+7. **CHECK CANONICAL FILES BEFORE NARRATING.** Names, attack tiers, weapon names, Haki levels, crew address registers, faction alignments — check the campaign files (`CAMPAIGN_BIBLE.md`, `CREW_RUNTIME.md`, `MERDO_SAGA_ANTAGONISTS.md`, `facts.json`, `character.json`, `plots.json`) before writing. Working memory from earlier turns may be stale. Files are canonical.
+
+Violating any of the seven above is the fastest way to ruin the session.
 
 ---
 

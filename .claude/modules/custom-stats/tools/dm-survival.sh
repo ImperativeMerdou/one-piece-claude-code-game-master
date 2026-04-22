@@ -24,4 +24,9 @@ PROJECT_ROOT="$(cd "$SCRIPT_DIR/../../../.." && pwd)"
 
 cd "$PROJECT_ROOT"
 
+# Force UTF-8 stdout so Unicode bars / em-dashes / Japanese don't crash
+# on Windows cp1252/cp1254 consoles. Data storage is always UTF-8.
+export PYTHONIOENCODING=utf-8
+export PYTHONUTF8=1
+
 uv run python .claude/modules/custom-stats/lib/survival_engine.py "$@"

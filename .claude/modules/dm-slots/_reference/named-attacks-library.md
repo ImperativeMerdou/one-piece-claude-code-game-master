@@ -49,14 +49,6 @@ Thematic seed (build-only, do not narrate): DIVINE SUNDERER is the answer to Had
 
 Merdo is **SHOUTED** register (per fight.md §8). He yells his techniques at commit. No whispering, no silence-register. Eight Trigrams names can be snarled or shouted; CONQUEROR'S WILL is always shouted at full volume; DIVINE SUNDERER is a scream.
 
-### Legacy mapping (for continuity only — do not reference in prose)
-
-Old catalog strings that may appear in archived session logs or legacy files map cleanly to the new grammar:
-
-- old "DANZAI: TOMB-MARKER" → **CONQUEROR'S WILL — TOMB-MARKER** (promoted to heavy tier)
-- old "DANZAI: GUILTY-FOOT" → **DANZAI EIGHT TRIGRAMS — GUILTY-FOOT** (medium tier, retained)
-- old "GNADENKETTE: LAST RITES" → **CONQUEROR'S WILL — LAST RITES**
-- old "BARE-HANDED: NO PARDON" → **CONQUEROR'S WILL — NO PARDON**
 
 ---
 

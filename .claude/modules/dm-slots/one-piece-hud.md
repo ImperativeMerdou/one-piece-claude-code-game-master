@@ -7,7 +7,7 @@ One Piece campaign output format. Bounty is the headline status. Berries (฿) r
 ## Scene header — standard
 
 ```
-═══════════ ⚓ MERDO PIRATES · DAY 11 · MORNING ═══════════
+═══════════ ⚓ DANZAI PIRATES · DAY 11 · MORNING ═══════════
   ▸ TESSARA PORT, Route Three — Island 3 of the gauntlet
   ▸ The Golgatha · Hull ████████ 100%  · Crew Morale ████████
   ▸ MERDO · Bounty ฿0 (no bounty issued yet)  · Haki: Armament▾ Observation▽ Conqueror▽

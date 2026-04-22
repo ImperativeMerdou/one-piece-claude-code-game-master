@@ -13,7 +13,7 @@ This module gives the player an on-demand dashboard. Triggered by:
 ## DASHBOARD FORMAT
 
 ```
-═══════════════ ⚓ MERDO PIRATES — DASHBOARD ⚓ ═══════════════
+═══════════════ ⚓ DANZAI PIRATES — DASHBOARD ⚓ ═══════════════
 
   CAPTAIN  Merdo · Lvl 4 · Bounty ฿0 (no epithet earned yet)
   ARC      Day 11 · Tessara Port · "TWO ON THE DOCK!"
@@ -23,10 +23,11 @@ This module gives the player an on-demand dashboard. Triggered by:
                        🔥 WHAT'S COOL RIGHT NOW
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ⚔ Combat techniques unlocked:  15 named moves across 3 tiers
-                                  (Eight Trigrams · Conqueror's Will ·
-                                   Divine Sunderer; weapons: Judgment,
-                                   Gnadenkette, spiked gauntlets)
+  ⚔ Combat grammar (locked, three tiers)
+                                  Eight Trigrams (8 medium patterns) ·
+                                  Conqueror's Will (heavy, Day-11 ceiling) ·
+                                  Divine Sunderer (saga ultimate, reserved)
+                                  Weapons: Judgment, Gnadenkette, gauntlets
 
   ⛵ Crew on deck (8):  Ashren · Melaina · Vesper · Sable · Volo
                        · Kara + The Twenty (Mako, Oleg, Cress, Skel)
@@ -46,7 +47,7 @@ This module gives the player an on-demand dashboard. Triggered by:
   THIS ARC (Tessara):
     ▸ Tessara Cup tournament (4 rounds, 2 days, sundown sign-up)
     ▸ Yann Merlis (gold signet ring) — Donquixote agent watching
-    ▸ Commodore Hudore — Tournament champion (publicly Captain)
+    ▸ Commodore Hudore — Tournament champion (Advanced Observation + baton "the line")
     ▸ Volo's aquatic bracket (3 named opponents lined up)
 
   NEXT ARCS (post-Tessara):
@@ -59,7 +60,7 @@ This module gives the player an on-demand dashboard. Triggered by:
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   Possible big beats:
-    ▸ First named-attack scream in a real fight ("DANZAI!! TOMB-MARKER!!")
+    ▸ First named-attack scream in a real fight ("CONQUEROR'S WILL — TOMB-MARKER!!")
     ▸ Sumi's first paper-fruit display
     ▸ Nox's first wrestling-promo gunshot
     ▸ Crew composition decided — Sumi or Nox or both join
@@ -70,16 +71,17 @@ This module gives the player an on-demand dashboard. Triggered by:
                   📜 LONG-GAME (saga-late, dormant)
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    ▸ The Dragon Fruit (Ryu Ryu no Mi, Model: Nidhogg) — searching
+    ▸ DIVINE SUNDERER — your saga ultimate, not yet named, not yet fired
     ▸ The D. in your name (you don't know yet)
-    ▸ Conqueror's Haki (might exist, might not — earned not given)
-    ▸ Melaina's mother (locked behind a Yonko)
-    ▸ Sable's CP-0 file (mid-saga reveal)
-    ▸ The Sabaody convergence (~12 in-game months out)
-    ▸ The bigger world: Marineford coming (~15 months)
+    ▸ Conqueror's Haki awakening (uncontrolled now — saga-defining later)
+    ▸ Hadrian's Table (the saga's final room)
+    ▸ Melaina's mother (locked behind a Yonko — DEEP-LOCK)
+    ▸ Sable's CP-0 file (mid-saga reveal, pressure from inside the apparatus)
+    ▸ Aslan and the Diadem Pirates (first cameo post-Tessara)
+    ▸ The bigger world: canon Straw Hats currently Alabasta-to-Jaya tier
 
 ═══════════════════════════════════════════════════════════════
-                      What's your move, Captain?
+                      What's your move, Merdo?
 ═══════════════════════════════════════════════════════════════
 ```
 

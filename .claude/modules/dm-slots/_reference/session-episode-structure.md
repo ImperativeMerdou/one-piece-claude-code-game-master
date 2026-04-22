@@ -96,7 +96,7 @@ The name was his own father's.
 
 ```
 ═══════════════════════════════════════════════════════════
-              ⚓ NEXT TIME ON THE MERDO PIRATES ⚓
+              ⚓ NEXT TIME ON THE DANZAI PIRATES ⚓
 ─────────────────────────────────────────────────────────────
 
   The first bell rings. The crowd inhales.

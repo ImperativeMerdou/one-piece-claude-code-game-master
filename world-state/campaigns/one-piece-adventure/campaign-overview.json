@@ -9,12 +9,62 @@
   "world_difficulty": "NORMAL",
   "epistemic_mode": "alongside",
   "active_arc": "Day 11 — Tessara Port",
+  "saga": "Merdo Saga — Year 1",
   "player_position": {
     "previous_location": "Tessara Port — Golgatha harbor berth",
     "current_location": "Tessara Port — Pier Quarter (Cup plaza lane)",
     "arrival_time": "2026-04-21 23:54:01 UTC"
   },
-  "time_of_day": "--elapsed",
-  "current_date": "0.25",
-  "current_character": "Merdo"
+  "time_of_day": "Morning",
+  "current_date": "Day 11 — Tessara Port",
+  "current_character": "Merdo",
+  "modules": {
+    "inventory-system": true,
+    "custom-stats": true,
+    "world-travel": false,
+    "firearms-combat": false
+  },
+  "campaign_rules": {
+    "no_dnd_math_in_prose": true,
+    "no_captain_address_ever": true,
+    "player_verb_single": "FINISHER COMMIT only. Orders / acceptances / refusals are declared intent.",
+    "day_11_attack_ceiling": "CONQUEROR'S WILL (heavy tier). DIVINE SUNDERER does NOT fire at Tessara.",
+    "destruction_tier_cap_tessara": "wall cracked / rail splintered / floor showed the strike — no building collapse, no island-topography change",
+    "opponent_tier_cap_tessara": "Commodore at maximum (Hudore in the Cup final only). No Vice Admiral / Admiral / Yonko / Warlord present.",
+    "post_peak_collapse_rule": "Mandatory body receipt after every named-attack / Haki burst / ideology-fight peak. Default tier at Day 11 = WINDED-to-TIRED. SPENT/BROKEN require saga weight.",
+    "news_coo_cadence_days": 3,
+    "time_effects": {
+      "enabled": true,
+      "effects_per_hour": {
+        "crew_morale": 0,
+        "ship_hull": 0,
+        "armament_haki": 0,
+        "observation_haki": 0,
+        "conquerors_haki": 0,
+        "bounty_berries": 0
+      },
+      "stat_consequences": [
+        {"stat": "ship_hull", "threshold": 30, "comparison": "<=", "event": "The Golgatha is visibly damaged. Merchants avoid the pier. Crew morale drops."},
+        {"stat": "ship_hull", "threshold": 10, "comparison": "<=", "event": "The Golgatha is barely seaworthy. The Twenty are patching in shifts."},
+        {"stat": "crew_morale", "threshold": 30, "comparison": "<=", "event": "The crew is thin. Mako's visible-fear barometer tight. Feasts, comedy beats, or a real win needed."},
+        {"stat": "crew_morale", "threshold": 80, "comparison": ">=", "event": "The crew is loud. Feast energy. Volo commits the crew to three more things before sundown."}
+      ],
+      "rules": [
+        "Haki stats advance ONLY via world-earned beats — first Conqueror's burst, first Observation precog save, first Armament break of a Haki-coated shell. DM narrates the event, then ticks the stat. Not time-based.",
+        "Bounty is set by the world AFTER a public arc closes — not ticked, not estimated. Stays at current value until a filed event produces a new number.",
+        "Ship hull damage is set by combat/storm events. Repair is scene-based (Darius's ironwood contract holds until end-of-arc-close).",
+        "Crew morale ticks are scene-driven: feast +10, nakama beat +5, loss-of-crewmate -20, loss-of-arc -10, public win +15. DM updates at scene-close via dm-survival.sh custom-stat <name> +/-amount."
+      ]
+    },
+    "inventory_rules": {
+      "weight_enabled": false,
+      "slot_enabled": false,
+      "stackable_default": true,
+      "rules": [
+        "Inventory is narrative texture, not grid-constrained. Merdo carries what he carries.",
+        "Unique items (Judgment, Gnadenkette, Mama+Papa, Higure, Shibito-Bashi, Yann's fruit basket, Darius's ironwood scrap, Rook's sealed letter) are always tracked.",
+        "Stackable goods (berries-currency, food, ship supplies, repair material) are quantity-tracked but not slotted."
+      ]
+    }
+  }
 }
