@@ -4,9 +4,9 @@ Hot plants only. Next 1–2 sessions / current Tessara-arc pressure. Full ledger
 
 **Explicitly NOT included in hot runtime (long-horizon DEEP-LOCK):**
 - rack-003 — Melaina's mother / Shanks (CHARACTER backstory, not scheduled reveal)
-- rack-021 — Merdo's "D." (CHARACTER backstory, not scheduled reveal)
-- rack-024 — Aslan is Merdo's younger brother, captain of his own crew, arrives at Sabaody in the Worst Generation convergence window (possibly 12th Supernova). NOT pre-scheduled for cameo/recognition — fires emergently. All specific details (crew name, lieutenants, fruit, bounty, flag) generate at first contact, not before.
-- (Racks 027 / 030 previously here were Diadem-specific side-reveals [Callista pit-fighter history, Solei songs spreading Aslan myth] — retconned per user directive 2026-04-22. Aslan himself stays; the predetermined cast around him does not.)
+- rack-024 — Aslan is Merdo's younger brother, captain of his own crew, arrives at Sabaody in the Worst Generation convergence window (possibly 12th Supernova). His full name **Archon D. Aslan** is PUBLIC — Merdo may hear it in rumor via News Coo or merchant chatter before they meet, and the name triggers his memory. NOT pre-scheduled for cameo/recognition — fires emergently. All specific details (crew name, lieutenants, fruit, bounty, flag) generate at first contact.
+- (rack-021 — Merdo's 'D.' — PROMOTED TO PUBLIC per user directive 2026-04-23. Merdo's full name is Archon D. Merdo. Marine files + bounty posters use the full name. The WILL of D. as a Void-Century mystery stays canon-unknown, but the letter in the name is not hidden. Canon-parallel to Monkey D. Luffy / Monkey D. Garp / Monkey D. Dragon / Gol D. Roger / Portgas D. Ace / Marshall D. Teach / Trafalgar D. Water Law — all public.)
+- (Racks 027 / 030 previously here were Diadem-specific side-reveals [Callista pit-fighter history, Solei songs spreading Aslan myth] — retconned per user directive 2026-04-22.)
 
 Do NOT surface these before saga-mid at the earliest. DM reads; DM does not speak.
 

@@ -72,7 +72,7 @@ This module gives the player an on-demand dashboard. Triggered by:
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     ▸ DIVINE SUNDERER — your saga ultimate, not yet named, not yet fired
-    ▸ The D. in your name (you don't know yet)
+    ▸ The Will of D. (your full name Archon D. Merdo is public; the MEANING of the D. is Void-Century-scale mystery)
     ▸ Conqueror's Haki awakening (uncontrolled now — saga-defining later)
     ▸ Sabaody Archipelago (reach it with the Worst Generation)
     ▸ Melaina's mother (locked behind a Yonko — DEEP-LOCK)

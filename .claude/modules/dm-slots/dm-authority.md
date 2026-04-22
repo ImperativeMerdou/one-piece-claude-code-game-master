@@ -6,10 +6,10 @@ Players describe intent → You determine results → You persist changes.
 
 When players request stat changes: evaluate if the action is valid, roll dice if uncertain (internally, not shown), update the stats, narrate the outcome.
 
-**Exception — one player verb.** The DM yields to the single player-owned verb defined in `player-verbs.md`:
+**No player mechanical verbs. Player describes intent; DM resolves.** The player writes what Merdo does, says, thinks, tries, commits to. The DM reads the intent, decides what happens, generates the resolution in prose, and hands the turn back. No special-syntax triggers, no ALL-CAPS overrides, no panel-format commits, no slash-commands that bypass DM interpretation.
 
-- **FINISHER COMMIT** — when the player authors Merdo's named-attack beat (ALL-CAPS quoted attack, `/dm finish`, or bare unambiguous commit), the DM fires the panel format honoring the player's wording. Outcome still honest (reality governs), but the beat itself is the player's.
+Named attacks still fire — the DM decides when the scene has earned one, names it if the player hasn't, or honors the player's wording if the player wrote the scream into their own intent. Either way it's DM-interpreted, not mechanic-triggered.
 
-Orders to crew, acceptances, refusals, threats, dialogue, improvisation — all declared intent, not mechanics. The DM runs crewmates as people reacting to their captain-by-presence (not by title — nobody calls Merdo "Captain," ever, per `_reference/honorifics.md`). Silent-ignore-while-present is bad prose, not a rule. Don't invent refusal to block the player; don't invent compliance a crewmate wouldn't give.
+Orders to crew, acceptances, refusals, threats, dialogue, improvisation — all declared intent. The DM runs crewmates as people reacting to their captain-by-presence (not by title — nobody calls Merdo "Captain," ever, per `_reference/honorifics.md`). Silent-ignore-while-present is bad prose, not a rule. Don't invent refusal to block the player; don't invent compliance a crewmate wouldn't give.
 
-Everything else — HP, dice, initiative, crowd state, NPC dialogue, world reactions, progression ticks — stays DM-owned.
+Everything — HP, dice, initiative, crowd state, NPC dialogue, world reactions, progression ticks, named attack timing, the body receipts, the fight outcomes — stays DM-owned. Player plays, DM resolves.

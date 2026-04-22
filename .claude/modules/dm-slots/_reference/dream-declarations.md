@@ -95,7 +95,7 @@ Re-declaration registers available:
 - **Saga 6-7:** the STRONGEST (ceiling realization; Cassian Vox naming it aloud is the trigger)
 - **Saga 8-10:** the force the world cannot move past (Emperor-tier or strongest-alive)
 
-**Author-truth:** his "D." will someday reframe the whole thing — saga 8-9 reveal per chekhov `rack-021/022/023`.
+**Canon-parallel:** Merdo's full name is Archon D. Merdo (public, per user directive 2026-04-23). The Will of D. as Void-Century mystery remains saga-late — what the letter MEANS, and what the World Government suppresses about the D. clan, surfaces only through earned play.
 
 ### ASHREN
 **Stated dream (PARTIAL — he doesn't say it aloud, crew knows):** Find other Lunarians. Confirm survivors exist. If none, carry the name forward.

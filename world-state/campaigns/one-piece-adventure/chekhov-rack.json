@@ -156,16 +156,16 @@
     },
     {
       "id": "rack-021",
-      "title": "Merdo's 'D.' — Archon D. Merdo",
-      "status": "DEEP-LOCK",
-      "saga_lock": "saga-late",
-      "fire_pressure": 0,
+      "title": "Merdo's 'D.' — Archon D. Merdo (PUBLIC)",
+      "status": "SURFACED",
+      "saga_lock": "none",
+      "fire_pressure": 10,
       "paired_with": [],
       "seeded_in": "CREW_MASTER:Merdo:AUTHOR_TRUTH",
-      "fire_when": "saga-late. Surfaces only through a specific earned scene (Marine cross-reference, an old villager who knew Mesut's name, a document, a cover-page). May or may not pair-fire with rack-024 (Aslan also carries the D.) — if they happen to fire within one arc of each other, the world's reaction doubles. Do NOT pre-schedule either.",
-      "payoff": "world recalibration. Merdo carries the Will of D. The world notices; Marines file; Revolutionary Army notices; Yonko notice. Merdo does not know beforehand. If Aslan's D. also surfaces (he also carries it), the world reads two brothers carrying the bloodline — different political consequence than one carrier alone.",
-      "surfaced": false,
-      "notes": "Do NOT surface in HUD, dashboards, NPC dialogue, bounty posters, Marine files, or any player-facing prose. Merdo does not know. World does not know. DM reads, DM does not speak. Treat identical to Melaina-Shanks."
+      "fire_when": "Already public. Merdo's full name is Archon D. Merdo — appears in Marine files, bounty posters, News Coo headlines. Canon-parallel to Luffy/Garp/Dragon/Roger/Law. What the Will of D. MEANS (saga-level Void Century mystery) stays canon-unknown; the letter in the name is not hidden.",
+      "payoff": "The name itself carries no hidden reveal anymore. The meaning of the D. (and what the world government actively suppresses about it) is the saga-level thread — fires only if play pushes into it.",
+      "surfaced": true,
+      "notes": "Updated per user directive 2026-04-23: D. is PUBLIC in canon parallel. Nothing to reveal about the letter — it's in the name. The WILL of D. as systemic mystery is separate from the NAME."
     },
     {
       "id": "armed-ashren-ashenmaw",
@@ -186,12 +186,14 @@
       "status": "DEEP-LOCK",
       "saga_lock": "Sabaody convergence window — no pre-scheduled cameo/conversation beats",
       "fire_pressure": 0,
-      "paired_with": ["rack-021"],
+      "paired_with": [
+        "rack-021"
+      ],
       "seeded_in": "CREW_MASTER:Merdo:AUTHOR_TRUTH + ANTAGONISTS:Aslan_stub",
       "fire_when": "EMERGENT. Aslan exists as character canon and arrives at Sabaody Archipelago in the canon Worst Generation convergence window (~Ch 497+). Could cross paths with Merdo before Sabaody at sea, at an island, or not until Sabaody itself — DM shapes in the moment. Recognition is NOT automatic (brothers haven't seen each other in 11 years). First-contact scene is EARNED by play, not pre-scheduled.",
       "payoff": "Defines a major emotional beat of the saga — whenever it fires. Merdo sold himself at 15 to protect Aslan (then 11). Neither knows the current shape of the other. Both carry the Will of D. If play lets them meet as pirate captains without recognizing each other first, that plays one way; if Merdo recognizes Aslan on sight, that plays another; if Aslan recognizes Merdo via his scale or horns or something, another. All valid.",
       "surfaced": false,
-      "notes": "Possibly among the 11 canonical Supernovas at Sabaody depending on bounty timing. Crew name, lieutenants, specific Devil Fruit — all generate at first contact, not pre-loaded. Prior draft had a predetermined Diadem Pirates / Nemean Lion / Callista-pit-history cast and a saga-mid reckoning timetable — that PART is retconned. The brother-is-Aslan fact remains."
+      "notes": "Possibly among the 11 canonical Supernovas at Sabaody depending on bounty timing. Crew name, lieutenants, specific Devil Fruit — all generate at first contact, not pre-loaded. Prior draft had a predetermined Diadem Pirates / Nemean Lion / Callista-pit-history cast and a saga-mid reckoning timetable — that PART is retconned. The brother-is-Aslan fact remains. Both brothers' full names are PUBLIC (user directive 2026-04-23): Archon D. Merdo + Archon D. Aslan. Merdo may hear Aslan's name in rumor via News Coo or merchant talk before they meet. Name recognition triggers Merdo's memory (he last heard it when Aslan was 11)."
     }
   ],
   "_retcon_note_2026_04_22": "Per user directive 2026-04-22 + follow-up: Hadrian's Table saga-endpoint removed. Predetermined cast around Aslan (Diadem Pirates crew name lineup Callista/Ingrid/Esen/Solei, Nemean Lion fruit, Callista-pit-history rack-027, Solei-songs rack-030, island-5/island-6/saga-mid-reckoning schedule) is removed. Aslan himself remains: real younger brother, arrives at Sabaody in the Worst Generation window, possibly Supernova. First contact is emergent, not scheduled. Everything else about him generates at contact moment."

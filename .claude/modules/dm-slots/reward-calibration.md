@@ -12,7 +12,7 @@ Arc-specific planted rewards live in `ACTIVE_PLANTS.md` (hot) and `_reference/ch
 
 **Tier 2 — small wins (per-session):** item gained; information / intel; crew development micro-breakthrough (Sumi names a sword; Nox admits a real shot count); Armament flickered easier; public moment (bookmaker chalked Merdo's name with respect); News Coo half-line.
 
-**Tier 3 — arc rewards (per-arc):** bounty issued / raised; named-attack debuted publicly (via FINISHER COMMIT); new crew member confirmed; major NPC defeated / spared; faction relationship shift; crew bond major moment; plant fires (ACTIVE_PLANTS fire).
+**Tier 3 — arc rewards (per-arc):** bounty issued / raised; named-attack debuted publicly; new crew member confirmed; major NPC defeated / spared; faction relationship shift; crew bond major moment; plant fires (ACTIVE_PLANTS fire).
 
 **Tier 4 — saga rewards (rare, earned):** Conqueror's first burst; the D. revealed; Dragon Fruit found / refused / lost; Yonko encounter survived; major canon-character meeting.
 

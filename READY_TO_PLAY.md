@@ -6,7 +6,7 @@ Fork of [Claude Game Master](https://github.com/Sstobo/Claude-Code-Game-Master) 
 
 ## The one-liner
 
-You play Merdo. The DM runs the world, the crew, and the consequences. Everything you type in the chat is declared intent — the DM writes what happens. The one mechanical lever you have that the DM cannot override is **FINISHER COMMIT**: type an ALL-CAPS quoted named attack and the DM fires the panel with your exact wording.
+You play Merdo. The DM runs the world, the crew, the consequences, and the resolution of everything Merdo does. No mechanical verbs, no special syntax, no override levers — you write what Merdo does, says, thinks, tries, commits to. The DM reads your intent and resolves it in prose. That's the whole contract.
 
 Nobody calls you Captain. You are Merdo.
 
@@ -54,27 +54,19 @@ Just talk. Describe what Merdo does, says, thinks (you control his thoughts), de
 
 All of that is declared intent. DM resolves in prose.
 
-### The one mechanical verb — FINISHER COMMIT
+### Named attacks
 
-Exactly one kind of action gives you an override the DM must honor: firing a named attack at point-of-no-return.
+Named attacks still fire in fights — the DM decides when a scene has earned one, writes the scream, runs the panel, lands the impact. If you already wrote the scream into your own intent ("Merdo roars TOMB-MARKER and brings Judgment down"), the DM may honor your wording when it fits Merdo's register. Either way the DM interprets and resolves.
 
-Trigger any of these:
-
-- **ALL-CAPS quoted named move:** `**"CONQUEROR'S WILL — TOMB-MARKER!"**`
-- **Slash command:** `/dm finish` (DM pulls a name from the library)
-- **Bare commit line:** `"Finish him."` / `"No more. End it."` / `"The kanabo comes up."`
-
-The DM freezes the beat, fires the panel with your wording verbatim, lands the impact, and stops. One finisher per fight.
-
-Your attack grammar (three tiers):
+Merdo's attack grammar (reference, not trigger):
 
 - **Medium** — `DANZAI EIGHT TRIGRAMS — [VERDICT / GUILTY-FOOT / GALLOWS-WEIGHT / CHAIN-MEASURE / WITNESS-GRIP / LAST-WORD / BREAKING-POINT / IRON-GATE]`
-- **Heavy** — `CONQUEROR'S WILL — [TOMB-MARKER / NO PARDON / LAST RITES / RORORORO]` or bare shout `**"CONQUEROR'S WILL!!"**`
-- **Ultimate (saga, not Tessara)** — `DIVINE SUNDERER — [name emerges when fired]`
+- **Heavy** — `CONQUEROR'S WILL — [TOMB-MARKER / NO PARDON / LAST RITES / RORORORO]` or bare shout `CONQUEROR'S WILL!!`
+- **Ultimate (saga-scale, reserved)** — `DIVINE SUNDERER — [name emerges when fired]`
 
 Day-11 ceiling is Conqueror's Will. Divine Sunderer is reserved for saga-peak.
 
-### Everything else is declared intent
+### Everything is declared intent
 
 Orders, threats, improvisation, lying, feasts, silence, trying something weird — just say it. The DM runs the crew like people. They'll comply, push back, question, or refuse based on who they are. Hierarchy is real but they're not robots.
 
@@ -87,7 +79,6 @@ Orders, threats, improvisation, lying, feasts, silence, trying something weird �
 | `/dm-continue character` | Merdo's full sheet |
 | `/dm-continue overview` | World state summary |
 | `/dm-continue status` | Quick state dump |
-| `/dm finish` | Fire a finisher (alternative to typing the name) |
 | `/dm mood <type>` | Request tonal shift — action / quiet / comedy / heart / saga |
 | `/dm dashboard` | "What's cool right now" player-facing |
 | `/dm crew` | Crew status through behavior |

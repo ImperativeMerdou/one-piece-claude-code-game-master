@@ -18,13 +18,12 @@ Craft floor and runtime structure:
 
 - `_preamble.md` — mode gate (VANILLA / ADVANCED)
 - `anti-slop-master.md` — craft floor; prose + canon + dark-fantasy ban
-- `dm-authority.md` — DM owns stats; player owns FINISHER COMMIT
+- `dm-authority.md` — DM owns everything; player describes intent, DM resolves
 - `fight.md` — combat, named attacks, panels, heart, aftermath
 - `length-governor.md` — 300–500w target, dynamic flex
 - `momentum-governor.md` — stall detector with scene-type gates
 - `narration.md` — 3-layer opener, no-footer ending
 - `one-piece-hud.md` — HUD + combat header + crowd gauge
-- `player-verbs.md` — FINISHER COMMIT (the only player mechanical verb)
 - `reward-calibration.md` — cadence of small wins
 - `rules-priority-tiers.md` — this file
 - `search-guide-critical.md` — tool-call hygiene
@@ -69,7 +68,7 @@ Archived sources (Phase 1 surgery, do not reinstate without review):
 
 ## PLAYER-INVOKED
 
-`/dm dashboard`, `/dm highlights` (Phase 2 wiring), `/dm vivre`, `/dm mood`, `/dm genre`, `/dm canon-strict`, `/dm faster`, `/dm slow`, `/dm next time`, `/dm crew`, `/dm finish`, `/dm order <name> <action>`. Detail in `player-verbs.md`, `_reference/session-mood-request.md`, `_reference/genre-dials.md`, `_reference/player-dashboard.md`.
+`/dm dashboard`, `/dm highlights`, `/dm vivre`, `/dm mood`, `/dm genre`, `/dm canon-strict`, `/dm faster`, `/dm slow`, `/dm next time`, `/dm crew`. Detail in `_reference/session-mood-request.md`, `_reference/genre-dials.md`, `_reference/player-dashboard.md`.
 
 ---
 

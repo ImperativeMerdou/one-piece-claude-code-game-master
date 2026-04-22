@@ -180,7 +180,7 @@ At saga-peak, a character who SHOULD be broken can pull ONE more beat through he
 
 Names are NOT spoken during measuring exchanges, light hits, throwaway blows, defensive moves, or first contact.
 
-When the player fires a FINISHER COMMIT (see [`player-verbs.md`](player-verbs.md)), the DM honors the attack name verbatim and runs the panel format below. Named attacks for NPC opponents deploy under the same gating, DM-timed.
+Named attacks fire when the DM decides the scene has earned one. If the player's declared intent includes a shouted attack name (e.g. "Merdo screams THE TOMB-MARKER and brings Judgment down"), the DM may honor that wording when running the panel — or may reshape it to fit Merdo's register. Either way the DM decides whether the panel fires, what breaks, and what the aftermath is. Named attacks for NPC opponents deploy under the same gating, DM-timed.
 
 ### Panel format
 
@@ -308,7 +308,7 @@ Per-crew movement grammar during fights:
 - Don't forget weather / lighting / elevation.
 - Don't narrate strategic analysis as internal monologue. Show the beat sequence.
 - Don't repeat the full formal name of a technique within the same fight more than once. Once is the beat. Twice is slop.
-- Don't let the player narrate Merdo's named attacks WITHOUT a FINISHER COMMIT — but when the player DOES commit, honor the name verbatim per [`player-verbs.md`](player-verbs.md).
+- Don't turn every Merdo strike into a named-attack event — rule of one or two names per fight regardless of player wording.
 
 ---
 

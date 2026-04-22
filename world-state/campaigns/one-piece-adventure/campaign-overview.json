@@ -27,7 +27,7 @@
   "campaign_rules": {
     "no_dnd_math_in_prose": true,
     "no_captain_address_ever": true,
-    "player_verb_single": "FINISHER COMMIT only. Orders / acceptances / refusals are declared intent.",
+    "player_contract": "No player mechanical verbs. Player writes intent; DM resolves. Named attacks fire when DM decides the scene earns one.",
     "day_11_attack_ceiling": "CONQUEROR'S WILL (heavy tier). DIVINE SUNDERER does NOT fire at Tessara.",
     "destruction_tier_cap_tessara": "wall cracked / rail splintered / floor showed the strike — no building collapse, no island-topography change",
     "opponent_tier_cap_tessara": "Commodore at maximum (Hudore in the Cup final only). No Vice Admiral / Admiral / Yonko / Warlord present.",

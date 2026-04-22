@@ -140,7 +140,7 @@ Just disbanded post-Alabasta. Agents scattering. Some going back to normal lives
 
 Canon unknown-as-yet names with "D." in them. Monkey D. Luffy, Monkey D. Garp, Monkey D. Dragon, Portgas D. Ace, Marshall D. Teach, Trafalgar D. Water Law, Gol D. Roger, Jaguar D. Saul.
 
-**Merdo is NOT currently a D.** Do not retroactively insert. The Will of D. is a saga-late theme — do not accidentally activate it early.
+**Merdo IS a D. — public.** Full name: **Archon D. Merdo** (user directive 2026-04-23). Brother **Archon D. Aslan** also public. Both names appear in Marine files, bounty posters, News Coo headlines. Canon-parallel: the letter is in the name the same way it's in Monkey D. Luffy / Gol D. Roger / Trafalgar D. Water Law. The WILL of D. as Void-Century systemic mystery (what the letter MEANS, what the World Government suppresses about the D. clan) remains canon-unknown — that's saga-late, separate from the name itself. Don't pre-activate the Void-Century meaning; let it surface through earned play.
 
 ---
 

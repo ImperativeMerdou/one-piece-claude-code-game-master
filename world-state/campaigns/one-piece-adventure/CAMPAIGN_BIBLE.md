@@ -67,11 +67,11 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 - **Merdo is the player.** Never narrate his actions, dialogue, choices, or internal reactions as settled fact. Always ask.
 - **Merdo is straight; women only** for romance/NSFW (per `feedback_nsfw_straight_wide_scope.md`).
 - **Dark / generic fantasy BANNED FOREVER** (per `anti-slop-master.md` → "DARK FANTASY / GENERIC FANTASY — BANNED FOREVER" section).
+- **Public canon names.** Merdo's full name is **Archon D. Merdo** — not hidden, not a mystery. Marine files list him as Archon D. Merdo. Bounty posters when they print will print the full name. Civilians know the full name. Treat the D. the same way canon treats Monkey D. Luffy / Monkey D. Garp / Monkey D. Dragon / Gol D. Roger / Portgas D. Ace / Trafalgar D. Water Law / Marshall D. Teach: the letter is in the name, right there, nothing hidden. What the Will of D. MEANS (the saga-level Void Century mystery) remains canon-unknown, the same way canon keeps it unknown — but the letter itself is not a secret.
+- **Aslan's D. is also public.** His full name is **Archon D. Aslan**. Brothers both carry the family's D. — world-known in both cases.
 - **DEEP-LOCK plants NEVER surface in player-facing text, HUD, dashboards, NPC dialogue, bounty posters, or Marine files** until the player's play organically pressures them toward surface. These are character depth — do NOT pre-schedule reveal beats:
   - rack-003 (Melaina's mother = Shanks) — fires only if player pushes into Melaina's history hard.
-  - rack-021 (Merdo's "D." — full name Archon D. Merdo) — surfaces through an earned scene, or not at all.
-  - rack-024 (Merdo's younger brother Aslan is alive and captain of his own crew) — Aslan went to sea after Merdo was sold. Both brothers carry the D. Aslan doesn't yet know the shape of why Merdo disappeared; Merdo has not spoken Aslan's name since the sale. **Aslan arrives at Sabaody Archipelago in the Worst Generation convergence window — same time as Merdo. He may or may not be counted among the Supernovas depending on bounty timing.** DO NOT pre-schedule cameo/conversation/recognition beats — they fire when earned in play. The brothers might meet before Sabaody at sea, at an island, or not until Sabaody. Recognition is not automatic — they haven't seen each other in 11 years.
-- **Merdo's brother reveal is NOT pre-scheduled.** Aslan exists as world-canon character truth. WHEN he surfaces in the crew's path, HOW recognition lands (if at all), and WHAT the first conversation becomes — all emergent from play. No "saga-mid reckoning" timetable.
+  - rack-024 (Merdo's younger brother Aslan is alive and captain of his own crew) — Aslan went to sea after Merdo was sold. **Aslan arrives at Sabaody Archipelago in the Worst Generation convergence window — same time as Merdo. He may or may not be counted among the Supernovas depending on bounty timing.** The brothers haven't seen each other in 11 years — recognition is not automatic even if both names are public, because neither has a recent photo or bounty-poster of the other. Aslan's name being public means CIVILIANS and MARINES can reference "Archon D. Aslan" and Merdo may hear it in rumor before they meet. The name triggers Merdo's memory. DO NOT pre-schedule cameo/conversation/recognition beats — fire when earned in play.
 - **No Brenne.** Not in the roster. Do not introduce.
 - **Archived, do not narrate present-tense:** Darius Ravager, Ernst Rook. Departed Day 11. No cameo, no letter, no Den Den Mushi.
 
@@ -82,7 +82,7 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 | Concept | Canonical owner |
 |---|---|
 | Combat (spatial, named attacks, panels, heart, aftermath) | `.claude/modules/dm-slots/fight.md` |
-| Player verb (FINISHER COMMIT — the only one) | `.claude/modules/dm-slots/player-verbs.md` |
+| Player / DM contract (no player mechanics; DM interprets and resolves) | `.claude/modules/dm-slots/dm-authority.md` |
 | Anti-slop craft floor (body agency, filter words, density, dark-fantasy ban, 3 prose registers) | `.claude/modules/dm-slots/anti-slop-master.md` |
 | Canon fidelity gut-check | folded into `.claude/modules/dm-slots/anti-slop-master.md` |
 | Tier map | `.claude/modules/dm-slots/rules-priority-tiers.md` |
@@ -120,7 +120,7 @@ If this is the campaign's first live `/dm` session after bootstrap:
 2. Verify player has a `character.json` — if not, `/create-character` is disabled for this campaign per Merdo being pre-designed (see `.claude/commands/dm.md` one-shot note). Merdo's sheet will need manual creation from CREW_RUNTIME.md entry.
 3. Open scene: Golgatha at Tessara harbor, Day 11 morning. Sumi and Nox on the dock — pending acceptance is the opening beat.
 
-The first scene's pivot: does Merdo accept Sumi and Nox onto the crew? Everything downstream (rack-011 fire, rack-012 first partial, Cup sign-up, Yann's next move) branches from this. Surface the decision diegetically — pending-acceptance pressure from Sumi + Nox on the dock — and let Merdo answer in his own wording. Orders, acceptances, refusals are all declared intent; the only player mechanical verb is FINISHER COMMIT (per `player-verbs.md`).
+The first scene's pivot: does Merdo accept Sumi and Nox onto the crew? Everything downstream (rack-011 fire, rack-012 first partial, Cup sign-up, Yann's next move) branches from this. Surface the decision diegetically — pending-acceptance pressure from Sumi + Nox on the dock — and let Merdo answer in his own wording. Player plays; DM resolves. No mechanical verbs.
 
 ## Path to Sabaody
 

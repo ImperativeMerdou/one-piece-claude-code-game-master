@@ -77,7 +77,7 @@ The triggered rituals that make a session feel like an episode:
 - **Session shape** (title card + optional cold open + eyecatch + cliffhanger + NEXT TIME ON) — `_reference/session-episode-structure.md`
 - **Island arrival 4-beat** — `_reference/island-arrival.md` (every new island)
 - **Named attack + panel grammar + spatial logic** — `fight.md` (always-on; combat owner)
-- **Dream declaration** — `_reference/dream-declarations.md` (≥1 per arc, player-owned moment per `player-verbs.md` FINISHER COMMIT)
+- **Dream declaration** — `_reference/dream-declarations.md` (≥1 per arc; DM frames the moment, player writes Merdo's words as intent, DM resolves)
 - **Nakama moment / feast** — `_reference/nakama-moments.md` (feast mandatory at arc close)
 - **Goodbye beat** — `_reference/goodbye-beats.md` (arc close)
 - **Flag and covenant** — `_reference/flag-and-covenant.md` (new-member accept, saga-defiance, raising)
@@ -94,7 +94,6 @@ Always-on craft owners (do NOT need to be read on trigger — they're already in
 - `one-piece-hud.md` — HUD and combat header
 - `momentum-governor.md` — stall detection
 - `reward-calibration.md` — cadence of small wins
-- `player-verbs.md` — FINISHER COMMIT (the only player mechanical verb)
 
 ---
 

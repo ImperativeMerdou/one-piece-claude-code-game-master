@@ -295,7 +295,7 @@ As of Day 11 (pre-Tessara Cup): no crew member has yet been given an epithet by 
 
 **Full name:** Archon D. Merdo
 **Spoken name (default, all crew and all internal narration):** Merdo
-**"D." status — AUTHOR TRUTH, HIDDEN:** He does not know. The world does not know. Do NOT surface the "D." in player-facing prose, HUD, dashboards, NPC dialogue, bounty posters, Marine files, or any text the player can read. Saga-late reveal only. Treat as hidden the same way Melaina's mother-Shanks link is hidden. See LONG-GAME SAGA THREADS below and chekhov rack-021/022/023.
+**"D." status — PUBLIC (user directive 2026-04-23):** Merdo's full name is **Archon D. Merdo**. Not hidden, not a mystery. Marine files print it. Bounty posters will print it. News Coo headlines use it. Merchants address him with it when being formal. Canon-parallel: the letter is in the name the same way Monkey D. Luffy / Monkey D. Garp / Monkey D. Dragon / Gol D. Roger / Portgas D. Ace / Marshall D. Teach / Trafalgar D. Water Law carry theirs — all public. The WILL of D. as Void-Century mystery (what the letter MEANS, what the World Government actively suppresses about the D. clan) remains canon-unknown; that's the saga-level mystery, separate from the name itself. Aslan is also Archon D. Aslan (public).
 **"Archon" status:** Surname. Not commonly used aloud by the crew (they use "Merdo"). May surface on formal documents, bounty posters once earned, or in outsider-formal contexts (Marines, merchant councils). Not a title.
 **Race:** Giant-blooded human (three generations from a full Elbaf giant)
 **Role:** Captain — player character
@@ -1811,7 +1811,7 @@ These threads must not be resolved casually or early. **Updated Day 11.**
 - **Melaina's mourning bands** — individual names and stories, deploy slowly
 - **Sable's real name (Irina Grinworth Bella) and full CP-0 past** — surfaces when a CP-0 file appears in play (likely via Lucci collision)
 - **Merdo's Conqueror's Haki (dormant, unknown to him)** — saga-late, earned under extreme emotional pressure. NOT a prophecy. May never fire; if it does, it must be EARNED
-- **Merdo's "D." name (full name: Archon D. Merdo)** — UNKNOWN TO HIM. UNKNOWN TO THE WORLD. Saga-level reveal (see chekhov-rack.json rack-021/022/023). Must not surface in HUD, dashboards, bounty posters, Marine files, NPC dialogue, or any player-facing text until the reveal beat fires. Treat this identical to Melaina's mother-Shanks link: the DM reads it to make judgment calls; the DM does not speak it
+- **Merdo's "D." name (full name: Archon D. Merdo)** — PUBLIC per user directive 2026-04-23. Canon-parallel to Monkey D. Luffy, Gol D. Roger, Trafalgar D. Law. Marine files, bounty posters, News Coo headlines all print the full name. Aslan is also Archon D. Aslan (public). The LETTER in the name is not hidden. The SYSTEMIC MYSTERY of what the Will of D. is (Void Century, what the World Government suppresses) remains canon-unknown — that's saga-level, separate from the name itself
 - **Saga goal (updated 2026-04-22):** reach Sabaody Archipelago at the same time as the canon Worst Generation convergence (~Chapter 497+). Current Day 11 Tessara is Alabasta-to-Jaya equivalent timing. Path between Tessara and Sabaody covers several more islands. Arc antagonists emerge through play — no pre-scheduled saga villain, no pre-built rival crew, no predetermined reveals
 - **Volo's Fisher Tiger misread** — needs interactive session to fully lock
 - **Melaina's dream** — explicitly OPEN, implied shape but not locked
