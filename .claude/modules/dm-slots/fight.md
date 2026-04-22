@@ -180,7 +180,7 @@ At saga-peak, a character who SHOULD be broken can pull ONE more beat through he
 
 Names are NOT spoken during measuring exchanges, light hits, throwaway blows, defensive moves, or first contact.
 
-Named attacks fire when the DM decides the scene has earned one. If the player's declared intent includes a shouted attack name (e.g. "Merdo screams THE TOMB-MARKER and brings Judgment down"), the DM may honor that wording when running the panel — or may reshape it to fit Merdo's register. Either way the DM decides whether the panel fires, what breaks, and what the aftermath is. Named attacks for NPC opponents deploy under the same gating, DM-timed.
+Named attacks fire when a CYOA option names one (e.g. `[1] Bring Judgment down — scream "TOMB-MARKER!"`) and the player picks it, or when the player's freeform intent names one, or when the DM decides the scene has earned one. DM writes the freeze-beat (1-2 sentences of setup), the scream / named-attack panel using the option's wording when it fits Merdo's register (or reshapes to fit), the impact + immediate aftermath, and the post-peak body receipt. DAY-11 CEILING: CONQUEROR'S WILL tier. DIVINE SUNDERER is saga-reserved — don't offer as a CYOA option at Tessara.
 
 ### Panel format
 
@@ -308,7 +308,8 @@ Per-crew movement grammar during fights:
 - Don't forget weather / lighting / elevation.
 - Don't narrate strategic analysis as internal monologue. Show the beat sequence.
 - Don't repeat the full formal name of a technique within the same fight more than once. Once is the beat. Twice is slop.
-- Don't turn every Merdo strike into a named-attack event — rule of one or two names per fight regardless of player wording.
+- Don't turn every Merdo strike into a named-attack event — rule of one or two names per fight, regardless of how many CYOA options name attacks.
+- Combat CYOA options should mix across tones: named-attack commit, defensive read, comedy-mid-fight, retreat/reposition, crew-order. Not four versions of the same punch.
 
 ---
 

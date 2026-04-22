@@ -11,9 +11,9 @@
   "active_arc": "Day 11 — Tessara Port",
   "saga": "Merdo Saga — Year 1",
   "player_position": {
-    "previous_location": "Tessara Port — Golgatha harbor berth",
-    "current_location": "Tessara Port — Pier Quarter (Cup plaza lane)",
-    "arrival_time": "2026-04-21 23:54:01 UTC"
+    "previous_location": "Tessara Port — Pier Quarter (Cup plaza lane)",
+    "current_location": "Tessara Port — Tea-house front window (Yann's morning table)",
+    "arrival_time": "2026-04-22 10:39:08 UTC"
   },
   "time_of_day": "Morning",
   "current_date": "Day 11 — Tessara Port",
@@ -27,7 +27,7 @@
   "campaign_rules": {
     "no_dnd_math_in_prose": true,
     "no_captain_address_ever": true,
-    "player_contract": "No player mechanical verbs. Player writes intent; DM resolves. Named attacks fire when DM decides the scene earns one.",
+    "player_contract": "CYOA mode. Player picks [1]-[4] or freeform [5]. DM authors Merdo fully — actions, dialogue, thoughts, interior — based on chosen direction. Puppeting allowed. Anime / kinetic / cartoon register mandatory every response (at least two of: SFX / named laugh / CAPS / visual comedy / kinetic verb / verbal tic).",
     "day_11_attack_ceiling": "CONQUEROR'S WILL (heavy tier). DIVINE SUNDERER does NOT fire at Tessara.",
     "destruction_tier_cap_tessara": "wall cracked / rail splintered / floor showed the strike — no building collapse, no island-topography change",
     "opponent_tier_cap_tessara": "Commodore at maximum (Hudore in the Cup final only). No Vice Admiral / Admiral / Yonko / Warlord present.",
@@ -44,10 +44,30 @@
         "bounty_berries": 0
       },
       "stat_consequences": [
-        {"stat": "ship_hull", "threshold": 30, "comparison": "<=", "event": "The Golgatha is visibly damaged. Merchants avoid the pier. Crew morale drops."},
-        {"stat": "ship_hull", "threshold": 10, "comparison": "<=", "event": "The Golgatha is barely seaworthy. The Twenty are patching in shifts."},
-        {"stat": "crew_morale", "threshold": 30, "comparison": "<=", "event": "The crew is thin. Mako's visible-fear barometer tight. Feasts, comedy beats, or a real win needed."},
-        {"stat": "crew_morale", "threshold": 80, "comparison": ">=", "event": "The crew is loud. Feast energy. Volo commits the crew to three more things before sundown."}
+        {
+          "stat": "ship_hull",
+          "threshold": 30,
+          "comparison": "<=",
+          "event": "The Golgatha is visibly damaged. Merchants avoid the pier. Crew morale drops."
+        },
+        {
+          "stat": "ship_hull",
+          "threshold": 10,
+          "comparison": "<=",
+          "event": "The Golgatha is barely seaworthy. The Twenty are patching in shifts."
+        },
+        {
+          "stat": "crew_morale",
+          "threshold": 30,
+          "comparison": "<=",
+          "event": "The crew is thin. Mako's visible-fear barometer tight. Feasts, comedy beats, or a real win needed."
+        },
+        {
+          "stat": "crew_morale",
+          "threshold": 80,
+          "comparison": ">=",
+          "event": "The crew is loud. Feast energy. Volo commits the crew to three more things before sundown."
+        }
       ],
       "rules": [
         "Haki stats advance ONLY via world-earned beats — first Conqueror's burst, first Observation precog save, first Armament break of a Haki-coated shell. DM narrates the event, then ticks the stat. Not time-based.",

@@ -18,7 +18,8 @@ Craft floor and runtime structure:
 
 - `_preamble.md` — mode gate (VANILLA / ADVANCED)
 - `anti-slop-master.md` — craft floor; prose + canon + dark-fantasy ban
-- `dm-authority.md` — DM owns everything; player describes intent, DM resolves
+- `dm-authority.md` — DM owns everything, INCLUDING writing Merdo based on player's CYOA direction
+- `player-verbs.md` — CYOA mode spec: player picks [1]-[4] or freeform [5]; DM authors Merdo fully
 - `fight.md` — combat, named attacks, panels, heart, aftermath
 - `length-governor.md` — 300–500w target, dynamic flex
 - `momentum-governor.md` — stall detector with scene-type gates

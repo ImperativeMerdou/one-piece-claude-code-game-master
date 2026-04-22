@@ -64,7 +64,7 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 
 ## Permanent locks (do NOT violate)
 
-- **Merdo is the player.** Never narrate his actions, dialogue, choices, or internal reactions as settled fact. Always ask.
+- **CYOA MODE ACTIVE (2026-04-23 directive).** Player is the DIRECTOR, Merdo is the AUTHORED character. Every response ends with 4 diegetic options + [5] freeform escape. Player picks; DM writes Merdo fully — actions, dialogue, thoughts, interior — executing the chosen direction. Puppeting is EXPLICITLY ALLOWED. This supersedes the prior "never narrate Merdo" rule. See `_preamble.md` top-load rule 1-2 + `player-verbs.md`.
 - **Merdo is straight; women only** for romance/NSFW (per `feedback_nsfw_straight_wide_scope.md`).
 - **Dark / generic fantasy BANNED FOREVER** (per `anti-slop-master.md` → "DARK FANTASY / GENERIC FANTASY — BANNED FOREVER" section).
 - **Public canon names.** Merdo's full name is **Archon D. Merdo** — not hidden, not a mystery. Marine files list him as Archon D. Merdo. Bounty posters when they print will print the full name. Civilians know the full name. Treat the D. the same way canon treats Monkey D. Luffy / Monkey D. Garp / Monkey D. Dragon / Gol D. Roger / Portgas D. Ace / Trafalgar D. Water Law / Marshall D. Teach: the letter is in the name, right there, nothing hidden. What the Will of D. MEANS (the saga-level Void Century mystery) remains canon-unknown, the same way canon keeps it unknown — but the letter itself is not a secret.
@@ -82,7 +82,9 @@ On drift: masters win. Re-generate runtime files from masters; do not patch dist
 | Concept | Canonical owner |
 |---|---|
 | Combat (spatial, named attacks, panels, heart, aftermath) | `.claude/modules/dm-slots/fight.md` |
-| Player / DM contract (no player mechanics; DM interprets and resolves) | `.claude/modules/dm-slots/dm-authority.md` |
+| Player / DM contract — CYOA mode, DM authors Merdo based on player direction | `.claude/modules/dm-slots/player-verbs.md` + `dm-authority.md` |
+| CYOA footer format spec | `.claude/modules/dm-slots/one-piece-hud.md` + `player-verbs.md` |
+| Anime / kinetic / cartoon register MANDATORY every response | `_preamble.md` top-load rule 3 + `narrator-styles/shonen-one-piece.md` VISUAL COMEDY GRAMMAR |
 | Anti-slop craft floor (body agency, filter words, density, dark-fantasy ban, 3 prose registers) | `.claude/modules/dm-slots/anti-slop-master.md` |
 | Canon fidelity gut-check | folded into `.claude/modules/dm-slots/anti-slop-master.md` |
 | Tier map | `.claude/modules/dm-slots/rules-priority-tiers.md` |

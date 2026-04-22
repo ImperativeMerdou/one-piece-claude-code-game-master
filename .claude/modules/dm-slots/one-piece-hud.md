@@ -44,34 +44,71 @@ Fire HUD at scene transitions and session starts, not every response.
 
 ---
 
-## No footer
+## CYOA FOOTER — mandatory every response
 
-Per `narration.md` + `length-governor.md`: the scene ends on its natural beat. Do NOT append `═══ What's your move? ═══` or `[A]ttack [M]ove` brackets. The final sentence IS the hook.
+Per `_preamble.md` top-load rule 1 + `player-verbs.md` + `narration.md`: every scene-resolving response ends with the CYOA footer. Scene prose lands on a natural beat (action / dialogue / image / changed constraint), then the footer fires below it.
+
+### Format (exact)
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏴‍☠️  WHAT DOES MERDO DO?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [1] <action — one line, specific, scene-native>
+  [2] <different tone / path>
+  [3] <risky / comedic / unexpected alt>
+  [4] <quiet / tactical / weird alt>
+  [5] Or tell me what Merdo does.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+Each option ≤20 words. Always 4 numbered options + [5] freeform. Never more, never fewer.
+
+### Example — post-action scene
 
 ```
 Ezrad's already moving. The crowd is screaming. Volo is
 shouting something obscene from the front row. Sumi has
 climbed onto the railing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏴‍☠️  WHAT DOES MERDO DO?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [1] Close the distance. Spiked gauntlet first, no Haki yet.
+  [2] Let him swing. Catch the cleaver on Judgment's iron.
+  [3] RORORORO — drop into a feint, watch his eyes.
+  [4] Yell to Sumi: "OFF THE RAIL. NOW."
+  [5] Or tell me what Merdo does.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-Scene leaves the decision live. Player picks it up.
-
-### When to offer diegetic options
-
-When the scene genuinely pauses (a quiet moment between crises), offer 3–4 visible paths + an explicit freeform:
+### Example — quiet scene
 
 ```
 The crew is quiet. The Golgatha rocks under the dock.
 Vesper is watching Merdo over the rim of her medical mug.
 
-  ▸ Sit with Vesper. Whatever she's not saying.
-  ▸ Walk to the prow. Mornings alone, the crew knows.
-  ▸ Find Sumi — she's been quiet for twenty minutes.
-  ▸ Find Nox — he was asking about something.
-  ▸ Or whatever Merdo does instead.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏴‍☠️  WHAT DOES MERDO DO?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [1] Sit across from her. "Whatever you're not saying — say it."
+  [2] Walk to the prow. Mornings alone, the crew knows.
+  [3] Find Sumi — she's been quiet for twenty minutes, unusual.
+  [4] Find Nox — he was asking about something this morning.
+  [5] Or tell me what Merdo does.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-Always include the freeform option. Never restrict. Never address the player as "Captain" in a menu — the crew does not default to that, and neither does the UI.
+### Option design rules (quick)
+
+- **Diegetic** — emerges from what's visible on screen (named NPCs, visible objects, active pressures)
+- **Character-true** — Merdo as established in `CREW_RUNTIME.md`
+- **Varied** — aggressive / cunning / absurd / tender — not four versions of the same action
+- **Specific** — gesture + destination + stakes, ≤20 words
+- **No outcomes implied** — the option is an INTENT, not a result. *"Try to disarm"* not *"Disarm."*
+- **Never address the player as "Captain"** — never in an option, never in a header. Merdo is "Merdo."
+
+Full format + edge cases in `player-verbs.md`.
 
 ---
 
